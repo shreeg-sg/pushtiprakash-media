@@ -4,7 +4,7 @@
   "updateBannerMessage": {
     "hi": "नया अध्याय जोड़ा गया: श्री यमुनाष्टकम् अर्थ सहित!",
     "gu": "નવું પ્રકરણ ઉમેરાયું: શ્રી યમુનાષ્ટકમ્ અર્થ સાથે!",
-    "en": "New chapter added: Shri Yamunashtakam with translation!"
+    "en": "New chapter added: Shri Yamunashtakam with translation! by sam"
   },
   "app_identity": {
     "defaultAppName": "PushtiPrakash",
@@ -212,9 +212,9 @@
             "en": "Having bowed to Lord Hari, who is eternal bliss, I state the well-established conclusion of all scriptures for the enlightenment of beginners."
           },
           "audioUrl": {
-            "hi": "",
-            "gu": "",
-            "en": ""
+            "hi": "audio/MANGLACHARANAM.mp3",
+            "gu": "audio/MANGLACHARANAM.mp3",
+            "en": "audio/MANGLACHARANAM.mp3"
           }
         }
       ]
