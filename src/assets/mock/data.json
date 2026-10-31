@@ -4,7 +4,7 @@
   "updateBannerMessage": {
     "hi": "नया अध्याय जोड़ा गया: श्री यमुनाष्टकम् अर्थ सहित!",
     "gu": "નવું પ્રકરણ ઉમેરાયું: શ્રી યમુનાષ્ટકમ્ અર્થ સાથે!",
-    "en": "New chapter added: Updated notificaiton"
+    "en": "New chapter added: 31st Oct 2026, 1:18 PM"
   },
   "app_identity": {
     "defaultAppName": "PushtiPrakash",
@@ -253,8 +253,8 @@
         "gu": "આજનું પ્રકરણ વાંચવાનું ભૂલશો નહીં.",
         "en": "Take 5 minutes for your evening chapter reading."
       },
-      "hour": 19,
-      "minute": 30,
+      "hour": 13,
+      "minute": 35,
       "repeatsDaily": true
     },
     {
@@ -270,9 +270,9 @@
       "gu": "આજે પ્રબોધિની એકાદશીનો પવિત્ર પર્વ છે.",
       "en": "Today is Prabodhini Ekadashi. Read Shri Yamunashtakam."
     },
-    "date": "2026-11-20",
-    "hour": 6,
-    "minute": 0,
+    "date": "2026-10-31",
+    "hour": 13,
+    "minute": 30,
     "targetBookId": "book_shodash_granth",
     "targetChapterId": "ch_yamunashtakam"
   }
