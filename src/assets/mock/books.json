@@ -49,5 +49,58 @@
           "contentUrl": "chapters/book_shodash_granth/ch_balabodha.json"
         }
       ]
+    },
+    [
+    {
+      "id": "book_84_varta",
+      "order": 2,
+      "isVisible": true,
+      "coverImageUrl": "images/shodash_granth.jpg",
+      "title": {
+        "hi": "84 varta",
+        "gu": "84 varta",
+        "en": "84 varta"
+      },
+      "subtitle": {
+        "hi": "महाप्रभु श्री वल्लभाचार्य विरचित 84 ग्रंथ",
+        "gu": "મહાપ્રભુ શ્રી વલ્લભાચાર્ય રચિત 84 ગ્રંથો",
+        "en": "84 Foundational Treatises by Shri Vallabhacharya"
+      },
+      "chapters": [
+        {
+          "id": "ch_varta_1",
+          "order": 1,
+          "isVisible": true,
+          "title": {
+            "hi": "१. श्री यमुनाष्टकम्",
+            "gu": "૧. શ્રી યમુનાષ્ટકમ્",
+            "en": "1. Shri Yamunashtakam"
+          },
+          "audioUrl": {
+            "hi": "audio/yamunashtakam.mp3",
+            "gu": "audio/yamunashtakam.mp3",
+            "en": "audio/yamunashtakam.mp3"
+          },
+          "durationSeconds": 245,
+          "contentUrl": "chapters/book_shodash_granth/ch_yamunashtakam.json"
+        },
+        {
+          "id": "ch_varta_2",
+          "order": 2,
+          "isVisible": true,
+          "title": {
+            "hi": "२. बालबोधः",
+            "gu": "૨. બાલબોધઃ",
+            "en": "2. Balabodha"
+          },
+          "audioUrl": {
+            "hi": "audio/MANGALACHARANAM.mp3",
+            "gu": "audio/MANGALACHARANAM.mp3",
+            "en": "audio/MANGALACHARANAM.mp3"
+          },
+          "contentUrl": "chapters/book_shodash_granth/ch_balabodha.json"
+        }
+      ]
     }
+  ]
   ]
