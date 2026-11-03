@@ -20,156 +20,356 @@
         "order": 1,
         "isVisible": true,
         "title": {
-          "hi": "मंगलाचरण (Pratah Smaran)",
-          "gu": "મંગલાચરણ (પ્રાતઃ સ્મરણ)",
+          "hi": "मंगलाचरण (Pratah Smaran & Mangalacharanam)",
+          "gu": "મંગલાચરણ (પ્રાતઃ સ્મરણ અને મંગલાચરણ)",
           "en": "Mangalacharanam (Daily Invocation)"
         },
-        "subtitle": { "hi": "श्री वल्लभाचार्य चरण वंदना", "gu": "શ્રી વલ્લભાચાર્ય ચરણ વંદના", "en": "Invocation to Shri Vallabhacharya" },
-        "audioUrl": { "hi": "audio/mangalacharanam.mp3", "gu": "audio/mangalacharanam.mp3", "en": "audio/mangalacharanam.mp3" },
+        "subtitle": {
+          "hi": "श्री वल्लभाचार्य चरण वंदना",
+          "gu": "શ્રી વલ્લભાચાર્ય ચરણ વંદના",
+          "en": "Invocation to Shri Vallabhacharya"
+        },
+        "audioUrl": {
+          "hi": "audio/mangalacharanam.mp3",
+          "gu": "audio/mangalacharanam.mp3",
+          "en": "audio/mangalacharanam.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_mangalacharanam.json"
       },
       {
         "id": "ch_sg_yamunashtakam",
         "order": 2,
         "isVisible": true,
-        "title": { "hi": "१. श्री यमुनाष्टकम्", "gu": "૧. શ્રી યમુનાષ્ટકમ્", "en": "1. Shri Yamunashtakam" },
-        "subtitle": { "hi": "प्रथम ग्रंथ - श्री यमुनाजी का स्तवन", "gu": "પ્રથમ ગ્રંથ - શ્રી યમુનાજીનું સ્તવન", "en": "1st Treatise - Hymn to Shri Yamuna" },
-        "audioUrl": { "hi": "audio/yamunashtakam.mp3", "gu": "audio/yamunashtakam.mp3", "en": "audio/yamunashtakam.mp3" },
+        "title": {
+          "hi": "१. श्री यमुनाष्टकम्",
+          "gu": "૧. શ્રી યમુનાષ્ટકમ્",
+          "en": "1. Shri Yamunashtakam"
+        },
+        "subtitle": {
+          "hi": "प्रथम ग्रंथ - श्री यमुनाजी का स्तवन",
+          "gu": "પ્રથમ ગ્રંથ - શ્રી યમુનાજીનું સ્તવન",
+          "en": "1st Treatise - Hymn to Shri Yamuna"
+        },
+        "audioUrl": {
+          "hi": "audio/yamunashtakam.mp3",
+          "gu": "audio/yamunashtakam.mp3",
+          "en": "audio/yamunashtakam.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_yamunashtakam.json"
       },
       {
         "id": "ch_sg_balabodha",
         "order": 3,
         "isVisible": true,
-        "title": { "hi": "२. बालबोधः", "gu": "૨. બાલબોધઃ", "en": "2. Balabodha" },
-        "subtitle": { "hi": "द्वितीय ग्रंथ - नवदीक्षितों हेतु मार्गदर्शन", "gu": "દ્વિતીય ગ્રંથ - નવદીક્ષિતો માટે માર્ગદર્શન", "en": "2nd Treatise - Knowledge for Seekers" },
-        "audioUrl": { "hi": "audio/balabodha.mp3", "gu": "audio/balabodha.mp3", "en": "audio/balabodha.mp3" },
+        "title": {
+          "hi": "२. बालबोधः",
+          "gu": "૨. બાલબોધઃ",
+          "en": "2. Balabodha"
+        },
+        "subtitle": {
+          "hi": "द्वितीय ग्रंथ - नवदीक्षितों हेतु मार्गदर्शन",
+          "gu": "દ્વિતીય ગ્રંથ - નવદીક્ષિતો માટે માર્ગદર્શન",
+          "en": "2nd Treatise - Knowledge for Seekers"
+        },
+        "audioUrl": {
+          "hi": "audio/balabodha.mp3",
+          "gu": "audio/balabodha.mp3",
+          "en": "audio/balabodha.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_balabodha.json"
       },
       {
         "id": "ch_sg_siddhanta_muktavali",
         "order": 4,
         "isVisible": true,
-        "title": { "hi": "३. सिद्धान्तमुक्तावली", "gu": "૩. સિદ્ધાન્તમુક્તાવલી", "en": "3. Siddhanta Muktavali" },
-        "subtitle": { "hi": "तृतीय ग्रंथ - सेवा एवं ज्ञान का समन्वय", "gu": "તૃતીય ગ્રંથ - સેવા અને જ્ઞાનનો સમન્વય", "en": "3rd Treatise - The Pearl Necklace of Tenets" },
-        "audioUrl": { "hi": "audio/siddhanta_muktavali.mp3", "gu": "audio/siddhanta_muktavali.mp3", "en": "audio/siddhanta_muktavali.mp3" },
+        "title": {
+          "hi": "३. सिद्धान्तमुक्तावली",
+          "gu": "૩. સિદ્ધાન્તમુક્તાવલી",
+          "en": "3. Siddhanta Muktavali"
+        },
+        "subtitle": {
+          "hi": "तृतीय ग्रंथ - सेवा एवं ज्ञान का समन्वय",
+          "gu": "તૃતીય ગ્રંથ - સેવા અને જ્ઞાનનો સમન્વય",
+          "en": "3rd Treatise - The Pearl Necklace of Tenets"
+        },
+        "audioUrl": {
+          "hi": "audio/siddhanta_muktavali.mp3",
+          "gu": "audio/siddhanta_muktavali.mp3",
+          "en": "audio/siddhanta_muktavali.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_siddhanta_muktavali.json"
       },
       {
         "id": "ch_sg_pushti_pravaha_maryada",
         "order": 5,
         "isVisible": true,
-        "title": { "hi": "४. पुष्टिप्रवाहमर्यादाभेदः", "gu": "૪. પુષ્ટિપ્રવાહમર્યાદાભેદઃ", "en": "4. Pushti Pravaha Maryada Bheda" },
-        "subtitle": { "hi": "चतुर्थ ग्रंथ - तीन प्रकार के जीवों का भेद", "gu": "ચતુર્થ ગ્રંથ - ત્રણ પ્રકારના જીવોનો ભેદ", "en": "4th Treatise - Distinction of the Three Souls" },
-        "audioUrl": { "hi": "audio/pushti_pravaha_maryada.mp3", "gu": "audio/pushti_pravaha_maryada.mp3", "en": "audio/pushti_pravaha_maryada.mp3" },
+        "title": {
+          "hi": "४. पुष्टिप्रवाहमर्यादाभेदः",
+          "gu": "૪. પુષ્ટિપ્રવાહમર્યાદાભેદઃ",
+          "en": "4. Pushti Pravaha Maryada Bheda"
+        },
+        "subtitle": {
+          "hi": "चतुर्थ ग्रंथ - तीन प्रकार के जीवों का भेद",
+          "gu": "ચતુર્થ ગ્રંથ - ત્રણ પ્રકારના જીવોનો ભેદ",
+          "en": "4th Treatise - Distinction of the Three Souls"
+        },
+        "audioUrl": {
+          "hi": "audio/pushti_pravaha_maryada.mp3",
+          "gu": "audio/pushti_pravaha_maryada.mp3",
+          "en": "audio/pushti_pravaha_maryada.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_pushti_pravaha_maryada.json"
       },
       {
         "id": "ch_sg_siddhanta_rahasya",
         "order": 6,
         "isVisible": true,
-        "title": { "hi": "५. सिद्धान्तरहस्यम्", "gu": "૫. સિદ્ધાન્તરહસ્યમ્", "en": "5. Siddhanta Rahasya" },
-        "subtitle": { "hi": "पंचम ग्रंथ - ब्रह्मसंबंध का रहस्य", "gu": "પંચમ ગ્રંથ - બ્રહ્મસંબંધનું રહસ્ય", "en": "5th Treatise - Secret of Dedication" },
-        "audioUrl": { "hi": "audio/siddhanta_rahasya.mp3", "gu": "audio/siddhanta_rahasya.mp3", "en": "audio/siddhanta_rahasya.mp3" },
+        "title": {
+          "hi": "५. सिद्धान्तरहस्यम्",
+          "gu": "૫. સિદ્ધાન્તરહસ્યમ્",
+          "en": "5. Siddhanta Rahasya"
+        },
+        "subtitle": {
+          "hi": "पंचम ग्रंथ - ब्रह्मसंबंध का रहस्य",
+          "gu": "પંચમ ગ્રંથ - બ્રહ્મસંબંધનું રહસ્ય",
+          "en": "5th Treatise - Secret of Dedication"
+        },
+        "audioUrl": {
+          "hi": "audio/siddhanta_rahasya.mp3",
+          "gu": "audio/siddhanta_rahasya.mp3",
+          "en": "audio/siddhanta_rahasya.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_siddhanta_rahasya.json"
       },
       {
         "id": "ch_sg_navaratnam",
         "order": 7,
         "isVisible": true,
-        "title": { "hi": "६. नवरत्नम्", "gu": "૬. નવરત્નમ્", "en": "6. Navaratnam" },
-        "subtitle": { "hi": "षष्ठ ग्रंथ - चिंता मुक्ति के नौ श्लोक", "gu": "ષષ્ઠ ગ્રંથ - ચિંતા મુક્તિના નવ શ્લોક", "en": "6th Treatise - The Nine Jewels of Surrender" },
-        "audioUrl": { "hi": "audio/navaratnam.mp3", "gu": "audio/navaratnam.mp3", "en": "audio/navaratnam.mp3" },
+        "title": {
+          "hi": "६. नवरत्नम्",
+          "gu": "૬. નવરત્નમ્",
+          "en": "6. Navaratnam"
+        },
+        "subtitle": {
+          "hi": "षष्ठ ग्रंथ - चिंता मुक्ति के नौ श्लोक",
+          "gu": "ષષ્ઠ ગ્રંથ - ચિંતા મુક્તિના નવ શ્લોક",
+          "en": "6th Treatise - The Nine Jewels of Surrender"
+        },
+        "audioUrl": {
+          "hi": "audio/navaratnam.mp3",
+          "gu": "audio/navaratnam.mp3",
+          "en": "audio/navaratnam.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_navaratnam.json"
       },
       {
         "id": "ch_sg_antahkarana_prabodha",
         "order": 8,
         "isVisible": true,
-        "title": { "hi": "७. अन्तःकरणप्रबोधः", "gu": "૭. અન્તઃકરણપ્રબોધઃ", "en": "7. Antahkarana Prabodha" },
-        "subtitle": { "hi": "सप्तम ग्रंथ - मन को भगवन्निष्ठ उपदेश", "gu": "સપ્તમ ગ્રંથ - મનને ભગવન્નિષ્ઠ ઉપદેશ", "en": "7th Treatise - Admonition to the Inner Heart" },
-        "audioUrl": { "hi": "audio/antahkarana_prabodha.mp3", "gu": "audio/antahkarana_prabodha.mp3", "en": "audio/antahkarana_prabodha.mp3" },
+        "title": {
+          "hi": "७. अन्तःकरणप्रबोधः",
+          "gu": "૭. અન્તઃકરણપ્રબોધઃ",
+          "en": "7. Antahkarana Prabodha"
+        },
+        "subtitle": {
+          "hi": "सप्तम ग्रंथ - मन को भगवन्निष्ठ उपदेश",
+          "gu": "સપ્તમ ગ્રંથ - મનને ભગવન્નિષ્ઠ ઉપદેશ",
+          "en": "7th Treatise - Admonition to the Inner Heart"
+        },
+        "audioUrl": {
+          "hi": "audio/antahkarana_prabodha.mp3",
+          "gu": "audio/antahkarana_prabodha.mp3",
+          "en": "audio/antahkarana_prabodha.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_antahkarana_prabodha.json"
       },
       {
         "id": "ch_sg_viveka_dhairyashraya",
         "order": 9,
         "isVisible": true,
-        "title": { "hi": "८. विवेकधैर्याश्रयः", "gu": "૮. વિવેકધૈર્યાશ્રયઃ", "en": "8. Viveka Dhairyashraya" },
-        "subtitle": { "hi": "अष्टम ग्रंथ - विवेक, धैर्य और अनन्य आश्रय", "gu": "અષ્ટમ ગ્રંથ - વિવેક, ધૈર્ય અને અનન્ય આશ્રય", "en": "8th Treatise - Discernment, Patience & Refuge" },
-        "audioUrl": { "hi": "audio/viveka_dhairyashraya.mp3", "gu": "audio/viveka_dhairyashraya.mp3", "en": "audio/viveka_dhairyashraya.mp3" },
+        "title": {
+          "hi": "८. विवेकधैर्याश्रयः",
+          "gu": "૮. વિવેકધૈર્યાશ્રયઃ",
+          "en": "8. Viveka Dhairyashraya"
+        },
+        "subtitle": {
+          "hi": "अष्टम ग्रंथ - विवेक, धैर्य और अनन्य आश्रय",
+          "gu": "અષ્ટમ ગ્રંથ - વિવેક, ધૈર્ય અને અનન્ય આશ્રય",
+          "en": "8th Treatise - Discernment, Patience & Refuge"
+        },
+        "audioUrl": {
+          "hi": "audio/viveka_dhairyashraya.mp3",
+          "gu": "audio/viveka_dhairyashraya.mp3",
+          "en": "audio/viveka_dhairyashraya.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_viveka_dhairyashraya.json"
       },
       {
         "id": "ch_sg_krishnashraya",
         "order": 10,
         "isVisible": true,
-        "title": { "hi": "९. कृष्णाश्रयः", "gu": "૯. કૃષ્ણાશ્રયઃ", "en": "9. Krishnashraya" },
-        "subtitle": { "hi": "नवम ग्रंथ - कलिकाल में केवल श्रीकृष्ण ही शरण", "gu": "નવમ ગ્રંથ - કલિકાળમાં માત્ર શ્રીકૃષ્ણ જ શરણ", "en": "9th Treatise - Refuge in Shri Krishna" },
-        "audioUrl": { "hi": "audio/krishnashraya.mp3", "gu": "audio/krishnashraya.mp3", "en": "audio/krishnashraya.mp3" },
+        "title": {
+          "hi": "९. कृष्णाश्रयः",
+          "gu": "૯. કૃષ્ણાશ્રયઃ",
+          "en": "9. Krishnashraya"
+        },
+        "subtitle": {
+          "hi": "नवम ग्रंथ - कलिकाल में केवल श्रीकृष्ण ही शरण",
+          "gu": "નવમ ગ્રંથ - કલિકાળમાં માત્ર શ્રીકૃષ્ણ જ શરણ",
+          "en": "9th Treatise - Refuge in Shri Krishna"
+        },
+        "audioUrl": {
+          "hi": "audio/krishnashraya.mp3",
+          "gu": "audio/krishnashraya.mp3",
+          "en": "audio/krishnashraya.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_krishnashraya.json"
       },
       {
         "id": "ch_sg_chatuhshloki",
         "order": 11,
         "isVisible": true,
-        "title": { "hi": "१०. चतुःश्लोकी", "gu": "૧૦. ચતુઃશ્લોકી", "en": "10. Chatuhshloki" },
-        "subtitle": { "hi": "दशम ग्रंथ - पुरुषार्थ एवं सर्वस्व समर्पण", "gu": "દશમ ગ્રંથ - પુરુષાર્થ અને સર્વસ્વ સમર્પણ", "en": "10th Treatise - The Fourfold Goal of Life" },
-        "audioUrl": { "hi": "audio/chatuhshloki.mp3", "gu": "audio/chatuhshloki.mp3", "en": "audio/chatuhshloki.mp3" },
+        "title": {
+          "hi": "१०. चतुःश्लोकी",
+          "gu": "૧૦. ચતુઃશ્લોકી",
+          "en": "10. Chatuhshloki"
+        },
+        "subtitle": {
+          "hi": "दशम ग्रंथ - पुरुषार्थ एवं सर्वस्व समर्पण",
+          "gu": "દશમ ગ્રંથ - પુરુષાર્થ અને સર્વસ્વ સમર્પણ",
+          "en": "10th Treatise - The Fourfold Goal of Life"
+        },
+        "audioUrl": {
+          "hi": "audio/chatuhshloki.mp3",
+          "gu": "audio/chatuhshloki.mp3",
+          "en": "audio/chatuhshloki.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_chatuhshloki.json"
       },
       {
         "id": "ch_sg_bhaktivardhini",
         "order": 12,
         "isVisible": true,
-        "title": { "hi": "११. भक्तिवर्धिनी", "gu": "૧૧. ભક્તિવર્ધિની", "en": "11. Bhaktivardhini" },
-        "subtitle": { "hi": "एकादश ग्रंथ - प्रेम एवं भक्ति की वृद्धि के उपाय", "gu": "એકાદશ ગ્રંથ - પ્રેમ અને ભક્તિની વૃદ્ધિના ઉપાય", "en": "11th Treatise - Cultivating Divine Devotion" },
-        "audioUrl": { "hi": "audio/bhaktivardhini.mp3", "gu": "audio/bhaktivardhini.mp3", "en": "audio/bhaktivardhini.mp3" },
+        "title": {
+          "hi": "११. भक्तिवर्धिनी",
+          "gu": "૧૧. ભક્તિવર્ધિની",
+          "en": "11. Bhaktivardhini"
+        },
+        "subtitle": {
+          "hi": "एकादश ग्रंथ - प्रेम एवं भक्ति की वृद्धि के उपाय",
+          "gu": "એકાદશ ગ્રંથ - પ્રેમ અને ભક્તિની વૃદ્ધિના ઉપાય",
+          "en": "11th Treatise - Cultivating Divine Devotion"
+        },
+        "audioUrl": {
+          "hi": "audio/bhaktivardhini.mp3",
+          "gu": "audio/bhaktivardhini.mp3",
+          "en": "audio/bhaktivardhini.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_bhaktivardhini.json"
       },
       {
         "id": "ch_sg_jalabheda",
         "order": 13,
         "isVisible": true,
-        "title": { "hi": "१२. जलभेदः", "gu": "૧૨. જલભેદઃ", "en": "12. Jalabheda" },
-        "subtitle": { "hi": "द्वादश ग्रंथ - वक्ता एवं श्रोता के प्रकार", "gu": "દ્વાદશ ગ્રંથ - વક્તા અને શ્રોતાના પ્રકાર", "en": "12th Treatise - Differentiation of Speakers" },
-        "audioUrl": { "hi": "audio/jalabheda.mp3", "gu": "audio/jalabheda.mp3", "en": "audio/jalabheda.mp3" },
+        "title": {
+          "hi": "१२. जलभेदः",
+          "gu": "૧૨. જલભેદઃ",
+          "en": "12. Jalabheda"
+        },
+        "subtitle": {
+          "hi": "द्वादश ग्रंथ - वक्ता एवं श्रोता के प्रकार",
+          "gu": "દ્વાદશ ગ્રંથ - વક્તા અને શ્રોતાના પ્રકાર",
+          "en": "12th Treatise - Differentiation of Speakers"
+        },
+        "audioUrl": {
+          "hi": "audio/jalabheda.mp3",
+          "gu": "audio/jalabheda.mp3",
+          "en": "audio/jalabheda.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_jalabheda.json"
       },
       {
         "id": "ch_sg_panchapadyani",
         "order": 14,
         "isVisible": true,
-        "title": { "hi": "१३. पञ्चपद्यानि", "gu": "૧૩. પંચપદ્યાનિ", "en": "13. Panchapadyani" },
-        "subtitle": { "hi": "त्रयोदश ग्रंथ - कथा-श्रवण का स्वरूप", "gu": "ત્રયોદશ ગ્રંથ - કથા-શ્રવણનું સ્વરૂપ", "en": "13th Treatise - The Five Verses on Discourse" },
-        "audioUrl": { "hi": "audio/panchapadyani.mp3", "gu": "audio/panchapadyani.mp3", "en": "audio/panchapadyani.mp3" },
+        "title": {
+          "hi": "१३. पञ्चपद्यानि",
+          "gu": "૧૩. પંચપદ્યાનિ",
+          "en": "13. Panchapadyani"
+        },
+        "subtitle": {
+          "hi": "त्रयोदश ग्रंथ - कथा-श्रवण का स्वरूप",
+          "gu": "ત્રયોદશ ગ્રંથ - કથા-શ્રવણનું સ્વરૂપ",
+          "en": "13th Treatise - The Five Verses on Discourse"
+        },
+        "audioUrl": {
+          "hi": "audio/panchapadyani.mp3",
+          "gu": "audio/panchapadyani.mp3",
+          "en": "audio/panchapadyani.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_panchapadyani.json"
       },
       {
         "id": "ch_sg_sannyasa_nirnaya",
         "order": 15,
         "isVisible": true,
-        "title": { "hi": "१४. संन्यासनिर्णयः", "gu": "૧૪. સંન્યાસનિર્ણયઃ", "en": "14. Sannyasa Nirnaya" },
-        "subtitle": { "hi": "चतुर्दश ग्रंथ - विरह भक्ति हेतु संन्यास का निर्णय", "gu": "ચતુર્દશ ગ્રંથ - વિરહ ભક્તિ માટે સંન્યાસનો નિર્ણય", "en": "14th Treatise - Determination on Renunciation" },
-        "audioUrl": { "hi": "audio/sannyasa_nirnaya.mp3", "gu": "audio/sannyasa_nirnaya.mp3", "en": "audio/sannyasa_nirnaya.mp3" },
+        "title": {
+          "hi": "१४. संन्यासनिर्णयः",
+          "gu": "૧૪. સંન્યાસનિર્ણયઃ",
+          "en": "14. Sannyasa Nirnaya"
+        },
+        "subtitle": {
+          "hi": "चतुर्दश ग्रंथ - विरह भक्ति हेतु संन्यास का निर्णय",
+          "gu": "ચતુર્દશ ગ્રંથ - વિરહ ભક્તિ માટે સંન્યાસનો નિર્ણય",
+          "en": "14th Treatise - Determination on Renunciation"
+        },
+        "audioUrl": {
+          "hi": "audio/sannyasa_nirnaya.mp3",
+          "gu": "audio/sannyasa_nirnaya.mp3",
+          "en": "audio/sannyasa_nirnaya.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_sannyasa_nirnaya.json"
       },
       {
         "id": "ch_sg_nirodha_lakshanam",
         "order": 16,
         "isVisible": true,
-        "title": { "hi": "१५. निरोधलक्षणम्", "gu": "૧૫. નિરોધલક્ષણમ્", "en": "15. Nirodha Lakshanam" },
-        "subtitle": { "hi": "पंचदश ग्रंथ - प्रपंच विस्मृति और भगवदासक्ति", "gu": "પંચદશ ગ્રંથ - પ્રપંચ વિસ્મૃતિ અને ભગવદાસક્તિ", "en": "15th Treatise - Total Absorption" },
-        "audioUrl": { "hi": "audio/nirodha_lakshanam.mp3", "gu": "audio/nirodha_lakshanam.mp3", "en": "audio/nirodha_lakshanam.mp3" },
+        "title": {
+          "hi": "१५. निरोधलक्षणम्",
+          "gu": "૧૫. નિરોધલક્ષણમ્",
+          "en": "15. Nirodha Lakshanam"
+        },
+        "subtitle": {
+          "hi": "पंचदश ग्रंथ - प्रपंच विस्मृति और भगवदासक्ति",
+          "gu": "પંચદશ ગ્રંથ - પ્રપંચ વિસ્મૃતિ અને ભગવદાસક્તિ",
+          "en": "15th Treatise - Characteristics of Total Absorption"
+        },
+        "audioUrl": {
+          "hi": "audio/nirodha_lakshanam.mp3",
+          "gu": "audio/nirodha_lakshanam.mp3",
+          "en": "audio/nirodha_lakshanam.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_nirodha_lakshanam.json"
       },
       {
         "id": "ch_sg_seva_phalam",
         "order": 17,
         "isVisible": true,
-        "title": { "hi": "१६. सेवाफलम्", "gu": "૧૬. સેવાફલમ્", "en": "16. Seva Phalam" },
-        "subtitle": { "hi": "षोडश ग्रंथ - मानसी सेवा एवं उसका परम फल", "gu": "ષોડશ ગ્રંથ - માનસી સેવા અને તેનું પરમ ફળ", "en": "16th Treatise - Fruit of Loving Service" },
-        "audioUrl": { "hi": "audio/seva_phalam.mp3", "gu": "audio/seva_phalam.mp3", "en": "audio/seva_phalam.mp3" },
+        "title": {
+          "hi": "१६. सेवाफलम्",
+          "gu": "૧૬. સેવાફલમ્",
+          "en": "16. Seva Phalam"
+        },
+        "subtitle": {
+          "hi": "षोडश ग्रंथ - मानसी सेवा एवं उसका परम फल",
+          "gu": "ષોડશ ગ્રંથ - માનસી સેવા અને તેનું પરમ ફળ",
+          "en": "16th Treatise - Fruit of Loving Devotional Service"
+        },
+        "audioUrl": {
+          "hi": "audio/seva_phalam.mp3",
+          "gu": "audio/seva_phalam.mp3",
+          "en": "audio/seva_phalam.mp3"
+        },
         "contentUrl": "chapters/book_shodash_granth/ch_seva_phalam.json"
       }
     ]
@@ -194,46 +394,1765 @@
         "id": "ch_varta84_1",
         "order": 1,
         "isVisible": true,
-        "title": { "hi": "१. श्री दामोदरदास हरसानी जी की वार्ता", "gu": "૧. શ્રી દામોદરદાસ હરસાની જી ની વાર્તા", "en": "1. Damodardas Harsani Ji Varta" },
-        "subtitle": { "hi": "श्री महाप्रभुजी के परम कृपापात्र प्रथम वैष्णव", "gu": "શ્રી મહાપ્રભુજીના પરમ કૃપાપાત્ર પ્રથમ વૈષ્ણવ", "en": "Foremost Disciple of Shri Mahaprabhuji" },
-        "audioUrl": { "hi": "audio/varta84_1.mp3", "gu": "audio/varta84_1.mp3", "en": "audio/varta84_1.mp3" },
+        "title": {
+          "hi": "१. दामोदरदास हरसानी जी की वार्ता",
+          "gu": "૧. દામોદરદાસ હરસાની જી ની વાર્તા",
+          "en": "1. Damodardas Harsani Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧",
+          "en": "Disciples of Shri Mahaprabhuji - Account 1"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_1.mp3",
+          "gu": "audio/varta84_1.mp3",
+          "en": "audio/varta84_1.mp3"
+        },
         "contentUrl": "chapters/book_84_varta/ch_varta84_1.json"
       },
       {
         "id": "ch_varta84_2",
         "order": 2,
         "isVisible": true,
-        "title": { "hi": "२. श्री कृष्णदास मेघन जी की वार्ता", "gu": "૨. શ્રી કૃષ્ણદાસ મેઘન જી ની વાર્તા", "en": "2. Krishnadas Meghan Ji Varta" },
-        "subtitle": { "hi": "अनन्य निष्ठावान भगवदीय", "gu": "અનન્ય નિષ્ઠાવાન ભગવદીય", "en": "Devout Disciple of Shri Mahaprabhuji" },
-        "audioUrl": { "hi": "audio/varta84_2.mp3", "gu": "audio/varta84_2.mp3", "en": "audio/varta84_2.mp3" },
+        "title": {
+          "hi": "२. कृष्णदास मेघन जी की वार्ता",
+          "gu": "૨. કૃષ્ણદાસ મેઘન જી ની વાર્તા",
+          "en": "2. Krishnadas Meghan Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨",
+          "en": "Disciples of Shri Mahaprabhuji - Account 2"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_2.mp3",
+          "gu": "audio/varta84_2.mp3",
+          "en": "audio/varta84_2.mp3"
+        },
         "contentUrl": "chapters/book_84_varta/ch_varta84_2.json"
       },
       {
         "id": "ch_varta84_3",
         "order": 3,
         "isVisible": true,
-        "title": { "hi": "३. श्री कुंभनदास जी की वार्ता", "gu": "૩. શ્રી કુંભનદાસ જી ની વાર્તા", "en": "3. Kumbhandas Ji Varta" },
-        "subtitle": { "hi": "अष्टछाप महाकवि एवं परमहंस भक्त", "gu": "અષ્ટછાપ મહાકવિ અને પરમહંસ ભક્ત", "en": "Ashtachhap Poet & Divine Devotee" },
-        "audioUrl": { "hi": "audio/varta84_3.mp3", "gu": "audio/varta84_3.mp3", "en": "audio/varta84_3.mp3" },
+        "title": {
+          "hi": "३. दामोदरदास संभलवारे की वार्ता",
+          "gu": "૩. દામોદરદાસ સંભલવારે ની વાર્તા",
+          "en": "3. Damodardas Sambhalware Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩",
+          "en": "Disciples of Shri Mahaprabhuji - Account 3"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_3.mp3",
+          "gu": "audio/varta84_3.mp3",
+          "en": "audio/varta84_3.mp3"
+        },
         "contentUrl": "chapters/book_84_varta/ch_varta84_3.json"
       },
       {
         "id": "ch_varta84_4",
         "order": 4,
         "isVisible": true,
-        "title": { "hi": "४. श्री सूरदास जी की वार्ता", "gu": "૪. શ્રી સૂરદાસ જી ની વાર્તા", "en": "4. Surdas Ji Varta" },
-        "subtitle": { "hi": "पुष्टिमार्ग के जहाज, अष्टछाप शिरोमणि", "gu": "પુષ્ટિમાર્ગના જહાજ, અષ્ટછાપ શિરોમણિ", "en": "Supreme Mystic Poet of Braj" },
-        "audioUrl": { "hi": "audio/varta84_4.mp3", "gu": "audio/varta84_4.mp3", "en": "audio/varta84_4.mp3" },
+        "title": {
+          "hi": "४. पद्मनाभदास जी की वार्ता",
+          "gu": "૪. પદ્મનાભદાસ જી ની વાર્તા",
+          "en": "4. Padmanabhdas Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪",
+          "en": "Disciples of Shri Mahaprabhuji - Account 4"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_4.mp3",
+          "gu": "audio/varta84_4.mp3",
+          "en": "audio/varta84_4.mp3"
+        },
         "contentUrl": "chapters/book_84_varta/ch_varta84_4.json"
       },
       {
         "id": "ch_varta84_5",
         "order": 5,
         "isVisible": true,
-        "title": { "hi": "५. श्री परमानंददास जी की वार्ता", "gu": "૫. શ્રી પરમાનંદદાસ જી ની વાર્તા", "en": "5. Paramanandadas Ji Varta" },
-        "subtitle": { "hi": "वात्सल्य एवं बाललीला के गायक", "gu": "વાત્સલ્ય અને બાલલીલાના ગાયક", "en": "Singer of Divine Childhood Pastimes" },
-        "audioUrl": { "hi": "audio/varta84_5.mp3", "gu": "audio/varta84_5.mp3", "en": "audio/varta84_5.mp3" },
+        "title": {
+          "hi": "५. पद्मनाभदास की बेटी की वार्ता",
+          "gu": "૫. પદ્મનાભદાસની દીકરી ની વાર્તા",
+          "en": "5. Padmanabhdas's Daughter Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫",
+          "en": "Disciples of Shri Mahaprabhuji - Account 5"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_5.mp3",
+          "gu": "audio/varta84_5.mp3",
+          "en": "audio/varta84_5.mp3"
+        },
         "contentUrl": "chapters/book_84_varta/ch_varta84_5.json"
+      },
+      {
+        "id": "ch_varta84_6",
+        "order": 6,
+        "isVisible": true,
+        "title": {
+          "hi": "६. कुंभनदास जी क्षत्रिय की वार्ता",
+          "gu": "૬. કુંભનદાસ જી ક્ષત્રિય ની વાર્તા",
+          "en": "6. Kumbhandas Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬",
+          "en": "Disciples of Shri Mahaprabhuji - Account 6"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_6.mp3",
+          "gu": "audio/varta84_6.mp3",
+          "en": "audio/varta84_6.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_6.json"
+      },
+      {
+        "id": "ch_varta84_7",
+        "order": 7,
+        "isVisible": true,
+        "title": {
+          "hi": "७. सूरदास जी महाकवि की वार्ता",
+          "gu": "૭. સૂરદાસ જી મહાકવિ ની વાર્તા",
+          "en": "7. Surdas Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭",
+          "en": "Disciples of Shri Mahaprabhuji - Account 7"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_7.mp3",
+          "gu": "audio/varta84_7.mp3",
+          "en": "audio/varta84_7.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_7.json"
+      },
+      {
+        "id": "ch_varta84_8",
+        "order": 8,
+        "isVisible": true,
+        "title": {
+          "hi": "८. परमानंददास जी की वार्ता",
+          "gu": "૮. પરમાનંદદાસ જી ની વાર્તા",
+          "en": "8. Paramanandadas Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮",
+          "en": "Disciples of Shri Mahaprabhuji - Account 8"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_8.mp3",
+          "gu": "audio/varta84_8.mp3",
+          "en": "audio/varta84_8.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_8.json"
+      },
+      {
+        "id": "ch_varta84_9",
+        "order": 9,
+        "isVisible": true,
+        "title": {
+          "hi": "९. कृष्णदास अधिकारी की वार्ता",
+          "gu": "૯. કૃષ્ણદાસ અધિકારી ની વાર્તા",
+          "en": "9. Krishnadas Adhikari Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૯",
+          "en": "Disciples of Shri Mahaprabhuji - Account 9"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_9.mp3",
+          "gu": "audio/varta84_9.mp3",
+          "en": "audio/varta84_9.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_9.json"
+      },
+      {
+        "id": "ch_varta84_10",
+        "order": 10,
+        "isVisible": true,
+        "title": {
+          "hi": "१०. गोविंददास भल्ला की वार्ता",
+          "gu": "૧૦. ગોવિંદદાસ ભલ્લા ની વાર્તા",
+          "en": "10. Govinddas Bhalla Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૦",
+          "en": "Disciples of Shri Mahaprabhuji - Account 10"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_10.mp3",
+          "gu": "audio/varta84_10.mp3",
+          "en": "audio/varta84_10.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_10.json"
+      },
+      {
+        "id": "ch_varta84_11",
+        "order": 11,
+        "isVisible": true,
+        "title": {
+          "hi": "११. रघुनाथदास कापड़िया की वार्ता",
+          "gu": "૧૧. રઘુનાથદાસ કાપડિયા ની વાર્તા",
+          "en": "11. Raghunathdas Kapadiya Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ११",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૧",
+          "en": "Disciples of Shri Mahaprabhuji - Account 11"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_11.mp3",
+          "gu": "audio/varta84_11.mp3",
+          "en": "audio/varta84_11.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_11.json"
+      },
+      {
+        "id": "ch_varta84_12",
+        "order": 12,
+        "isVisible": true,
+        "title": {
+          "hi": "१२. माधवदास भल्ला की वार्ता",
+          "gu": "૧૨. માધવદાસ ભલ્લા ની વાર્તા",
+          "en": "12. Madhavdas Bhalla Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૨",
+          "en": "Disciples of Shri Mahaprabhuji - Account 12"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_12.mp3",
+          "gu": "audio/varta84_12.mp3",
+          "en": "audio/varta84_12.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_12.json"
+      },
+      {
+        "id": "ch_varta84_13",
+        "order": 13,
+        "isVisible": true,
+        "title": {
+          "hi": "१३. जगन्नाथदास जोशी की वार्ता",
+          "gu": "૧૩. જગન્નાથદાસ જોશી ની વાર્તા",
+          "en": "13. Jagannathdas Joshi Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૩",
+          "en": "Disciples of Shri Mahaprabhuji - Account 13"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_13.mp3",
+          "gu": "audio/varta84_13.mp3",
+          "en": "audio/varta84_13.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_13.json"
+      },
+      {
+        "id": "ch_varta84_14",
+        "order": 14,
+        "isVisible": true,
+        "title": {
+          "hi": "१४. त्रिपुरदास कायस्थ की वार्ता",
+          "gu": "૧૪. ત્રિપુરદાસ કાયસ્થ ની વાર્તા",
+          "en": "14. Tripurdas Kayastha Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૪",
+          "en": "Disciples of Shri Mahaprabhuji - Account 14"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_14.mp3",
+          "gu": "audio/varta84_14.mp3",
+          "en": "audio/varta84_14.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_14.json"
+      },
+      {
+        "id": "ch_varta84_15",
+        "order": 15,
+        "isVisible": true,
+        "title": {
+          "hi": "१५. भगवानदास भाट की वार्ता",
+          "gu": "૧૫. ભગવાનદાસ ભાટ ની વાર્તા",
+          "en": "15. Bhagwandas Bhat Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૫",
+          "en": "Disciples of Shri Mahaprabhuji - Account 15"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_15.mp3",
+          "gu": "audio/varta84_15.mp3",
+          "en": "audio/varta84_15.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_15.json"
+      },
+      {
+        "id": "ch_varta84_16",
+        "order": 16,
+        "isVisible": true,
+        "title": {
+          "hi": "१६. नारायणदास सारस्वत की वार्ता",
+          "gu": "૧૬. નારાયણદાસ સારસ્વત ની વાર્તા",
+          "en": "16. Narayandas Saraswat Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૬",
+          "en": "Disciples of Shri Mahaprabhuji - Account 16"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_16.mp3",
+          "gu": "audio/varta84_16.mp3",
+          "en": "audio/varta84_16.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_16.json"
+      },
+      {
+        "id": "ch_varta84_17",
+        "order": 17,
+        "isVisible": true,
+        "title": {
+          "hi": "१७. उद्धवदास छीपी की वार्ता",
+          "gu": "૧૭. ઉદ્ધવદાસ છીપી ની વાર્તા",
+          "en": "17. Uddhavdas Chhipi Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૭",
+          "en": "Disciples of Shri Mahaprabhuji - Account 17"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_17.mp3",
+          "gu": "audio/varta84_17.mp3",
+          "en": "audio/varta84_17.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_17.json"
+      },
+      {
+        "id": "ch_varta84_18",
+        "order": 18,
+        "isVisible": true,
+        "title": {
+          "hi": "१८. विष्णुदास सांचोरा की वार्ता",
+          "gu": "૧૮. વિષ્ણુદાસ સાંચોરા ની વાર્તા",
+          "en": "18. Vishnudas Sanchora Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૮",
+          "en": "Disciples of Shri Mahaprabhuji - Account 18"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_18.mp3",
+          "gu": "audio/varta84_18.mp3",
+          "en": "audio/varta84_18.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_18.json"
+      },
+      {
+        "id": "ch_varta84_19",
+        "order": 19,
+        "isVisible": true,
+        "title": {
+          "hi": "१९. रामदास गुजराती की वार्ता",
+          "gu": "૧૯. રામદાસ ગુજરાતી ની વાર્તા",
+          "en": "19. Ramdas Gujarati Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૯",
+          "en": "Disciples of Shri Mahaprabhuji - Account 19"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_19.mp3",
+          "gu": "audio/varta84_19.mp3",
+          "en": "audio/varta84_19.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_19.json"
+      },
+      {
+        "id": "ch_varta84_20",
+        "order": 20,
+        "isVisible": true,
+        "title": {
+          "hi": "२०. राजा मानसिंह जी की वार्ता",
+          "gu": "૨૦. રાજા માનસિંહ જી ની વાર્તા",
+          "en": "20. Raja Mansingh Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૦",
+          "en": "Disciples of Shri Mahaprabhuji - Account 20"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_20.mp3",
+          "gu": "audio/varta84_20.mp3",
+          "en": "audio/varta84_20.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_20.json"
+      },
+      {
+        "id": "ch_varta84_21",
+        "order": 21,
+        "isVisible": true,
+        "title": {
+          "hi": "२१. शेख फरीद पठान की वार्ता",
+          "gu": "૨૧. શેખ ફરીદ પઠાણ ની વાર્તા",
+          "en": "21. Sheikh Farid Pathan Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૧",
+          "en": "Disciples of Shri Mahaprabhuji - Account 21"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_21.mp3",
+          "gu": "audio/varta84_21.mp3",
+          "en": "audio/varta84_21.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_21.json"
+      },
+      {
+        "id": "ch_varta84_22",
+        "order": 22,
+        "isVisible": true,
+        "title": {
+          "hi": "२२. रुक्मिणी बाई की वार्ता",
+          "gu": "૨૨. રુકિમણી બાઈ ની વાર્તા",
+          "en": "22. Rukmini Bai Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૨",
+          "en": "Disciples of Shri Mahaprabhuji - Account 22"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_22.mp3",
+          "gu": "audio/varta84_22.mp3",
+          "en": "audio/varta84_22.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_22.json"
+      },
+      {
+        "id": "ch_varta84_23",
+        "order": 23,
+        "isVisible": true,
+        "title": {
+          "hi": "२३. अमृत बाई की वार्ता",
+          "gu": "૨૩. અમૃત બાઈ ની વાર્તા",
+          "en": "23. Amrit Bai Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૩",
+          "en": "Disciples of Shri Mahaprabhuji - Account 23"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_23.mp3",
+          "gu": "audio/varta84_23.mp3",
+          "en": "audio/varta84_23.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_23.json"
+      },
+      {
+        "id": "ch_varta84_24",
+        "order": 24,
+        "isVisible": true,
+        "title": {
+          "hi": "२४. तुलसीदास सुनार की वार्ता",
+          "gu": "૨૪. તુલસીદાસ સુનાર ની વાર્તા",
+          "en": "24. Tulsidas Sunar Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૪",
+          "en": "Disciples of Shri Mahaprabhuji - Account 24"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_24.mp3",
+          "gu": "audio/varta84_24.mp3",
+          "en": "audio/varta84_24.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_24.json"
+      },
+      {
+        "id": "ch_varta84_25",
+        "order": 25,
+        "isVisible": true,
+        "title": {
+          "hi": "२५. गोपालदास दर्जी की वार्ता",
+          "gu": "૨૫. ગોપાલદાસ દર્જી ની વાર્તા",
+          "en": "25. Gopaldas Darji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૫",
+          "en": "Disciples of Shri Mahaprabhuji - Account 25"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_25.mp3",
+          "gu": "audio/varta84_25.mp3",
+          "en": "audio/varta84_25.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_25.json"
+      },
+      {
+        "id": "ch_varta84_26",
+        "order": 26,
+        "isVisible": true,
+        "title": {
+          "hi": "२६. कल्याणदास कायस्थ की वार्ता",
+          "gu": "૨૬. કલ્યાણદાસ કાયસ્થ ની વાર્તા",
+          "en": "26. Kalyandas Kayastha Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૬",
+          "en": "Disciples of Shri Mahaprabhuji - Account 26"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_26.mp3",
+          "gu": "audio/varta84_26.mp3",
+          "en": "audio/varta84_26.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_26.json"
+      },
+      {
+        "id": "ch_varta84_27",
+        "order": 27,
+        "isVisible": true,
+        "title": {
+          "hi": "२७. देवकीनंदन क्षत्रिय की वार्ता",
+          "gu": "૨૭. દેવકીનંદન ક્ષત્રિય ની વાર્તા",
+          "en": "27. Devkinandan Kshatriya Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૭",
+          "en": "Disciples of Shri Mahaprabhuji - Account 27"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_27.mp3",
+          "gu": "audio/varta84_27.mp3",
+          "en": "audio/varta84_27.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_27.json"
+      },
+      {
+        "id": "ch_varta84_28",
+        "order": 28,
+        "isVisible": true,
+        "title": {
+          "hi": "२८. हरिदास नाई की वार्ता",
+          "gu": "૨૮. હરિદાસ નાઈ ની વાર્તા",
+          "en": "28. Haridas Nai Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૮",
+          "en": "Disciples of Shri Mahaprabhuji - Account 28"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_28.mp3",
+          "gu": "audio/varta84_28.mp3",
+          "en": "audio/varta84_28.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_28.json"
+      },
+      {
+        "id": "ch_varta84_29",
+        "order": 29,
+        "isVisible": true,
+        "title": {
+          "hi": "२९. गोपालदास बनिया की वार्ता",
+          "gu": "૨૯. ગોપાલદાસ વાણિયા ની વાર્તા",
+          "en": "29. Gopaldas Baniya Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૯",
+          "en": "Disciples of Shri Mahaprabhuji - Account 29"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_29.mp3",
+          "gu": "audio/varta84_29.mp3",
+          "en": "audio/varta84_29.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_29.json"
+      },
+      {
+        "id": "ch_varta84_30",
+        "order": 30,
+        "isVisible": true,
+        "title": {
+          "hi": "३०. मोहनदास सिंधी की वार्ता",
+          "gu": "૩૦. મોહનદાસ સિંધી ની વાર્તા",
+          "en": "30. Mohandas Sindhi Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૦",
+          "en": "Disciples of Shri Mahaprabhuji - Account 30"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_30.mp3",
+          "gu": "audio/varta84_30.mp3",
+          "en": "audio/varta84_30.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_30.json"
+      },
+      {
+        "id": "ch_varta84_31",
+        "order": 31,
+        "isVisible": true,
+        "title": {
+          "hi": "३१. काशीराम ब्राह्मण की वार्ता",
+          "gu": "૩૧. કાશીરામ બ્રાહ્મણ ની વાર્તા",
+          "en": "31. Kashiram Brahman Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૧",
+          "en": "Disciples of Shri Mahaprabhuji - Account 31"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_31.mp3",
+          "gu": "audio/varta84_31.mp3",
+          "en": "audio/varta84_31.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_31.json"
+      },
+      {
+        "id": "ch_varta84_32",
+        "order": 32,
+        "isVisible": true,
+        "title": {
+          "hi": "३२. मथुरादास खत्री की वार्ता",
+          "gu": "૩૨. મથુરાદાસ ખત્રી ની વાર્તા",
+          "en": "32. Mathuradas Khatri Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૨",
+          "en": "Disciples of Shri Mahaprabhuji - Account 32"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_32.mp3",
+          "gu": "audio/varta84_32.mp3",
+          "en": "audio/varta84_32.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_32.json"
+      },
+      {
+        "id": "ch_varta84_33",
+        "order": 33,
+        "isVisible": true,
+        "title": {
+          "hi": "३३. हरिवंश व्यास की वार्ता",
+          "gu": "૩૩. હરિવંશ વ્યાસ ની વાર્તા",
+          "en": "33. Harivansh Vyas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૩",
+          "en": "Disciples of Shri Mahaprabhuji - Account 33"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_33.mp3",
+          "gu": "audio/varta84_33.mp3",
+          "en": "audio/varta84_33.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_33.json"
+      },
+      {
+        "id": "ch_varta84_34",
+        "order": 34,
+        "isVisible": true,
+        "title": {
+          "hi": "३४. श्यामा बाई की वार्ता",
+          "gu": "૩૪. શ્યામા બાઈ ની વાર્તા",
+          "en": "34. Shyama Bai Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૪",
+          "en": "Disciples of Shri Mahaprabhuji - Account 34"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_34.mp3",
+          "gu": "audio/varta84_34.mp3",
+          "en": "audio/varta84_34.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_34.json"
+      },
+      {
+        "id": "ch_varta84_35",
+        "order": 35,
+        "isVisible": true,
+        "title": {
+          "hi": "३५. गंगाबाई क्षत्राणी की वार्ता",
+          "gu": "૩૫. ગંગાબાઈ ક્ષત્રાણી ની વાર્તા",
+          "en": "35. Gangabai Kshatrani Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૫",
+          "en": "Disciples of Shri Mahaprabhuji - Account 35"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_35.mp3",
+          "gu": "audio/varta84_35.mp3",
+          "en": "audio/varta84_35.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_35.json"
+      },
+      {
+        "id": "ch_varta84_36",
+        "order": 36,
+        "isVisible": true,
+        "title": {
+          "hi": "३६. राणा व्यास की वार्ता",
+          "gu": "૩૬. રાણા વ્યાસ ની વાર્તા",
+          "en": "36. Rana Vyas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૬",
+          "en": "Disciples of Shri Mahaprabhuji - Account 36"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_36.mp3",
+          "gu": "audio/varta84_36.mp3",
+          "en": "audio/varta84_36.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_36.json"
+      },
+      {
+        "id": "ch_varta84_37",
+        "order": 37,
+        "isVisible": true,
+        "title": {
+          "hi": "३७. केशवदास लोढा की वार्ता",
+          "gu": "૩૭. કેશવદાસ લોઢા ની વાર્તા",
+          "en": "37. Keshavdas Lodha Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૭",
+          "en": "Disciples of Shri Mahaprabhuji - Account 37"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_37.mp3",
+          "gu": "audio/varta84_37.mp3",
+          "en": "audio/varta84_37.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_37.json"
+      },
+      {
+        "id": "ch_varta84_38",
+        "order": 38,
+        "isVisible": true,
+        "title": {
+          "hi": "३८. नरहरि जोशी की वार्ता",
+          "gu": "૩૮. નરહરિ જોશી ની વાર્તા",
+          "en": "38. Narhari Joshi Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૮",
+          "en": "Disciples of Shri Mahaprabhuji - Account 38"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_38.mp3",
+          "gu": "audio/varta84_38.mp3",
+          "en": "audio/varta84_38.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_38.json"
+      },
+      {
+        "id": "ch_varta84_39",
+        "order": 39,
+        "isVisible": true,
+        "title": {
+          "hi": "३९. बलभद्रदास कायस्थ की वार्ता",
+          "gu": "૩૯. બલભદ્રદાસ કાયસ્થ ની વાર્તા",
+          "en": "39. Balbhadradas Kayastha Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૯",
+          "en": "Disciples of Shri Mahaprabhuji - Account 39"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_39.mp3",
+          "gu": "audio/varta84_39.mp3",
+          "en": "audio/varta84_39.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_39.json"
+      },
+      {
+        "id": "ch_varta84_40",
+        "order": 40,
+        "isVisible": true,
+        "title": {
+          "hi": "४०. दामोदरदास बड़ौदा की वार्ता",
+          "gu": "૪૦. દામોદરદાસ વડોદરા ની વાર્તા",
+          "en": "40. Damodardas Baroda Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૦",
+          "en": "Disciples of Shri Mahaprabhuji - Account 40"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_40.mp3",
+          "gu": "audio/varta84_40.mp3",
+          "en": "audio/varta84_40.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_40.json"
+      },
+      {
+        "id": "ch_varta84_41",
+        "order": 41,
+        "isVisible": true,
+        "title": {
+          "hi": "४१. मुरलीधर सुनार की वार्ता",
+          "gu": "૪૧. મુરલીધર સુનાર ની વાર્તા",
+          "en": "41. Murlidhar Sunar Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૧",
+          "en": "Disciples of Shri Mahaprabhuji - Account 41"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_41.mp3",
+          "gu": "audio/varta84_41.mp3",
+          "en": "audio/varta84_41.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_41.json"
+      },
+      {
+        "id": "ch_varta84_42",
+        "order": 42,
+        "isVisible": true,
+        "title": {
+          "hi": "४२. हरिराम व्यास की वार्ता",
+          "gu": "૪૨. હરિરામ વ્યાસ ની વાર્તા",
+          "en": "42. Hariram Vyas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૨",
+          "en": "Disciples of Shri Mahaprabhuji - Account 42"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_42.mp3",
+          "gu": "audio/varta84_42.mp3",
+          "en": "audio/varta84_42.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_42.json"
+      },
+      {
+        "id": "ch_varta84_43",
+        "order": 43,
+        "isVisible": true,
+        "title": {
+          "hi": "४३. गदाधरदास क्षत्रिय की वार्ता",
+          "gu": "૪૩. ગદાધરદાસ ક્ષત્રિય ની વાર્તા",
+          "en": "43. Gadadhardas Kshatriya Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૩",
+          "en": "Disciples of Shri Mahaprabhuji - Account 43"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_43.mp3",
+          "gu": "audio/varta84_43.mp3",
+          "en": "audio/varta84_43.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_43.json"
+      },
+      {
+        "id": "ch_varta84_44",
+        "order": 44,
+        "isVisible": true,
+        "title": {
+          "hi": "४४. शिवदास माली की वार्ता",
+          "gu": "૪૪. શિવદાસ માળી ની વાર્તા",
+          "en": "44. Shivdas Mali Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૪",
+          "en": "Disciples of Shri Mahaprabhuji - Account 44"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_44.mp3",
+          "gu": "audio/varta84_44.mp3",
+          "en": "audio/varta84_44.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_44.json"
+      },
+      {
+        "id": "ch_varta84_45",
+        "order": 45,
+        "isVisible": true,
+        "title": {
+          "hi": "४५. जयदेवदास कनोडिया की वार्ता",
+          "gu": "૪૫. જયદેવદાસ કનોડિયા ની વાર્તા",
+          "en": "45. Jaydevdas Kanodiya Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૫",
+          "en": "Disciples of Shri Mahaprabhuji - Account 45"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_45.mp3",
+          "gu": "audio/varta84_45.mp3",
+          "en": "audio/varta84_45.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_45.json"
+      },
+      {
+        "id": "ch_varta84_46",
+        "order": 46,
+        "isVisible": true,
+        "title": {
+          "hi": "४६. भानुदास पटेरिया की वार्ता",
+          "gu": "૪૬. ભાનુદાસ પટેરિયા ની વાર્તા",
+          "en": "46. Bhanudas Pateriya Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૬",
+          "en": "Disciples of Shri Mahaprabhuji - Account 46"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_46.mp3",
+          "gu": "audio/varta84_46.mp3",
+          "en": "audio/varta84_46.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_46.json"
+      },
+      {
+        "id": "ch_varta84_47",
+        "order": 47,
+        "isVisible": true,
+        "title": {
+          "hi": "४७. गंगाधर भट्ट की वार्ता",
+          "gu": "૪૭. ગંગાધર ભટ્ટ ની વાર્તા",
+          "en": "47. Gangadhar Bhatt Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૭",
+          "en": "Disciples of Shri Mahaprabhuji - Account 47"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_47.mp3",
+          "gu": "audio/varta84_47.mp3",
+          "en": "audio/varta84_47.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_47.json"
+      },
+      {
+        "id": "ch_varta84_48",
+        "order": 48,
+        "isVisible": true,
+        "title": {
+          "hi": "४८. मंगतराम हलवाई की वार्ता",
+          "gu": "૪૮. મંગતરામ હલવાઈ ની વાર્તા",
+          "en": "48. Mangatram Halwai Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૮",
+          "en": "Disciples of Shri Mahaprabhuji - Account 48"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_48.mp3",
+          "gu": "audio/varta84_48.mp3",
+          "en": "audio/varta84_48.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_48.json"
+      },
+      {
+        "id": "ch_varta84_49",
+        "order": 49,
+        "isVisible": true,
+        "title": {
+          "hi": "४९. द्वारकादास कनोडिया की वार्ता",
+          "gu": "૪૯. દ્વારકાદાસ કનોડિયા ની વાર્તા",
+          "en": "49. Dwarkadas Kanodiya Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૯",
+          "en": "Disciples of Shri Mahaprabhuji - Account 49"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_49.mp3",
+          "gu": "audio/varta84_49.mp3",
+          "en": "audio/varta84_49.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_49.json"
+      },
+      {
+        "id": "ch_varta84_50",
+        "order": 50,
+        "isVisible": true,
+        "title": {
+          "hi": "५०. भगवानदास सुनार की वार्ता",
+          "gu": "૫૦. ભગવાનદાસ સુનાર ની વાર્તા",
+          "en": "50. Bhagwandas Sunar Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૦",
+          "en": "Disciples of Shri Mahaprabhuji - Account 50"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_50.mp3",
+          "gu": "audio/varta84_50.mp3",
+          "en": "audio/varta84_50.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_50.json"
+      },
+      {
+        "id": "ch_varta84_51",
+        "order": 51,
+        "isVisible": true,
+        "title": {
+          "hi": "५१. लक्ष्मीदास कायस्थ की वार्ता",
+          "gu": "૫૧. લક્ષ્મીદાસ કાયસ્થ ની વાર્તા",
+          "en": "51. Lakshmidas Kayastha Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૧",
+          "en": "Disciples of Shri Mahaprabhuji - Account 51"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_51.mp3",
+          "gu": "audio/varta84_51.mp3",
+          "en": "audio/varta84_51.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_51.json"
+      },
+      {
+        "id": "ch_varta84_52",
+        "order": 52,
+        "isVisible": true,
+        "title": {
+          "hi": "५२. विट्ठलदास चांपानेरी की वार्ता",
+          "gu": "૫૨. વિઠ્ઠલદાસ ચાંપાનેરી ની વાર્તા",
+          "en": "52. Vitthaldas Champaneri Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૨",
+          "en": "Disciples of Shri Mahaprabhuji - Account 52"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_52.mp3",
+          "gu": "audio/varta84_52.mp3",
+          "en": "audio/varta84_52.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_52.json"
+      },
+      {
+        "id": "ch_varta84_53",
+        "order": 53,
+        "isVisible": true,
+        "title": {
+          "hi": "५३. रतनबाई राजपूत की वार्ता",
+          "gu": "૫૩. રતનબાઈ રાજપૂત ની વાર્તા",
+          "en": "53. Ratanbai Rajput Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૩",
+          "en": "Disciples of Shri Mahaprabhuji - Account 53"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_53.mp3",
+          "gu": "audio/varta84_53.mp3",
+          "en": "audio/varta84_53.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_53.json"
+      },
+      {
+        "id": "ch_varta84_54",
+        "order": 54,
+        "isVisible": true,
+        "title": {
+          "hi": "५४. मदनमोहनदास की वार्ता",
+          "gu": "૫૪. મદનમોહનદાસ ની વાર્તા",
+          "en": "54. Madanmohandas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૪",
+          "en": "Disciples of Shri Mahaprabhuji - Account 54"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_54.mp3",
+          "gu": "audio/varta84_54.mp3",
+          "en": "audio/varta84_54.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_54.json"
+      },
+      {
+        "id": "ch_varta84_55",
+        "order": 55,
+        "isVisible": true,
+        "title": {
+          "hi": "५५. सुंदरदास बनिया की वार्ता",
+          "gu": "૫૫. સુંદરદાસ વાણિયા ની વાર્તા",
+          "en": "55. Sundardas Baniya Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૫",
+          "en": "Disciples of Shri Mahaprabhuji - Account 55"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_55.mp3",
+          "gu": "audio/varta84_55.mp3",
+          "en": "audio/varta84_55.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_55.json"
+      },
+      {
+        "id": "ch_varta84_56",
+        "order": 56,
+        "isVisible": true,
+        "title": {
+          "hi": "५६. नंददास जी की वार्ता",
+          "gu": "૫૬. નંદદાસ જી ની વાર્તા",
+          "en": "56. Nandadas Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૬",
+          "en": "Disciples of Shri Mahaprabhuji - Account 56"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_56.mp3",
+          "gu": "audio/varta84_56.mp3",
+          "en": "audio/varta84_56.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_56.json"
+      },
+      {
+        "id": "ch_varta84_57",
+        "order": 57,
+        "isVisible": true,
+        "title": {
+          "hi": "५७. चतुर्भुजदास जी की वार्ता",
+          "gu": "૫૭. ચતુર્ભુજદાસ જી ની વાર્તા",
+          "en": "57. Chaturbhujdas Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૭",
+          "en": "Disciples of Shri Mahaprabhuji - Account 57"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_57.mp3",
+          "gu": "audio/varta84_57.mp3",
+          "en": "audio/varta84_57.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_57.json"
+      },
+      {
+        "id": "ch_varta84_58",
+        "order": 58,
+        "isVisible": true,
+        "title": {
+          "hi": "५८. रामदास मेड़तवाल की वार्ता",
+          "gu": "૫૮. રામદાસ મેડતવાલ ની વાર્તા",
+          "en": "58. Ramdas Medatwal Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૮",
+          "en": "Disciples of Shri Mahaprabhuji - Account 58"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_58.mp3",
+          "gu": "audio/varta84_58.mp3",
+          "en": "audio/varta84_58.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_58.json"
+      },
+      {
+        "id": "ch_varta84_59",
+        "order": 59,
+        "isVisible": true,
+        "title": {
+          "hi": "५९. भगवानदास मोची की वार्ता",
+          "gu": "૫૯. ભગવાનદાસ મોચી ની વાર્તા",
+          "en": "59. Bhagwandas Mochi Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૯",
+          "en": "Disciples of Shri Mahaprabhuji - Account 59"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_59.mp3",
+          "gu": "audio/varta84_59.mp3",
+          "en": "audio/varta84_59.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_59.json"
+      },
+      {
+        "id": "ch_varta84_60",
+        "order": 60,
+        "isVisible": true,
+        "title": {
+          "hi": "६०. कृपाराम सारस्वत की वार्ता",
+          "gu": "૬૦. કૃપારામ સારસ્વત ની વાર્તા",
+          "en": "60. Kriparam Saraswat Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૦",
+          "en": "Disciples of Shri Mahaprabhuji - Account 60"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_60.mp3",
+          "gu": "audio/varta84_60.mp3",
+          "en": "audio/varta84_60.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_60.json"
+      },
+      {
+        "id": "ch_varta84_61",
+        "order": 61,
+        "isVisible": true,
+        "title": {
+          "hi": "६१. गोविंददास तेली की वार्ता",
+          "gu": "૬૧. ગોવિંદદાસ તેલી ની વાર્તા",
+          "en": "61. Govinddas Teli Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૧",
+          "en": "Disciples of Shri Mahaprabhuji - Account 61"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_61.mp3",
+          "gu": "audio/varta84_61.mp3",
+          "en": "audio/varta84_61.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_61.json"
+      },
+      {
+        "id": "ch_varta84_62",
+        "order": 62,
+        "isVisible": true,
+        "title": {
+          "hi": "६२. पुरुषोत्तमदास की वार्ता",
+          "gu": "૬૨. પુરુષોત્તમદાસ ની વાર્તા",
+          "en": "62. Purushottamdas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૨",
+          "en": "Disciples of Shri Mahaprabhuji - Account 62"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_62.mp3",
+          "gu": "audio/varta84_62.mp3",
+          "en": "audio/varta84_62.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_62.json"
+      },
+      {
+        "id": "ch_varta84_63",
+        "order": 63,
+        "isVisible": true,
+        "title": {
+          "hi": "६३. हरिजीवनदास की वार्ता",
+          "gu": "૬૩. હરિજીવનદાસ ની વાર્તા",
+          "en": "63. Harijivandas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૩",
+          "en": "Disciples of Shri Mahaprabhuji - Account 63"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_63.mp3",
+          "gu": "audio/varta84_63.mp3",
+          "en": "audio/varta84_63.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_63.json"
+      },
+      {
+        "id": "ch_varta84_64",
+        "order": 64,
+        "isVisible": true,
+        "title": {
+          "hi": "६४. गोपालदास खत्री की वार्ता",
+          "gu": "૬૪. ગોપાલદાસ ખત્રી ની વાર્તા",
+          "en": "64. Gopaldas Khatri Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૪",
+          "en": "Disciples of Shri Mahaprabhuji - Account 64"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_64.mp3",
+          "gu": "audio/varta84_64.mp3",
+          "en": "audio/varta84_64.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_64.json"
+      },
+      {
+        "id": "ch_varta84_65",
+        "order": 65,
+        "isVisible": true,
+        "title": {
+          "hi": "६५. मथुरादास लुहार की वार्ता",
+          "gu": "૬૫. મથુરાદાસ લુહાર ની વાર્તા",
+          "en": "65. Mathuradas Luhar Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૫",
+          "en": "Disciples of Shri Mahaprabhuji - Account 65"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_65.mp3",
+          "gu": "audio/varta84_65.mp3",
+          "en": "audio/varta84_65.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_65.json"
+      },
+      {
+        "id": "ch_varta84_66",
+        "order": 66,
+        "isVisible": true,
+        "title": {
+          "hi": "६६. गंगाबाई बनियानी की वार्ता",
+          "gu": "૬૬. ગંગાબાઈ વાણિયાણી ની વાર્તા",
+          "en": "66. Gangabai Baniyani Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૬",
+          "en": "Disciples of Shri Mahaprabhuji - Account 66"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_66.mp3",
+          "gu": "audio/varta84_66.mp3",
+          "en": "audio/varta84_66.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_66.json"
+      },
+      {
+        "id": "ch_varta84_67",
+        "order": 67,
+        "isVisible": true,
+        "title": {
+          "hi": "६७. मुरलीधर कायस्थ की वार्ता",
+          "gu": "૬૭. મુરલીધર કાયસ્થ ની વાર્તા",
+          "en": "67. Murlidhar Kayastha Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૭",
+          "en": "Disciples of Shri Mahaprabhuji - Account 67"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_67.mp3",
+          "gu": "audio/varta84_67.mp3",
+          "en": "audio/varta84_67.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_67.json"
+      },
+      {
+        "id": "ch_varta84_68",
+        "order": 68,
+        "isVisible": true,
+        "title": {
+          "hi": "६८. जयरामदास राजपूत की वार्ता",
+          "gu": "૬૮. જયરામદાસ રાજપૂત ની વાર્તા",
+          "en": "68. Jayramdas Rajput Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૮",
+          "en": "Disciples of Shri Mahaprabhuji - Account 68"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_68.mp3",
+          "gu": "audio/varta84_68.mp3",
+          "en": "audio/varta84_68.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_68.json"
+      },
+      {
+        "id": "ch_varta84_69",
+        "order": 69,
+        "isVisible": true,
+        "title": {
+          "hi": "६९. विष्णुदास माली की वार्ता",
+          "gu": "૬૯. વિષ્ણુદાસ માળી ની વાર્તા",
+          "en": "69. Vishnudas Mali Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૯",
+          "en": "Disciples of Shri Mahaprabhuji - Account 69"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_69.mp3",
+          "gu": "audio/varta84_69.mp3",
+          "en": "audio/varta84_69.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_69.json"
+      },
+      {
+        "id": "ch_varta84_70",
+        "order": 70,
+        "isVisible": true,
+        "title": {
+          "hi": "७०. कमलाबाई की वार्ता",
+          "gu": "૭૦. કમલાબાઈ ની વાર્તા",
+          "en": "70. Kamlabai Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૦",
+          "en": "Disciples of Shri Mahaprabhuji - Account 70"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_70.mp3",
+          "gu": "audio/varta84_70.mp3",
+          "en": "audio/varta84_70.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_70.json"
+      },
+      {
+        "id": "ch_varta84_71",
+        "order": 71,
+        "isVisible": true,
+        "title": {
+          "hi": "७१. श्यामदास बनिया की वार्ता",
+          "gu": "૭૧. શ્યામદાસ વાણિયા ની વાર્તા",
+          "en": "71. Shyamdas Baniya Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૧",
+          "en": "Disciples of Shri Mahaprabhuji - Account 71"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_71.mp3",
+          "gu": "audio/varta84_71.mp3",
+          "en": "audio/varta84_71.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_71.json"
+      },
+      {
+        "id": "ch_varta84_72",
+        "order": 72,
+        "isVisible": true,
+        "title": {
+          "hi": "७२. बालकृष्णदास की वार्ता",
+          "gu": "૭૨. બાલકૃષ્ણદાસ ની વાર્તા",
+          "en": "72. Balakrishnadas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૨",
+          "en": "Disciples of Shri Mahaprabhuji - Account 72"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_72.mp3",
+          "gu": "audio/varta84_72.mp3",
+          "en": "audio/varta84_72.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_72.json"
+      },
+      {
+        "id": "ch_varta84_73",
+        "order": 73,
+        "isVisible": true,
+        "title": {
+          "hi": "७३. नारायणदास खत्री की वार्ता",
+          "gu": "૭૩. નારાયણદાસ ખત્રી ની વાર્તા",
+          "en": "73. Narayandas Khatri Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૩",
+          "en": "Disciples of Shri Mahaprabhuji - Account 73"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_73.mp3",
+          "gu": "audio/varta84_73.mp3",
+          "en": "audio/varta84_73.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_73.json"
+      },
+      {
+        "id": "ch_varta84_74",
+        "order": 74,
+        "isVisible": true,
+        "title": {
+          "hi": "७४. भगवानदास कनोडिया की वार्ता",
+          "gu": "૭૪. ભગવાનદાસ કનોડિયા ની વાર્તા",
+          "en": "74. Bhagwandas Kanodiya Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૪",
+          "en": "Disciples of Shri Mahaprabhuji - Account 74"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_74.mp3",
+          "gu": "audio/varta84_74.mp3",
+          "en": "audio/varta84_74.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_74.json"
+      },
+      {
+        "id": "ch_varta84_75",
+        "order": 75,
+        "isVisible": true,
+        "title": {
+          "hi": "७५. जगदीशदास राजपूत की वार्ता",
+          "gu": "૭૫. જગદીશદાસ રાજપૂત ની વાર્તા",
+          "en": "75. Jagdishdas Rajput Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૫",
+          "en": "Disciples of Shri Mahaprabhuji - Account 75"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_75.mp3",
+          "gu": "audio/varta84_75.mp3",
+          "en": "audio/varta84_75.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_75.json"
+      },
+      {
+        "id": "ch_varta84_76",
+        "order": 76,
+        "isVisible": true,
+        "title": {
+          "hi": "७६. माधवदास सुनार की वार्ता",
+          "gu": "૭૬. માધવદાસ સુનાર ની વાર્તા",
+          "en": "76. Madhavdas Sunar Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૬",
+          "en": "Disciples of Shri Mahaprabhuji - Account 76"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_76.mp3",
+          "gu": "audio/varta84_76.mp3",
+          "en": "audio/varta84_76.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_76.json"
+      },
+      {
+        "id": "ch_varta84_77",
+        "order": 77,
+        "isVisible": true,
+        "title": {
+          "hi": "७७. केशवदास दर्जी की वार्ता",
+          "gu": "૭૭. કેશવદાસ દર્જી ની વાર્તા",
+          "en": "77. Keshavdas Darji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૭",
+          "en": "Disciples of Shri Mahaprabhuji - Account 77"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_77.mp3",
+          "gu": "audio/varta84_77.mp3",
+          "en": "audio/varta84_77.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_77.json"
+      },
+      {
+        "id": "ch_varta84_78",
+        "order": 78,
+        "isVisible": true,
+        "title": {
+          "hi": "७८. गोपीनाथदास की वार्ता",
+          "gu": "૭૮. ગોપીનાથદાસ ની વાર્તા",
+          "en": "78. Gopinathdas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૮",
+          "en": "Disciples of Shri Mahaprabhuji - Account 78"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_78.mp3",
+          "gu": "audio/varta84_78.mp3",
+          "en": "audio/varta84_78.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_78.json"
+      },
+      {
+        "id": "ch_varta84_79",
+        "order": 79,
+        "isVisible": true,
+        "title": {
+          "hi": "७९. लक्ष्मणदास कायस्थ की वार्ता",
+          "gu": "૭૯. લક્ષ્મણદાસ કાયસ્થ ની વાર્તા",
+          "en": "79. Lakshmandas Kayastha Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૯",
+          "en": "Disciples of Shri Mahaprabhuji - Account 79"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_79.mp3",
+          "gu": "audio/varta84_79.mp3",
+          "en": "audio/varta84_79.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_79.json"
+      },
+      {
+        "id": "ch_varta84_80",
+        "order": 80,
+        "isVisible": true,
+        "title": {
+          "hi": "८०. शिवराम भट्ट की वार्ता",
+          "gu": "૮૦. શિવરામ ભટ્ટ ની વાર્તા",
+          "en": "80. Shivram Bhatt Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮૦",
+          "en": "Disciples of Shri Mahaprabhuji - Account 80"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_80.mp3",
+          "gu": "audio/varta84_80.mp3",
+          "en": "audio/varta84_80.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_80.json"
+      },
+      {
+        "id": "ch_varta84_81",
+        "order": 81,
+        "isVisible": true,
+        "title": {
+          "hi": "८१. हरिदास कायस्थ की वार्ता",
+          "gu": "૮૧. હરિદાસ કાયસ્થ ની વાર્તા",
+          "en": "81. Haridas Kayastha Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮૧",
+          "en": "Disciples of Shri Mahaprabhuji - Account 81"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_81.mp3",
+          "gu": "audio/varta84_81.mp3",
+          "en": "audio/varta84_81.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_81.json"
+      },
+      {
+        "id": "ch_varta84_82",
+        "order": 82,
+        "isVisible": true,
+        "title": {
+          "hi": "८२. आनंददास गुजराती की वार्ता",
+          "gu": "૮૨. આનંદદાસ ગુજરાતી ની વાર્તા",
+          "en": "82. Ananddas Gujarati Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮૨",
+          "en": "Disciples of Shri Mahaprabhuji - Account 82"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_82.mp3",
+          "gu": "audio/varta84_82.mp3",
+          "en": "audio/varta84_82.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_82.json"
+      },
+      {
+        "id": "ch_varta84_83",
+        "order": 83,
+        "isVisible": true,
+        "title": {
+          "hi": "८३. त्रिभुवनदास की वार्ता",
+          "gu": "૮૩. ત્રિભુવનદાસ ની વાર્તા",
+          "en": "83. Tribhuvandas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮૩",
+          "en": "Disciples of Shri Mahaprabhuji - Account 83"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_83.mp3",
+          "gu": "audio/varta84_83.mp3",
+          "en": "audio/varta84_83.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_83.json"
+      },
+      {
+        "id": "ch_varta84_84",
+        "order": 84,
+        "isVisible": true,
+        "title": {
+          "hi": "८४. श्रीनाथदास की वार्ता",
+          "gu": "૮૪. શ્રીનાથદાસ ની વાર્તા",
+          "en": "84. Shrinathdas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮૪",
+          "en": "Disciples of Shri Mahaprabhuji - Account 84"
+        },
+        "audioUrl": {
+          "hi": "audio/varta84_84.mp3",
+          "gu": "audio/varta84_84.mp3",
+          "en": "audio/varta84_84.mp3"
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_84.json"
       }
     ]
   },
@@ -257,37 +2176,526 @@
         "id": "ch_varta252_1",
         "order": 1,
         "isVisible": true,
-        "title": { "hi": "१. श्री चाचा गोपीनाथ जी (गोपालदास जी)", "gu": "૧. શ્રી ચાચા ગોપીનાથ જી (ગોપાલદાસ જી)", "en": "1. Chacha Gopinath Ji (Gopaldas Ji)" },
-        "subtitle": { "hi": "श्री गुसांईजी के मुख्य सेवक एवं लीला मर्मज्ञ", "gu": "શ્રી ગુસાંઈજીના મુખ્ય સેવક અને લીલા મર્મજ્ઞ", "en": "Foremost Companion of Shri Gusainji" },
-        "audioUrl": { "hi": "audio/varta252_1.mp3", "gu": "audio/varta252_1.mp3", "en": "audio/varta252_1.mp3" },
+        "title": {
+          "hi": "१. चाचा गोपीनाथ जी (गोपालदास जी) की वार्ता",
+          "gu": "૧. ચાચા ગોપીનાથ જી (ગોપાલદાસ જી) ની વાર્તા",
+          "en": "1. Chacha Gopinath Ji (Gopaldas Ji) Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग १",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૧",
+          "en": "Disciples of Shri Gusainji - Account 1"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_1.mp3",
+          "gu": "audio/varta252_1.mp3",
+          "en": "audio/varta252_1.mp3"
+        },
         "contentUrl": "chapters/book_252_varta/ch_varta252_1.json"
       },
       {
         "id": "ch_varta252_2",
         "order": 2,
         "isVisible": true,
-        "title": { "hi": "२. श्री नागजी भट्ट जी की वार्ता", "gu": "૨. શ્રી નાગજી ભટ્ટ જી ની વાર્તા", "en": "2. Nagji Bhatt Ji Varta" },
-        "subtitle": { "hi": "अनन्य शरणागत निष्ठावान भक्त", "gu": "અનન્ય શરણાગત નિષ્ઠાવાન ભક્ત", "en": "Steadfast Devotee of Shri Gusainji" },
-        "audioUrl": { "hi": "audio/varta252_2.mp3", "gu": "audio/varta252_2.mp3", "en": "audio/varta252_2.mp3" },
+        "title": {
+          "hi": "२. नागजी भट्ट जी की वार्ता",
+          "gu": "૨. નાગજી ભટ્ટ જી ની વાર્તા",
+          "en": "2. Nagji Bhatt Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग २",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૨",
+          "en": "Disciples of Shri Gusainji - Account 2"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_2.mp3",
+          "gu": "audio/varta252_2.mp3",
+          "en": "audio/varta252_2.mp3"
+        },
         "contentUrl": "chapters/book_252_varta/ch_varta252_2.json"
       },
       {
         "id": "ch_varta252_3",
         "order": 3,
         "isVisible": true,
-        "title": { "hi": "३. श्री रसखान जी की वार्ता", "gu": "૩. શ્રી રસખાન જી ની વાર્તા", "en": "3. Raskhan Ji Varta" },
-        "subtitle": { "hi": "रसखान कवि, प्रेम रस के अनन्य उपासक", "gu": "રસખાન કવિ, પ્રેમ રસના અનન્ય ઉપાસક", "en": "Divine Poet of Divine Love" },
-        "audioUrl": { "hi": "audio/varta252_3.mp3", "gu": "audio/varta252_3.mp3", "en": "audio/varta252_3.mp3" },
+        "title": {
+          "hi": "३. हरिवंश जोशी जी की वार्ता",
+          "gu": "૩. હરિવંશ જોશી જી ની વાર્તા",
+          "en": "3. Harivansh Joshi Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग ३",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૩",
+          "en": "Disciples of Shri Gusainji - Account 3"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_3.mp3",
+          "gu": "audio/varta252_3.mp3",
+          "en": "audio/varta252_3.mp3"
+        },
         "contentUrl": "chapters/book_252_varta/ch_varta252_3.json"
       },
       {
         "id": "ch_varta252_4",
         "order": 4,
         "isVisible": true,
-        "title": { "hi": "४. संगीत शिरोमणि तानसेन जी की वार्ता", "gu": "૪. સંગીત શિરોમણિ તાનસેન જી ની વાર્તા", "en": "4. Tansen Ji Varta" },
-        "subtitle": { "hi": "संगीत द्वारा भगवद् सेवा करने वाले वैष्णव", "gu": "સંગીત દ્વારા ભગવદ્ સેવા કરનારા વૈષ્ણવ", "en": "Master Musician and Devotee" },
-        "audioUrl": { "hi": "audio/varta252_4.mp3", "gu": "audio/varta252_4.mp3", "en": "audio/varta252_4.mp3" },
+        "title": {
+          "hi": "४. रसखान जी (भगवदीय) की वार्ता",
+          "gu": "૪. રસખાન જી (ભગવદીય) ની વાર્તા",
+          "en": "4. Raskhan Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग ४",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૪",
+          "en": "Disciples of Shri Gusainji - Account 4"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_4.mp3",
+          "gu": "audio/varta252_4.mp3",
+          "en": "audio/varta252_4.mp3"
+        },
         "contentUrl": "chapters/book_252_varta/ch_varta252_4.json"
+      },
+      {
+        "id": "ch_varta252_5",
+        "order": 5,
+        "isVisible": true,
+        "title": {
+          "hi": "५. तानसेन जी (संगीत शिरोमणि) की वार्ता",
+          "gu": "૫. તાનસેન જી (સંગીત શિરોમણિ) ની વાર્તા",
+          "en": "5. Tansen Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग ५",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૫",
+          "en": "Disciples of Shri Gusainji - Account 5"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_5.mp3",
+          "gu": "audio/varta252_5.mp3",
+          "en": "audio/varta252_5.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_5.json"
+      },
+      {
+        "id": "ch_varta252_6",
+        "order": 6,
+        "isVisible": true,
+        "title": {
+          "hi": "६. गंगाबाई क्षत्राणी की वार्ता",
+          "gu": "૬. ગંગાબાઈ ક્ષત્રાણી ની વાર્તા",
+          "en": "6. Gangabai Kshatrani Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग ६",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૬",
+          "en": "Disciples of Shri Gusainji - Account 6"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_6.mp3",
+          "gu": "audio/varta252_6.mp3",
+          "en": "audio/varta252_6.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_6.json"
+      },
+      {
+        "id": "ch_varta252_7",
+        "order": 7,
+        "isVisible": true,
+        "title": {
+          "hi": "७. गोपालदास अधिकारी की वार्ता",
+          "gu": "૭. ગોપાલદાસ અધિકારી ની વાર્તા",
+          "en": "7. Gopaldas Adhikari Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग ७",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૭",
+          "en": "Disciples of Shri Gusainji - Account 7"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_7.mp3",
+          "gu": "audio/varta252_7.mp3",
+          "en": "audio/varta252_7.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_7.json"
+      },
+      {
+        "id": "ch_varta252_8",
+        "order": 8,
+        "isVisible": true,
+        "title": {
+          "hi": "८. गोविंद स्वामी जी (अष्टछाप) की वार्ता",
+          "gu": "૮. ગોવિંદ સ્વામી જી (અષ્ટછાપ) ની વાર્તા",
+          "en": "8. Govind Swami Ji (Ashtachhap) Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग ८",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૮",
+          "en": "Disciples of Shri Gusainji - Account 8"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_8.mp3",
+          "gu": "audio/varta252_8.mp3",
+          "en": "audio/varta252_8.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_8.json"
+      },
+      {
+        "id": "ch_varta252_9",
+        "order": 9,
+        "isVisible": true,
+        "title": {
+          "hi": "९. छीतस्वामी जी (अष्टछाप) की वार्ता",
+          "gu": "૯. છીતસ્વામી જી (અષ્ટછાપ) ની વાર્તા",
+          "en": "9. Chhitswami Ji (Ashtachhap) Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग ९",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૯",
+          "en": "Disciples of Shri Gusainji - Account 9"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_9.mp3",
+          "gu": "audio/varta252_9.mp3",
+          "en": "audio/varta252_9.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_9.json"
+      },
+      {
+        "id": "ch_varta252_10",
+        "order": 10,
+        "isVisible": true,
+        "title": {
+          "hi": "१०. नंददास जी (अष्टछाप) की वार्ता",
+          "gu": "૧૦. નંદદાસ જી (અષ્ટછાપ) ની વાર્તા",
+          "en": "10. Nandadas Ji (Ashtachhap) Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग १०",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૧૦",
+          "en": "Disciples of Shri Gusainji - Account 10"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_10.mp3",
+          "gu": "audio/varta252_10.mp3",
+          "en": "audio/varta252_10.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_10.json"
+      },
+      {
+        "id": "ch_varta252_11",
+        "order": 11,
+        "isVisible": true,
+        "title": {
+          "hi": "११. चतुर्भुजदास जी (अष्टछाप) की वार्ता",
+          "gu": "૧૧. ચતુર્ભુજદાસ જી (અષ્ટછાપ) ની વાર્તા",
+          "en": "11. Chaturbhujdas Ji (Ashtachhap) Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग ११",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૧૧",
+          "en": "Disciples of Shri Gusainji - Account 11"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_11.mp3",
+          "gu": "audio/varta252_11.mp3",
+          "en": "audio/varta252_11.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_11.json"
+      },
+      {
+        "id": "ch_varta252_12",
+        "order": 12,
+        "isVisible": true,
+        "title": {
+          "hi": "१२. रघुनाथदास काछी की वार्ता",
+          "gu": "૧૨. રઘુનાથદાસ કાછી ની વાર્તા",
+          "en": "12. Raghunathdas Kachhi Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग १२",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૧૨",
+          "en": "Disciples of Shri Gusainji - Account 12"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_12.mp3",
+          "gu": "audio/varta252_12.mp3",
+          "en": "audio/varta252_12.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_12.json"
+      },
+      {
+        "id": "ch_varta252_13",
+        "order": 13,
+        "isVisible": true,
+        "title": {
+          "hi": "१३. माधवदास जगाती की वार्ता",
+          "gu": "૧૩. માધવદાસ જગાતી ની વાર્તા",
+          "en": "13. Madhavdas Jagati Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग १३",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૧૩",
+          "en": "Disciples of Shri Gusainji - Account 13"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_13.mp3",
+          "gu": "audio/varta252_13.mp3",
+          "en": "audio/varta252_13.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_13.json"
+      },
+      {
+        "id": "ch_varta252_14",
+        "order": 14,
+        "isVisible": true,
+        "title": {
+          "hi": "१४. भगवानदास सुनार (गुजरात) की वार्ता",
+          "gu": "૧૪. ભગવાનદાસ સુનાર (ગુજરાત) ની વાર્તા",
+          "en": "14. Bhagwandas Sunar (Gujarat) Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग १४",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૧૪",
+          "en": "Disciples of Shri Gusainji - Account 14"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_14.mp3",
+          "gu": "audio/varta252_14.mp3",
+          "en": "audio/varta252_14.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_14.json"
+      },
+      {
+        "id": "ch_varta252_15",
+        "order": 15,
+        "isVisible": true,
+        "title": {
+          "hi": "१५. कल्याणदास कायस्थ (आगरा) की वार्ता",
+          "gu": "૧૫. કલ્યાણદાસ કાયસ્થ (આગરા) ની વાર્તા",
+          "en": "15. Kalyandas Kayastha (Agra) Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग १५",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૧૫",
+          "en": "Disciples of Shri Gusainji - Account 15"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_15.mp3",
+          "gu": "audio/varta252_15.mp3",
+          "en": "audio/varta252_15.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_15.json"
+      },
+      {
+        "id": "ch_varta252_16",
+        "order": 16,
+        "isVisible": true,
+        "title": {
+          "hi": "१६. मथुरादास खत्री की वार्ता",
+          "gu": "૧૬. મથુરાદાસ ખત્રી ની વાર્તા",
+          "en": "16. Mathuradas Khatri Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग १६",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૧૬",
+          "en": "Disciples of Shri Gusainji - Account 16"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_16.mp3",
+          "gu": "audio/varta252_16.mp3",
+          "en": "audio/varta252_16.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_16.json"
+      },
+      {
+        "id": "ch_varta252_17",
+        "order": 17,
+        "isVisible": true,
+        "title": {
+          "hi": "१७. पुरुषोत्तमदास जोशी की वार्ता",
+          "gu": "૧૭. પુરુષોત્તમદાસ જોશી ની વાર્તા",
+          "en": "17. Purushottamdas Joshi Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग १७",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૧૭",
+          "en": "Disciples of Shri Gusainji - Account 17"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_17.mp3",
+          "gu": "audio/varta252_17.mp3",
+          "en": "audio/varta252_17.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_17.json"
+      },
+      {
+        "id": "ch_varta252_18",
+        "order": 18,
+        "isVisible": true,
+        "title": {
+          "hi": "१८. दामोदरदास सांचोरा की वार्ता",
+          "gu": "૧૮. દામોદરદાસ સાંચોરા ની વાર્તા",
+          "en": "18. Damodardas Sanchora Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग १८",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૧૮",
+          "en": "Disciples of Shri Gusainji - Account 18"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_18.mp3",
+          "gu": "audio/varta252_18.mp3",
+          "en": "audio/varta252_18.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_18.json"
+      },
+      {
+        "id": "ch_varta252_19",
+        "order": 19,
+        "isVisible": true,
+        "title": {
+          "hi": "१९. त्रिकमदास गुजराती की वार्ता",
+          "gu": "૧૯. ત્રિકમદાસ ગુજરાતી ની વાર્તા",
+          "en": "19. Trikamdas Gujarati Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग १९",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૧૯",
+          "en": "Disciples of Shri Gusainji - Account 19"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_19.mp3",
+          "gu": "audio/varta252_19.mp3",
+          "en": "audio/varta252_19.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_19.json"
+      },
+      {
+        "id": "ch_varta252_20",
+        "order": 20,
+        "isVisible": true,
+        "title": {
+          "hi": "२०. हरिजीवनदास खत्री की वार्ता",
+          "gu": "૨૦. હરિજીવનદાસ ખત્રી ની વાર્તા",
+          "en": "20. Harijivandas Khatri Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग २०",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૨૦",
+          "en": "Disciples of Shri Gusainji - Account 20"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_20.mp3",
+          "gu": "audio/varta252_20.mp3",
+          "en": "audio/varta252_20.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_20.json"
+      },
+      {
+        "id": "ch_varta252_21",
+        "order": 21,
+        "isVisible": true,
+        "title": {
+          "hi": "२१. राजा टोडरमल जी की वार्ता",
+          "gu": "૨૧. રાજા ટોડરમલ જી ની વાર્તા",
+          "en": "21. Raja Todarmal Ji Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग २१",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૨૧",
+          "en": "Disciples of Shri Gusainji - Account 21"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_21.mp3",
+          "gu": "audio/varta252_21.mp3",
+          "en": "audio/varta252_21.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_21.json"
+      },
+      {
+        "id": "ch_varta252_22",
+        "order": 22,
+        "isVisible": true,
+        "title": {
+          "hi": "२२. राजा बीरबल की बेटी की वार्ता",
+          "gu": "૨૨. રાજા બીરબલની દીકરી ની વાર્તા",
+          "en": "22. Raja Birbal's Daughter Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग २२",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૨૨",
+          "en": "Disciples of Shri Gusainji - Account 22"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_22.mp3",
+          "gu": "audio/varta252_22.mp3",
+          "en": "audio/varta252_22.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_22.json"
+      },
+      {
+        "id": "ch_varta252_23",
+        "order": 23,
+        "isVisible": true,
+        "title": {
+          "hi": "२३. शेख गदई की वार्ता",
+          "gu": "૨૩. શેખ ગદઈ ની વાર્તા",
+          "en": "23. Sheikh Gadai Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग २३",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૨૩",
+          "en": "Disciples of Shri Gusainji - Account 23"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_23.mp3",
+          "gu": "audio/varta252_23.mp3",
+          "en": "audio/varta252_23.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_23.json"
+      },
+      {
+        "id": "ch_varta252_24",
+        "order": 24,
+        "isVisible": true,
+        "title": {
+          "hi": "२४. अकबर बादशाह की बेगम की वार्ता",
+          "gu": "૨૪. અકબર બાદશાહની બેગમ ની વાર્તા",
+          "en": "24. Empress of Akbar (Taj Begum) Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग २४",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૨૪",
+          "en": "Disciples of Shri Gusainji - Account 24"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_24.mp3",
+          "gu": "audio/varta252_24.mp3",
+          "en": "audio/varta252_24.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_24.json"
+      },
+      {
+        "id": "ch_varta252_25",
+        "order": 25,
+        "isVisible": true,
+        "title": {
+          "hi": "२५. नरोत्तमदास कायस्थ की वार्ता",
+          "gu": "૨૫. નરોત્તમદાસ કાયસ્થ ની વાર્તા",
+          "en": "25. Narottamdas Kayastha Varta"
+        },
+        "subtitle": {
+          "hi": "श्री गुसांईजी के २५२ वैष्णव - प्रसंग २५",
+          "gu": "શ્રી ગુસાંઈજીના ૨૫૨ વૈષ્ણવ - પ્રસંગ ૨૫",
+          "en": "Disciples of Shri Gusainji - Account 25"
+        },
+        "audioUrl": {
+          "hi": "audio/varta252_25.mp3",
+          "gu": "audio/varta252_25.mp3",
+          "en": "audio/varta252_25.mp3"
+        },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_25.json"
       }
     ]
   },
@@ -311,46 +2719,862 @@
         "id": "ch_sp_1",
         "order": 1,
         "isVisible": true,
-        "title": { "hi": "शिक्षा पत्र १", "gu": "શિક્ષા પત્ર ૧", "en": "Shiksha Patra 1" },
-        "subtitle": { "hi": "अनन्य आश्रय एवं शरण भावना", "gu": "અનન્ય આશ્રય અને શરણ ભાવના", "en": "Unconditional Refuge" },
-        "audioUrl": { "hi": "audio/shiksha_patra_1.mp3", "gu": "audio/shiksha_patra_1.mp3", "en": "audio/shiksha_patra_1.mp3" },
+        "title": {
+          "hi": "शिक्षा पत्र १",
+          "gu": "શિક્ષા પત્ર ૧",
+          "en": "Shiksha Patra 1"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧",
+          "en": "Epistle 1 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_1.mp3",
+          "gu": "audio/shiksha_patra_1.mp3",
+          "en": "audio/shiksha_patra_1.mp3"
+        },
         "contentUrl": "chapters/book_shiksha_patra/ch_sp_1.json"
       },
       {
         "id": "ch_sp_2",
         "order": 2,
         "isVisible": true,
-        "title": { "hi": "शिक्षा पत्र २", "gu": "શિક્ષા પત્ર ૨", "en": "Shiksha Patra 2" },
-        "subtitle": { "hi": "संसार निवृत्ति एवं भगवत् प्रीति", "gu": "સંસાર નિવૃત્તિ અને ભગવત્ પ્રીતિ", "en": "Detachment from Worldliness" },
-        "audioUrl": { "hi": "audio/shiksha_patra_2.mp3", "gu": "audio/shiksha_patra_2.mp3", "en": "audio/shiksha_patra_2.mp3" },
+        "title": {
+          "hi": "शिक्षा पत्र २",
+          "gu": "શિક્ષા પત્ર ૨",
+          "en": "Shiksha Patra 2"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨",
+          "en": "Epistle 2 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_2.mp3",
+          "gu": "audio/shiksha_patra_2.mp3",
+          "en": "audio/shiksha_patra_2.mp3"
+        },
         "contentUrl": "chapters/book_shiksha_patra/ch_sp_2.json"
       },
       {
         "id": "ch_sp_3",
         "order": 3,
         "isVisible": true,
-        "title": { "hi": "शिक्षा पत्र ३", "gu": "શિક્ષા પત્ર ૩", "en": "Shiksha Patra 3" },
-        "subtitle": { "hi": "मानसी सेवा का स्वरूप", "gu": "માનસી સેવાનું સ્વરૂપ", "en": "Nature of Mental Service" },
-        "audioUrl": { "hi": "audio/shiksha_patra_3.mp3", "gu": "audio/shiksha_patra_3.mp3", "en": "audio/shiksha_patra_3.mp3" },
+        "title": {
+          "hi": "शिक्षा पत्र ३",
+          "gu": "શિક્ષા પત્ર ૩",
+          "en": "Shiksha Patra 3"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩",
+          "en": "Epistle 3 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_3.mp3",
+          "gu": "audio/shiksha_patra_3.mp3",
+          "en": "audio/shiksha_patra_3.mp3"
+        },
         "contentUrl": "chapters/book_shiksha_patra/ch_sp_3.json"
       },
       {
         "id": "ch_sp_4",
         "order": 4,
         "isVisible": true,
-        "title": { "hi": "शिक्षा पत्र ४", "gu": "શિક્ષા પત્ર ૪", "en": "Shiksha Patra 4" },
-        "subtitle": { "hi": "अंतःकरण की शुद्धि", "gu": "અંતઃકરણની શુદ્ધિ", "en": "Purification of Heart" },
-        "audioUrl": { "hi": "audio/shiksha_patra_4.mp3", "gu": "audio/shiksha_patra_4.mp3", "en": "audio/shiksha_patra_4.mp3" },
+        "title": {
+          "hi": "शिक्षा पत्र ४",
+          "gu": "શિક્ષા પત્ર ૪",
+          "en": "Shiksha Patra 4"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ४",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૪",
+          "en": "Epistle 4 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_4.mp3",
+          "gu": "audio/shiksha_patra_4.mp3",
+          "en": "audio/shiksha_patra_4.mp3"
+        },
         "contentUrl": "chapters/book_shiksha_patra/ch_sp_4.json"
       },
       {
         "id": "ch_sp_5",
         "order": 5,
         "isVisible": true,
-        "title": { "hi": "शिक्षा पत्र ५", "gu": "શિક્ષા પત્ર ૫", "en": "Shiksha Patra 5" },
-        "subtitle": { "hi": "दैहिक एवं भौतिक आसक्ति का त्याग", "gu": "દૈહિક અને ભૌતિક આસક્તિનો ત્યાગ", "en": "Relinquishing Worldly Attachment" },
-        "audioUrl": { "hi": "audio/shiksha_patra_5.mp3", "gu": "audio/shiksha_patra_5.mp3", "en": "audio/shiksha_patra_5.mp3" },
+        "title": {
+          "hi": "शिक्षा पत्र ५",
+          "gu": "શિક્ષા પત્ર ૫",
+          "en": "Shiksha Patra 5"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ५",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૫",
+          "en": "Epistle 5 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_5.mp3",
+          "gu": "audio/shiksha_patra_5.mp3",
+          "en": "audio/shiksha_patra_5.mp3"
+        },
         "contentUrl": "chapters/book_shiksha_patra/ch_sp_5.json"
+      },
+      {
+        "id": "ch_sp_6",
+        "order": 6,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ६",
+          "gu": "શિક્ષા પત્ર ૬",
+          "en": "Shiksha Patra 6"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ६",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૬",
+          "en": "Epistle 6 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_6.mp3",
+          "gu": "audio/shiksha_patra_6.mp3",
+          "en": "audio/shiksha_patra_6.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_6.json"
+      },
+      {
+        "id": "ch_sp_7",
+        "order": 7,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ७",
+          "gu": "શિક્ષા પત્ર ૭",
+          "en": "Shiksha Patra 7"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ७",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૭",
+          "en": "Epistle 7 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_7.mp3",
+          "gu": "audio/shiksha_patra_7.mp3",
+          "en": "audio/shiksha_patra_7.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_7.json"
+      },
+      {
+        "id": "ch_sp_8",
+        "order": 8,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ८",
+          "gu": "શિક્ષા પત્ર ૮",
+          "en": "Shiksha Patra 8"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ८",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૮",
+          "en": "Epistle 8 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_8.mp3",
+          "gu": "audio/shiksha_patra_8.mp3",
+          "en": "audio/shiksha_patra_8.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_8.json"
+      },
+      {
+        "id": "ch_sp_9",
+        "order": 9,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ९",
+          "gu": "શિક્ષા પત્ર ૯",
+          "en": "Shiksha Patra 9"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ९",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૯",
+          "en": "Epistle 9 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_9.mp3",
+          "gu": "audio/shiksha_patra_9.mp3",
+          "en": "audio/shiksha_patra_9.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_9.json"
+      },
+      {
+        "id": "ch_sp_10",
+        "order": 10,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र १०",
+          "gu": "શિક્ષા પત્ર ૧૦",
+          "en": "Shiksha Patra 10"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १०",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૦",
+          "en": "Epistle 10 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_10.mp3",
+          "gu": "audio/shiksha_patra_10.mp3",
+          "en": "audio/shiksha_patra_10.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_10.json"
+      },
+      {
+        "id": "ch_sp_11",
+        "order": 11,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ११",
+          "gu": "શિક્ષા પત્ર ૧૧",
+          "en": "Shiksha Patra 11"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ११",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૧",
+          "en": "Epistle 11 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_11.mp3",
+          "gu": "audio/shiksha_patra_11.mp3",
+          "en": "audio/shiksha_patra_11.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_11.json"
+      },
+      {
+        "id": "ch_sp_12",
+        "order": 12,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र १२",
+          "gu": "શિક્ષા પત્ર ૧૨",
+          "en": "Shiksha Patra 12"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १२",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૨",
+          "en": "Epistle 12 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_12.mp3",
+          "gu": "audio/shiksha_patra_12.mp3",
+          "en": "audio/shiksha_patra_12.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_12.json"
+      },
+      {
+        "id": "ch_sp_13",
+        "order": 13,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र १३",
+          "gu": "શિક્ષા પત્ર ૧૩",
+          "en": "Shiksha Patra 13"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १३",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૩",
+          "en": "Epistle 13 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_13.mp3",
+          "gu": "audio/shiksha_patra_13.mp3",
+          "en": "audio/shiksha_patra_13.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_13.json"
+      },
+      {
+        "id": "ch_sp_14",
+        "order": 14,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र १४",
+          "gu": "શિક્ષા પત્ર ૧૪",
+          "en": "Shiksha Patra 14"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १४",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૪",
+          "en": "Epistle 14 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_14.mp3",
+          "gu": "audio/shiksha_patra_14.mp3",
+          "en": "audio/shiksha_patra_14.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_14.json"
+      },
+      {
+        "id": "ch_sp_15",
+        "order": 15,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र १५",
+          "gu": "શિક્ષા પત્ર ૧૫",
+          "en": "Shiksha Patra 15"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १५",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૫",
+          "en": "Epistle 15 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_15.mp3",
+          "gu": "audio/shiksha_patra_15.mp3",
+          "en": "audio/shiksha_patra_15.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_15.json"
+      },
+      {
+        "id": "ch_sp_16",
+        "order": 16,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र १६",
+          "gu": "શિક્ષા પત્ર ૧૬",
+          "en": "Shiksha Patra 16"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १६",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૬",
+          "en": "Epistle 16 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_16.mp3",
+          "gu": "audio/shiksha_patra_16.mp3",
+          "en": "audio/shiksha_patra_16.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_16.json"
+      },
+      {
+        "id": "ch_sp_17",
+        "order": 17,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र १७",
+          "gu": "શિક્ષા પત્ર ૧૭",
+          "en": "Shiksha Patra 17"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १७",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૭",
+          "en": "Epistle 17 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_17.mp3",
+          "gu": "audio/shiksha_patra_17.mp3",
+          "en": "audio/shiksha_patra_17.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_17.json"
+      },
+      {
+        "id": "ch_sp_18",
+        "order": 18,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र १८",
+          "gu": "શિક્ષા પત્ર ૧૮",
+          "en": "Shiksha Patra 18"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १८",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૮",
+          "en": "Epistle 18 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_18.mp3",
+          "gu": "audio/shiksha_patra_18.mp3",
+          "en": "audio/shiksha_patra_18.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_18.json"
+      },
+      {
+        "id": "ch_sp_19",
+        "order": 19,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र १९",
+          "gu": "શિક્ષા પત્ર ૧૯",
+          "en": "Shiksha Patra 19"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १९",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૯",
+          "en": "Epistle 19 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_19.mp3",
+          "gu": "audio/shiksha_patra_19.mp3",
+          "en": "audio/shiksha_patra_19.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_19.json"
+      },
+      {
+        "id": "ch_sp_20",
+        "order": 20,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र २०",
+          "gu": "શિક્ષા પત્ર ૨૦",
+          "en": "Shiksha Patra 20"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २०",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૦",
+          "en": "Epistle 20 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_20.mp3",
+          "gu": "audio/shiksha_patra_20.mp3",
+          "en": "audio/shiksha_patra_20.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_20.json"
+      },
+      {
+        "id": "ch_sp_21",
+        "order": 21,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र २१",
+          "gu": "શિક્ષા પત્ર ૨૧",
+          "en": "Shiksha Patra 21"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २१",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૧",
+          "en": "Epistle 21 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_21.mp3",
+          "gu": "audio/shiksha_patra_21.mp3",
+          "en": "audio/shiksha_patra_21.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_21.json"
+      },
+      {
+        "id": "ch_sp_22",
+        "order": 22,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र २२",
+          "gu": "શિક્ષા પત્ર ૨૨",
+          "en": "Shiksha Patra 22"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २२",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૨",
+          "en": "Epistle 22 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_22.mp3",
+          "gu": "audio/shiksha_patra_22.mp3",
+          "en": "audio/shiksha_patra_22.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_22.json"
+      },
+      {
+        "id": "ch_sp_23",
+        "order": 23,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र २३",
+          "gu": "શિક્ષા પત્ર ૨૩",
+          "en": "Shiksha Patra 23"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २३",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૩",
+          "en": "Epistle 23 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_23.mp3",
+          "gu": "audio/shiksha_patra_23.mp3",
+          "en": "audio/shiksha_patra_23.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_23.json"
+      },
+      {
+        "id": "ch_sp_24",
+        "order": 24,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र २४",
+          "gu": "શિક્ષા પત્ર ૨૪",
+          "en": "Shiksha Patra 24"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २४",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૪",
+          "en": "Epistle 24 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_24.mp3",
+          "gu": "audio/shiksha_patra_24.mp3",
+          "en": "audio/shiksha_patra_24.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_24.json"
+      },
+      {
+        "id": "ch_sp_25",
+        "order": 25,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र २५",
+          "gu": "શિક્ષા પત્ર ૨૫",
+          "en": "Shiksha Patra 25"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २५",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૫",
+          "en": "Epistle 25 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_25.mp3",
+          "gu": "audio/shiksha_patra_25.mp3",
+          "en": "audio/shiksha_patra_25.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_25.json"
+      },
+      {
+        "id": "ch_sp_26",
+        "order": 26,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र २६",
+          "gu": "શિક્ષા પત્ર ૨૬",
+          "en": "Shiksha Patra 26"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २६",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૬",
+          "en": "Epistle 26 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_26.mp3",
+          "gu": "audio/shiksha_patra_26.mp3",
+          "en": "audio/shiksha_patra_26.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_26.json"
+      },
+      {
+        "id": "ch_sp_27",
+        "order": 27,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र २७",
+          "gu": "શિક્ષા પત્ર ૨૭",
+          "en": "Shiksha Patra 27"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २७",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૭",
+          "en": "Epistle 27 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_27.mp3",
+          "gu": "audio/shiksha_patra_27.mp3",
+          "en": "audio/shiksha_patra_27.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_27.json"
+      },
+      {
+        "id": "ch_sp_28",
+        "order": 28,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र २८",
+          "gu": "શિક્ષા પત્ર ૨૮",
+          "en": "Shiksha Patra 28"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २८",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૮",
+          "en": "Epistle 28 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_28.mp3",
+          "gu": "audio/shiksha_patra_28.mp3",
+          "en": "audio/shiksha_patra_28.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_28.json"
+      },
+      {
+        "id": "ch_sp_29",
+        "order": 29,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र २९",
+          "gu": "શિક્ષા પત્ર ૨૯",
+          "en": "Shiksha Patra 29"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २९",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૯",
+          "en": "Epistle 29 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_29.mp3",
+          "gu": "audio/shiksha_patra_29.mp3",
+          "en": "audio/shiksha_patra_29.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_29.json"
+      },
+      {
+        "id": "ch_sp_30",
+        "order": 30,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ३०",
+          "gu": "શિક્ષા પત્ર ૩૦",
+          "en": "Shiksha Patra 30"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३०",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૦",
+          "en": "Epistle 30 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_30.mp3",
+          "gu": "audio/shiksha_patra_30.mp3",
+          "en": "audio/shiksha_patra_30.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_30.json"
+      },
+      {
+        "id": "ch_sp_31",
+        "order": 31,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ३१",
+          "gu": "શિક્ષા પત્ર ૩૧",
+          "en": "Shiksha Patra 31"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३१",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૧",
+          "en": "Epistle 31 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_31.mp3",
+          "gu": "audio/shiksha_patra_31.mp3",
+          "en": "audio/shiksha_patra_31.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_31.json"
+      },
+      {
+        "id": "ch_sp_32",
+        "order": 32,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ३२",
+          "gu": "શિક્ષા પત્ર ૩૨",
+          "en": "Shiksha Patra 32"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३२",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૨",
+          "en": "Epistle 32 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_32.mp3",
+          "gu": "audio/shiksha_patra_32.mp3",
+          "en": "audio/shiksha_patra_32.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_32.json"
+      },
+      {
+        "id": "ch_sp_33",
+        "order": 33,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ३३",
+          "gu": "શિક્ષા પત્ર ૩૩",
+          "en": "Shiksha Patra 33"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३३",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૩",
+          "en": "Epistle 33 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_33.mp3",
+          "gu": "audio/shiksha_patra_33.mp3",
+          "en": "audio/shiksha_patra_33.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_33.json"
+      },
+      {
+        "id": "ch_sp_34",
+        "order": 34,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ३४",
+          "gu": "શિક્ષા પત્ર ૩૪",
+          "en": "Shiksha Patra 34"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३४",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૪",
+          "en": "Epistle 34 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_34.mp3",
+          "gu": "audio/shiksha_patra_34.mp3",
+          "en": "audio/shiksha_patra_34.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_34.json"
+      },
+      {
+        "id": "ch_sp_35",
+        "order": 35,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ३५",
+          "gu": "શિક્ષા પત્ર ૩૫",
+          "en": "Shiksha Patra 35"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३५",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૫",
+          "en": "Epistle 35 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_35.mp3",
+          "gu": "audio/shiksha_patra_35.mp3",
+          "en": "audio/shiksha_patra_35.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_35.json"
+      },
+      {
+        "id": "ch_sp_36",
+        "order": 36,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ३६",
+          "gu": "શિક્ષા પત્ર ૩૬",
+          "en": "Shiksha Patra 36"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३६",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૬",
+          "en": "Epistle 36 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_36.mp3",
+          "gu": "audio/shiksha_patra_36.mp3",
+          "en": "audio/shiksha_patra_36.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_36.json"
+      },
+      {
+        "id": "ch_sp_37",
+        "order": 37,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ३७",
+          "gu": "શિક્ષા પત્ર ૩૭",
+          "en": "Shiksha Patra 37"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३७",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૭",
+          "en": "Epistle 37 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_37.mp3",
+          "gu": "audio/shiksha_patra_37.mp3",
+          "en": "audio/shiksha_patra_37.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_37.json"
+      },
+      {
+        "id": "ch_sp_38",
+        "order": 38,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ३८",
+          "gu": "શિક્ષા પત્ર ૩૮",
+          "en": "Shiksha Patra 38"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३८",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૮",
+          "en": "Epistle 38 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_38.mp3",
+          "gu": "audio/shiksha_patra_38.mp3",
+          "en": "audio/shiksha_patra_38.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_38.json"
+      },
+      {
+        "id": "ch_sp_39",
+        "order": 39,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ३९",
+          "gu": "શિક્ષા પત્ર ૩૯",
+          "en": "Shiksha Patra 39"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३९",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૯",
+          "en": "Epistle 39 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_39.mp3",
+          "gu": "audio/shiksha_patra_39.mp3",
+          "en": "audio/shiksha_patra_39.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_39.json"
+      },
+      {
+        "id": "ch_sp_40",
+        "order": 40,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ४०",
+          "gu": "શિક્ષા પત્ર ૪૦",
+          "en": "Shiksha Patra 40"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ४०",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૪૦",
+          "en": "Epistle 40 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_40.mp3",
+          "gu": "audio/shiksha_patra_40.mp3",
+          "en": "audio/shiksha_patra_40.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_40.json"
+      },
+      {
+        "id": "ch_sp_41",
+        "order": 41,
+        "isVisible": true,
+        "title": {
+          "hi": "शिक्षा पत्र ४१",
+          "gu": "શિક્ષા પત્ર ૪૧",
+          "en": "Shiksha Patra 41"
+        },
+        "subtitle": {
+          "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ४१",
+          "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૪૧",
+          "en": "Epistle 41 of Shri Hariray Mahaprabhu"
+        },
+        "audioUrl": {
+          "hi": "audio/shiksha_patra_41.mp3",
+          "gu": "audio/shiksha_patra_41.mp3",
+          "en": "audio/shiksha_patra_41.mp3"
+        },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_41.json"
       }
     ]
   }
