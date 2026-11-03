@@ -10,74 +10,167 @@
       "en": "Shodash Granth"
     },
     "subtitle": {
-      "hi": "महाप्रभु श्री वल्लभाचार्य विरचित १६ ग्रंथ",
-      "gu": "મહાપ્રભુ શ્રી વલ્લભાચાર્ય રચિત ૧૬ ગ્રંથો",
+      "hi": "महाप्रभु श्री वल्लभाचार्य विरचित १६ मौलिक ग्रंथ",
+      "gu": "મહાપ્રભુ શ્રી વલ્લભાચાર્ય રચિત ૧૬ મૌલિક ગ્રંથો",
       "en": "16 Foundational Treatises by Shri Vallabhacharya"
     },
     "chapters": [
       {
-        "id": "ch_mangalacharanam",
+        "id": "ch_sg_mangalacharanam",
         "order": 1,
         "isVisible": true,
         "title": {
-          "hi": "१. प्रातः स्मरण एवं मंगलाचरण",
-          "gu": "૧. પ્રાતઃ સ્મરણ અને મંગલાચરણ",
-          "en": "1. Pratah Smaran & Mangalacharanam"
+          "hi": "मंगलाचरण (Pratah Smaran)",
+          "gu": "મંગલાચરણ (પ્રાતઃ સ્મરણ)",
+          "en": "Mangalacharanam (Daily Invocation)"
         },
-        "subtitle": {
-          "hi": "श्री वल्लभाचार्य चरण वंदना",
-          "gu": "શ્રી વલ્લભાચાર્ય ચરણ વંદના",
-          "en": "Pushtimargiya Daily Invocation"
-        },
-        "audioUrl": {
-          "hi": "audio/mangalacharanam.mp3",
-          "gu": "audio/mangalacharanam.mp3",
-          "en": "audio/mangalacharanam.mp3"
-        },
+        "subtitle": { "hi": "श्री वल्लभाचार्य चरण वंदना", "gu": "શ્રી વલ્લભાચાર્ય ચરણ વંદના", "en": "Invocation to Shri Vallabhacharya" },
+        "audioUrl": { "hi": "audio/mangalacharanam.mp3", "gu": "audio/mangalacharanam.mp3", "en": "audio/mangalacharanam.mp3" },
         "contentUrl": "chapters/book_shodash_granth/ch_mangalacharanam.json"
       },
       {
-        "id": "ch_yamunashtakam",
+        "id": "ch_sg_yamunashtakam",
         "order": 2,
         "isVisible": true,
-        "title": {
-          "hi": "२. श्री यमुनाष्टकम्",
-          "gu": "૨. શ્રી યમુનાષ્ટકમ્",
-          "en": "2. Shri Yamunashtakam"
-        },
-        "subtitle": {
-          "hi": "प्रथम ग्रंथ",
-          "gu": "પ્રથમ ગ્રંથ",
-          "en": "First Treatise"
-        },
-        "audioUrl": {
-          "hi": "audio/yamunashtakam.mp3",
-          "gu": "audio/yamunashtakam.mp3",
-          "en": "audio/yamunashtakam.mp3"
-        },
-        "durationSeconds": 245,
+        "title": { "hi": "१. श्री यमुनाष्टकम्", "gu": "૧. શ્રી યમુનાષ્ટકમ્", "en": "1. Shri Yamunashtakam" },
+        "subtitle": { "hi": "प्रथम ग्रंथ - श्री यमुनाजी का स्तवन", "gu": "પ્રથમ ગ્રંથ - શ્રી યમુનાજીનું સ્તવન", "en": "1st Treatise - Hymn to Shri Yamuna" },
+        "audioUrl": { "hi": "audio/yamunashtakam.mp3", "gu": "audio/yamunashtakam.mp3", "en": "audio/yamunashtakam.mp3" },
         "contentUrl": "chapters/book_shodash_granth/ch_yamunashtakam.json"
       },
       {
-        "id": "ch_balabodha",
+        "id": "ch_sg_balabodha",
         "order": 3,
         "isVisible": true,
-        "title": {
-          "hi": "३. बालबोधः",
-          "gu": "૩. બાલબોધઃ",
-          "en": "3. Balabodha"
-        },
-        "subtitle": {
-          "hi": "द्वितीय ग्रंथ",
-          "gu": "દ્વિતીય ગ્રંથ",
-          "en": "Second Treatise"
-        },
-        "audioUrl": {
-          "hi": "audio/mangalacharanam.mp3",
-          "gu": "audio/mangalacharanam.mp3",
-          "en": "audio/mangalacharanam.mp3"
-        },
+        "title": { "hi": "२. बालबोधः", "gu": "૨. બાલબોધઃ", "en": "2. Balabodha" },
+        "subtitle": { "hi": "द्वितीय ग्रंथ - नवदीक्षितों हेतु मार्गदर्शन", "gu": "દ્વિતીય ગ્રંથ - નવદીક્ષિતો માટે માર્ગદર્શન", "en": "2nd Treatise - Knowledge for Seekers" },
+        "audioUrl": { "hi": "audio/balabodha.mp3", "gu": "audio/balabodha.mp3", "en": "audio/balabodha.mp3" },
         "contentUrl": "chapters/book_shodash_granth/ch_balabodha.json"
+      },
+      {
+        "id": "ch_sg_siddhanta_muktavali",
+        "order": 4,
+        "isVisible": true,
+        "title": { "hi": "३. सिद्धान्तमुक्तावली", "gu": "૩. સિદ્ધાન્તમુક્તાવલી", "en": "3. Siddhanta Muktavali" },
+        "subtitle": { "hi": "तृतीय ग्रंथ - सेवा एवं ज्ञान का समन्वय", "gu": "તૃતીય ગ્રંથ - સેવા અને જ્ઞાનનો સમન્વય", "en": "3rd Treatise - The Pearl Necklace of Tenets" },
+        "audioUrl": { "hi": "audio/siddhanta_muktavali.mp3", "gu": "audio/siddhanta_muktavali.mp3", "en": "audio/siddhanta_muktavali.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_siddhanta_muktavali.json"
+      },
+      {
+        "id": "ch_sg_pushti_pravaha_maryada",
+        "order": 5,
+        "isVisible": true,
+        "title": { "hi": "४. पुष्टिप्रवाहमर्यादाभेदः", "gu": "૪. પુષ્ટિપ્રવાહમર્યાદાભેદઃ", "en": "4. Pushti Pravaha Maryada Bheda" },
+        "subtitle": { "hi": "चतुर्थ ग्रंथ - तीन प्रकार के जीवों का भेद", "gu": "ચતુર્થ ગ્રંથ - ત્રણ પ્રકારના જીવોનો ભેદ", "en": "4th Treatise - Distinction of the Three Souls" },
+        "audioUrl": { "hi": "audio/pushti_pravaha_maryada.mp3", "gu": "audio/pushti_pravaha_maryada.mp3", "en": "audio/pushti_pravaha_maryada.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_pushti_pravaha_maryada.json"
+      },
+      {
+        "id": "ch_sg_siddhanta_rahasya",
+        "order": 6,
+        "isVisible": true,
+        "title": { "hi": "५. सिद्धान्तरहस्यम्", "gu": "૫. સિદ્ધાન્તરહસ્યમ્", "en": "5. Siddhanta Rahasya" },
+        "subtitle": { "hi": "पंचम ग्रंथ - ब्रह्मसंबंध का रहस्य", "gu": "પંચમ ગ્રંથ - બ્રહ્મસંબંધનું રહસ્ય", "en": "5th Treatise - Secret of Dedication" },
+        "audioUrl": { "hi": "audio/siddhanta_rahasya.mp3", "gu": "audio/siddhanta_rahasya.mp3", "en": "audio/siddhanta_rahasya.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_siddhanta_rahasya.json"
+      },
+      {
+        "id": "ch_sg_navaratnam",
+        "order": 7,
+        "isVisible": true,
+        "title": { "hi": "६. नवरत्नम्", "gu": "૬. નવરત્નમ્", "en": "6. Navaratnam" },
+        "subtitle": { "hi": "षष्ठ ग्रंथ - चिंता मुक्ति के नौ श्लोक", "gu": "ષષ્ઠ ગ્રંથ - ચિંતા મુક્તિના નવ શ્લોક", "en": "6th Treatise - The Nine Jewels of Surrender" },
+        "audioUrl": { "hi": "audio/navaratnam.mp3", "gu": "audio/navaratnam.mp3", "en": "audio/navaratnam.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_navaratnam.json"
+      },
+      {
+        "id": "ch_sg_antahkarana_prabodha",
+        "order": 8,
+        "isVisible": true,
+        "title": { "hi": "७. अन्तःकरणप्रबोधः", "gu": "૭. અન્તઃકરણપ્રબોધઃ", "en": "7. Antahkarana Prabodha" },
+        "subtitle": { "hi": "सप्तम ग्रंथ - मन को भगवन्निष्ठ उपदेश", "gu": "સપ્તમ ગ્રંથ - મનને ભગવન્નિષ્ઠ ઉપદેશ", "en": "7th Treatise - Admonition to the Inner Heart" },
+        "audioUrl": { "hi": "audio/antahkarana_prabodha.mp3", "gu": "audio/antahkarana_prabodha.mp3", "en": "audio/antahkarana_prabodha.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_antahkarana_prabodha.json"
+      },
+      {
+        "id": "ch_sg_viveka_dhairyashraya",
+        "order": 9,
+        "isVisible": true,
+        "title": { "hi": "८. विवेकधैर्याश्रयः", "gu": "૮. વિવેકધૈર્યાશ્રયઃ", "en": "8. Viveka Dhairyashraya" },
+        "subtitle": { "hi": "अष्टम ग्रंथ - विवेक, धैर्य और अनन्य आश्रय", "gu": "અષ્ટમ ગ્રંથ - વિવેક, ધૈર્ય અને અનન્ય આશ્રય", "en": "8th Treatise - Discernment, Patience & Refuge" },
+        "audioUrl": { "hi": "audio/viveka_dhairyashraya.mp3", "gu": "audio/viveka_dhairyashraya.mp3", "en": "audio/viveka_dhairyashraya.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_viveka_dhairyashraya.json"
+      },
+      {
+        "id": "ch_sg_krishnashraya",
+        "order": 10,
+        "isVisible": true,
+        "title": { "hi": "९. कृष्णाश्रयः", "gu": "૯. કૃષ્ણાશ્રયઃ", "en": "9. Krishnashraya" },
+        "subtitle": { "hi": "नवम ग्रंथ - कलिकाल में केवल श्रीकृष्ण ही शरण", "gu": "નવમ ગ્રંથ - કલિકાળમાં માત્ર શ્રીકૃષ્ણ જ શરણ", "en": "9th Treatise - Refuge in Shri Krishna" },
+        "audioUrl": { "hi": "audio/krishnashraya.mp3", "gu": "audio/krishnashraya.mp3", "en": "audio/krishnashraya.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_krishnashraya.json"
+      },
+      {
+        "id": "ch_sg_chatuhshloki",
+        "order": 11,
+        "isVisible": true,
+        "title": { "hi": "१०. चतुःश्लोकी", "gu": "૧૦. ચતુઃશ્લોકી", "en": "10. Chatuhshloki" },
+        "subtitle": { "hi": "दशम ग्रंथ - पुरुषार्थ एवं सर्वस्व समर्पण", "gu": "દશમ ગ્રંથ - પુરુષાર્થ અને સર્વસ્વ સમર્પણ", "en": "10th Treatise - The Fourfold Goal of Life" },
+        "audioUrl": { "hi": "audio/chatuhshloki.mp3", "gu": "audio/chatuhshloki.mp3", "en": "audio/chatuhshloki.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_chatuhshloki.json"
+      },
+      {
+        "id": "ch_sg_bhaktivardhini",
+        "order": 12,
+        "isVisible": true,
+        "title": { "hi": "११. भक्तिवर्धिनी", "gu": "૧૧. ભક્તિવર્ધિની", "en": "11. Bhaktivardhini" },
+        "subtitle": { "hi": "एकादश ग्रंथ - प्रेम एवं भक्ति की वृद्धि के उपाय", "gu": "એકાદશ ગ્રંથ - પ્રેમ અને ભક્તિની વૃદ્ધિના ઉપાય", "en": "11th Treatise - Cultivating Divine Devotion" },
+        "audioUrl": { "hi": "audio/bhaktivardhini.mp3", "gu": "audio/bhaktivardhini.mp3", "en": "audio/bhaktivardhini.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_bhaktivardhini.json"
+      },
+      {
+        "id": "ch_sg_jalabheda",
+        "order": 13,
+        "isVisible": true,
+        "title": { "hi": "१२. जलभेदः", "gu": "૧૨. જલભેદઃ", "en": "12. Jalabheda" },
+        "subtitle": { "hi": "द्वादश ग्रंथ - वक्ता एवं श्रोता के प्रकार", "gu": "દ્વાદશ ગ્રંથ - વક્તા અને શ્રોતાના પ્રકાર", "en": "12th Treatise - Differentiation of Speakers" },
+        "audioUrl": { "hi": "audio/jalabheda.mp3", "gu": "audio/jalabheda.mp3", "en": "audio/jalabheda.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_jalabheda.json"
+      },
+      {
+        "id": "ch_sg_panchapadyani",
+        "order": 14,
+        "isVisible": true,
+        "title": { "hi": "१३. पञ्चपद्यानि", "gu": "૧૩. પંચપદ્યાનિ", "en": "13. Panchapadyani" },
+        "subtitle": { "hi": "त्रयोदश ग्रंथ - कथा-श्रवण का स्वरूप", "gu": "ત્રયોદશ ગ્રંથ - કથા-શ્રવણનું સ્વરૂપ", "en": "13th Treatise - The Five Verses on Discourse" },
+        "audioUrl": { "hi": "audio/panchapadyani.mp3", "gu": "audio/panchapadyani.mp3", "en": "audio/panchapadyani.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_panchapadyani.json"
+      },
+      {
+        "id": "ch_sg_sannyasa_nirnaya",
+        "order": 15,
+        "isVisible": true,
+        "title": { "hi": "१४. संन्यासनिर्णयः", "gu": "૧૪. સંન્યાસનિર્ણયઃ", "en": "14. Sannyasa Nirnaya" },
+        "subtitle": { "hi": "चतुर्दश ग्रंथ - विरह भक्ति हेतु संन्यास का निर्णय", "gu": "ચતુર્દશ ગ્રંથ - વિરહ ભક્તિ માટે સંન્યાસનો નિર્ણય", "en": "14th Treatise - Determination on Renunciation" },
+        "audioUrl": { "hi": "audio/sannyasa_nirnaya.mp3", "gu": "audio/sannyasa_nirnaya.mp3", "en": "audio/sannyasa_nirnaya.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_sannyasa_nirnaya.json"
+      },
+      {
+        "id": "ch_sg_nirodha_lakshanam",
+        "order": 16,
+        "isVisible": true,
+        "title": { "hi": "१५. निरोधलक्षणम्", "gu": "૧૫. નિરોધલક્ષણમ્", "en": "15. Nirodha Lakshanam" },
+        "subtitle": { "hi": "पंचदश ग्रंथ - प्रपंच विस्मृति और भगवदासक्ति", "gu": "પંચદશ ગ્રંથ - પ્રપંચ વિસ્મૃતિ અને ભગવદાસક્તિ", "en": "15th Treatise - Total Absorption" },
+        "audioUrl": { "hi": "audio/nirodha_lakshanam.mp3", "gu": "audio/nirodha_lakshanam.mp3", "en": "audio/nirodha_lakshanam.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_nirodha_lakshanam.json"
+      },
+      {
+        "id": "ch_sg_seva_phalam",
+        "order": 17,
+        "isVisible": true,
+        "title": { "hi": "१६. सेवाफलम्", "gu": "૧૬. સેવાફલમ્", "en": "16. Seva Phalam" },
+        "subtitle": { "hi": "षोडश ग्रंथ - मानसी सेवा एवं उसका परम फल", "gu": "ષોડશ ગ્રંથ - માનસી સેવા અને તેનું પરમ ફળ", "en": "16th Treatise - Fruit of Loving Service" },
+        "audioUrl": { "hi": "audio/seva_phalam.mp3", "gu": "audio/seva_phalam.mp3", "en": "audio/seva_phalam.mp3" },
+        "contentUrl": "chapters/book_shodash_granth/ch_seva_phalam.json"
       }
     ]
   },
@@ -85,50 +178,179 @@
     "id": "book_84_varta",
     "order": 2,
     "isVisible": true,
-    "coverImageUrl": "images/shodash_granth.jpg",
+    "coverImageUrl": "images/84_varta.jpg",
     "title": {
       "hi": "८४ वैष्णवन की वार्ता",
       "gu": "૮૪ વૈષ્ણવોની વાર્તા",
       "en": "84 Vaishnavan Ki Varta"
     },
     "subtitle": {
-      "hi": "महाप्रभु श्री वल्लभाचार्यजी के ८४ परम कृपापात्र भगवदीय",
-      "gu": "મહાપ્રભુ શ્રી વલ્લભાચાર્યજીના ૮૪ પરમ કૃપાપાત્ર ભગવદીય",
+      "hi": "महाप्रभु श्री वल्लभाचार्यजी के ८४ कृपापात्र भगवदीयों के चरित्र",
+      "gu": "મહાપ્રભુ શ્રી વલ્લભાચાર્યજીના ૮૪ કૃપાપાત્ર ભગવદીયોના ચરિત્ર",
       "en": "Sacred Chronicles of the 84 Disciples of Shri Vallabhacharya"
     },
     "chapters": [
       {
-        "id": "ch_varta_1",
+        "id": "ch_varta84_1",
         "order": 1,
         "isVisible": true,
-        "title": {
-          "hi": "१. श्री दामोदरदास हरसानी जी की वार्ता",
-          "gu": "૧. શ્રી દામોદરદાસ હરસાની જી ની વાર્તા",
-          "en": "1. Shri Damodardas Harsani Ji Varta"
-        },
-        "audioUrl": {
-          "hi": "audio/yamunashtakam.mp3",
-          "gu": "audio/yamunashtakam.mp3",
-          "en": "audio/yamunashtakam.mp3"
-        },
-        "durationSeconds": 245,
-        "contentUrl": "chapters/book_shodash_granth/ch_yamunashtakam.json"
+        "title": { "hi": "१. श्री दामोदरदास हरसानी जी की वार्ता", "gu": "૧. શ્રી દામોદરદાસ હરસાની જી ની વાર્તા", "en": "1. Damodardas Harsani Ji Varta" },
+        "subtitle": { "hi": "श्री महाप्रभुजी के परम कृपापात्र प्रथम वैष्णव", "gu": "શ્રી મહાપ્રભુજીના પરમ કૃપાપાત્ર પ્રથમ વૈષ્ણવ", "en": "Foremost Disciple of Shri Mahaprabhuji" },
+        "audioUrl": { "hi": "audio/varta84_1.mp3", "gu": "audio/varta84_1.mp3", "en": "audio/varta84_1.mp3" },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_1.json"
       },
       {
-        "id": "ch_varta_2",
+        "id": "ch_varta84_2",
         "order": 2,
         "isVisible": true,
-        "title": {
-          "hi": "२. श्री कृष्णदास मेघन जी की वार्ता",
-          "gu": "૨. શ્રી કૃષ્ણદાસ મેઘન જી ની વાર્તા",
-          "en": "2. Shri Krishnadas Meghan Ji Varta"
-        },
-        "audioUrl": {
-          "hi": "audio/mangalacharanam.mp3",
-          "gu": "audio/mangalacharanam.mp3",
-          "en": "audio/mangalacharanam.mp3"
-        },
-        "contentUrl": "chapters/book_shodash_granth/ch_balabodha.json"
+        "title": { "hi": "२. श्री कृष्णदास मेघन जी की वार्ता", "gu": "૨. શ્રી કૃષ્ણદાસ મેઘન જી ની વાર્તા", "en": "2. Krishnadas Meghan Ji Varta" },
+        "subtitle": { "hi": "अनन्य निष्ठावान भगवदीय", "gu": "અનન્ય નિષ્ઠાવાન ભગવદીય", "en": "Devout Disciple of Shri Mahaprabhuji" },
+        "audioUrl": { "hi": "audio/varta84_2.mp3", "gu": "audio/varta84_2.mp3", "en": "audio/varta84_2.mp3" },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_2.json"
+      },
+      {
+        "id": "ch_varta84_3",
+        "order": 3,
+        "isVisible": true,
+        "title": { "hi": "३. श्री कुंभनदास जी की वार्ता", "gu": "૩. શ્રી કુંભનદાસ જી ની વાર્તા", "en": "3. Kumbhandas Ji Varta" },
+        "subtitle": { "hi": "अष्टछाप महाकवि एवं परमहंस भक्त", "gu": "અષ્ટછાપ મહાકવિ અને પરમહંસ ભક્ત", "en": "Ashtachhap Poet & Divine Devotee" },
+        "audioUrl": { "hi": "audio/varta84_3.mp3", "gu": "audio/varta84_3.mp3", "en": "audio/varta84_3.mp3" },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_3.json"
+      },
+      {
+        "id": "ch_varta84_4",
+        "order": 4,
+        "isVisible": true,
+        "title": { "hi": "४. श्री सूरदास जी की वार्ता", "gu": "૪. શ્રી સૂરદાસ જી ની વાર્તા", "en": "4. Surdas Ji Varta" },
+        "subtitle": { "hi": "पुष्टिमार्ग के जहाज, अष्टछाप शिरोमणि", "gu": "પુષ્ટિમાર્ગના જહાજ, અષ્ટછાપ શિરોમણિ", "en": "Supreme Mystic Poet of Braj" },
+        "audioUrl": { "hi": "audio/varta84_4.mp3", "gu": "audio/varta84_4.mp3", "en": "audio/varta84_4.mp3" },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_4.json"
+      },
+      {
+        "id": "ch_varta84_5",
+        "order": 5,
+        "isVisible": true,
+        "title": { "hi": "५. श्री परमानंददास जी की वार्ता", "gu": "૫. શ્રી પરમાનંદદાસ જી ની વાર્તા", "en": "5. Paramanandadas Ji Varta" },
+        "subtitle": { "hi": "वात्सल्य एवं बाललीला के गायक", "gu": "વાત્સલ્ય અને બાલલીલાના ગાયક", "en": "Singer of Divine Childhood Pastimes" },
+        "audioUrl": { "hi": "audio/varta84_5.mp3", "gu": "audio/varta84_5.mp3", "en": "audio/varta84_5.mp3" },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_5.json"
+      }
+    ]
+  },
+  {
+    "id": "book_252_varta",
+    "order": 3,
+    "isVisible": true,
+    "coverImageUrl": "images/252_varta.jpg",
+    "title": {
+      "hi": "२५२ वैष्णवन की वार्ता",
+      "gu": "૨૫૨ વૈષ્ણવોની વાર્તા",
+      "en": "252 Vaishnavan Ki Varta"
+    },
+    "subtitle": {
+      "hi": "गोस्वामी श्री विट्ठलनाथजी (श्री गुसांईजी) के २५२ भगवदीयों के चरित्र",
+      "gu": "ગોસ્વામી શ્રી વિઠ્ઠલનાથજી (શ્રી ગુસાંઈજી)ના ૨૫૨ ભગવદીયોના ચરિત્ર",
+      "en": "Sacred Chronicles of the 252 Disciples of Shri Gusainji"
+    },
+    "chapters": [
+      {
+        "id": "ch_varta252_1",
+        "order": 1,
+        "isVisible": true,
+        "title": { "hi": "१. श्री चाचा गोपीनाथ जी (गोपालदास जी)", "gu": "૧. શ્રી ચાચા ગોપીનાથ જી (ગોપાલદાસ જી)", "en": "1. Chacha Gopinath Ji (Gopaldas Ji)" },
+        "subtitle": { "hi": "श्री गुसांईजी के मुख्य सेवक एवं लीला मर्मज्ञ", "gu": "શ્રી ગુસાંઈજીના મુખ્ય સેવક અને લીલા મર્મજ્ઞ", "en": "Foremost Companion of Shri Gusainji" },
+        "audioUrl": { "hi": "audio/varta252_1.mp3", "gu": "audio/varta252_1.mp3", "en": "audio/varta252_1.mp3" },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_1.json"
+      },
+      {
+        "id": "ch_varta252_2",
+        "order": 2,
+        "isVisible": true,
+        "title": { "hi": "२. श्री नागजी भट्ट जी की वार्ता", "gu": "૨. શ્રી નાગજી ભટ્ટ જી ની વાર્તા", "en": "2. Nagji Bhatt Ji Varta" },
+        "subtitle": { "hi": "अनन्य शरणागत निष्ठावान भक्त", "gu": "અનન્ય શરણાગત નિષ્ઠાવાન ભક્ત", "en": "Steadfast Devotee of Shri Gusainji" },
+        "audioUrl": { "hi": "audio/varta252_2.mp3", "gu": "audio/varta252_2.mp3", "en": "audio/varta252_2.mp3" },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_2.json"
+      },
+      {
+        "id": "ch_varta252_3",
+        "order": 3,
+        "isVisible": true,
+        "title": { "hi": "३. श्री रसखान जी की वार्ता", "gu": "૩. શ્રી રસખાન જી ની વાર્તા", "en": "3. Raskhan Ji Varta" },
+        "subtitle": { "hi": "रसखान कवि, प्रेम रस के अनन्य उपासक", "gu": "રસખાન કવિ, પ્રેમ રસના અનન્ય ઉપાસક", "en": "Divine Poet of Divine Love" },
+        "audioUrl": { "hi": "audio/varta252_3.mp3", "gu": "audio/varta252_3.mp3", "en": "audio/varta252_3.mp3" },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_3.json"
+      },
+      {
+        "id": "ch_varta252_4",
+        "order": 4,
+        "isVisible": true,
+        "title": { "hi": "४. संगीत शिरोमणि तानसेन जी की वार्ता", "gu": "૪. સંગીત શિરોમણિ તાનસેન જી ની વાર્તા", "en": "4. Tansen Ji Varta" },
+        "subtitle": { "hi": "संगीत द्वारा भगवद् सेवा करने वाले वैष्णव", "gu": "સંગીત દ્વારા ભગવદ્ સેવા કરનારા વૈષ્ણવ", "en": "Master Musician and Devotee" },
+        "audioUrl": { "hi": "audio/varta252_4.mp3", "gu": "audio/varta252_4.mp3", "en": "audio/varta252_4.mp3" },
+        "contentUrl": "chapters/book_252_varta/ch_varta252_4.json"
+      }
+    ]
+  },
+  {
+    "id": "book_shiksha_patra",
+    "order": 4,
+    "isVisible": true,
+    "coverImageUrl": "images/shiksha_patra.jpg",
+    "title": {
+      "hi": "शिक्षा पत्र (Shiksha Patra)",
+      "gu": "શિક્ષા પત્ર",
+      "en": "Shiksha Patra"
+    },
+    "subtitle": {
+      "hi": "श्री हरिराय महाप्रभुजी विरचित ४१ पावन शिक्षा पत्र",
+      "gu": "શ્રી હરિરાય મહાપ્રભુજી રચિત ૪૧ પાવન શિક્ષા પત્રો",
+      "en": "41 Epistles of Divine Guidance by Shri Hariray Mahaprabhu"
+    },
+    "chapters": [
+      {
+        "id": "ch_sp_1",
+        "order": 1,
+        "isVisible": true,
+        "title": { "hi": "शिक्षा पत्र १", "gu": "શિક્ષા પત્ર ૧", "en": "Shiksha Patra 1" },
+        "subtitle": { "hi": "अनन्य आश्रय एवं शरण भावना", "gu": "અનન્ય આશ્રય અને શરણ ભાવના", "en": "Unconditional Refuge" },
+        "audioUrl": { "hi": "audio/shiksha_patra_1.mp3", "gu": "audio/shiksha_patra_1.mp3", "en": "audio/shiksha_patra_1.mp3" },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_1.json"
+      },
+      {
+        "id": "ch_sp_2",
+        "order": 2,
+        "isVisible": true,
+        "title": { "hi": "शिक्षा पत्र २", "gu": "શિક્ષા પત્ર ૨", "en": "Shiksha Patra 2" },
+        "subtitle": { "hi": "संसार निवृत्ति एवं भगवत् प्रीति", "gu": "સંસાર નિવૃત્તિ અને ભગવત્ પ્રીતિ", "en": "Detachment from Worldliness" },
+        "audioUrl": { "hi": "audio/shiksha_patra_2.mp3", "gu": "audio/shiksha_patra_2.mp3", "en": "audio/shiksha_patra_2.mp3" },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_2.json"
+      },
+      {
+        "id": "ch_sp_3",
+        "order": 3,
+        "isVisible": true,
+        "title": { "hi": "शिक्षा पत्र ३", "gu": "શિક્ષા પત્ર ૩", "en": "Shiksha Patra 3" },
+        "subtitle": { "hi": "मानसी सेवा का स्वरूप", "gu": "માનસી સેવાનું સ્વરૂપ", "en": "Nature of Mental Service" },
+        "audioUrl": { "hi": "audio/shiksha_patra_3.mp3", "gu": "audio/shiksha_patra_3.mp3", "en": "audio/shiksha_patra_3.mp3" },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_3.json"
+      },
+      {
+        "id": "ch_sp_4",
+        "order": 4,
+        "isVisible": true,
+        "title": { "hi": "शिक्षा पत्र ४", "gu": "શિક્ષા પત્ર ૪", "en": "Shiksha Patra 4" },
+        "subtitle": { "hi": "अंतःकरण की शुद्धि", "gu": "અંતઃકરણની શુદ્ધિ", "en": "Purification of Heart" },
+        "audioUrl": { "hi": "audio/shiksha_patra_4.mp3", "gu": "audio/shiksha_patra_4.mp3", "en": "audio/shiksha_patra_4.mp3" },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_4.json"
+      },
+      {
+        "id": "ch_sp_5",
+        "order": 5,
+        "isVisible": true,
+        "title": { "hi": "शिक्षा पत्र ५", "gu": "શિક્ષા પત્ર ૫", "en": "Shiksha Patra 5" },
+        "subtitle": { "hi": "दैहिक एवं भौतिक आसक्ति का त्याग", "gu": "દૈહિક અને ભૌતિક આસક્તિનો ત્યાગ", "en": "Relinquishing Worldly Attachment" },
+        "audioUrl": { "hi": "audio/shiksha_patra_5.mp3", "gu": "audio/shiksha_patra_5.mp3", "en": "audio/shiksha_patra_5.mp3" },
+        "contentUrl": "chapters/book_shiksha_patra/ch_sp_5.json"
       }
     ]
   }
