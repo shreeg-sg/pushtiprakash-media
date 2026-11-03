@@ -1,104 +1,135 @@
 [
-    {
-      "id": "book_shodash_granth",
-      "order": 1,
-      "isVisible": true,
-      "coverImageUrl": "images/shodash_granth.jpg",
-      "title": {
-        "hi": "षोडश ग्रंथ (Shodash Granth)",
-        "gu": "ષોડશ ગ્રંથ",
-        "en": "Shodash Granth"
-      },
-      "subtitle": {
-        "hi": "महाप्रभु श्री वल्लभाचार्य विरचित १६ ग्रंथ",
-        "gu": "મહાપ્રભુ શ્રી વલ્લભાચાર્ય રચિત ૧૬ ગ્રંથો",
-        "en": "16 Foundational Treatises by Shri Vallabhacharya"
-      },
-      "chapters": [
-        {
-          "id": "ch_yamunashtakam",
-          "order": 1,
-          "isVisible": true,
-          "title": {
-            "hi": "१. श्री यमुनाष्टकम्",
-            "gu": "૧. શ્રી યમુનાષ્ટકમ્",
-            "en": "1. Shri Yamunashtakam"
-          },
-          "audioUrl": {
-            "hi": "audio/yamunashtakam.mp3",
-            "gu": "audio/yamunashtakam.mp3",
-            "en": "audio/yamunashtakam.mp3"
-          },
-          "durationSeconds": 245,
-          "contentUrl": "chapters/book_shodash_granth/ch_yamunashtakam.json"
-        },
-        {
-          "id": "ch_balabodha",
-          "order": 2,
-          "isVisible": true,
-          "title": {
-            "hi": "२. बालबोधः",
-            "gu": "૨. બાલબોધઃ",
-            "en": "2. Balabodha"
-          },
-          "audioUrl": {
-            "hi": "audio/MANGALACHARANAM.mp3",
-            "gu": "audio/MANGALACHARANAM.mp3",
-            "en": "audio/MANGALACHARANAM.mp3"
-          },
-          "contentUrl": "chapters/book_shodash_granth/ch_balabodha.json"
-        }
-      ]
+  {
+    "id": "book_shodash_granth",
+    "order": 1,
+    "isVisible": true,
+    "coverImageUrl": "images/shodash_granth.jpg",
+    "title": {
+      "hi": "षोडश ग्रंथ (Shodash Granth)",
+      "gu": "ષોડશ ગ્રંથ",
+      "en": "Shodash Granth"
     },
-    {
-      "id": "book_84_varta",
-      "order": 2,
-      "isVisible": true,
-      "coverImageUrl": "images/shodash_granth.jpg",
-      "title": {
-        "hi": "84 varta",
-        "gu": "84 varta",
-        "en": "84 varta"
-      },
-      "subtitle": {
-        "hi": "महाप्रभु श्री वल्लभाचार्य विरचित 84 ग्रंथ",
-        "gu": "મહાપ્રભુ શ્રી વલ્લભાચાર્ય રચિત 84 ગ્રંથો",
-        "en": "84 Foundational Treatises by Shri Vallabhacharya"
-      },
-      "chapters": [
-        {
-          "id": "ch_varta_1",
-          "order": 1,
-          "isVisible": true,
-          "title": {
-            "hi": "१. श्री यमुनाष्टकम्",
-            "gu": "૧. શ્રી યમુનાષ્ટકમ્",
-            "en": "1. Shri Yamunashtakam"
-          },
-          "audioUrl": {
-            "hi": "audio/yamunashtakam.mp3",
-            "gu": "audio/yamunashtakam.mp3",
-            "en": "audio/yamunashtakam.mp3"
-          },
-          "durationSeconds": 245,
-          "contentUrl": "chapters/book_shodash_granth/ch_yamunashtakam.json"
+    "subtitle": {
+      "hi": "महाप्रभु श्री वल्लभाचार्य विरचित १६ ग्रंथ",
+      "gu": "મહાપ્રભુ શ્રી વલ્લભાચાર્ય રચિત ૧૬ ગ્રંથો",
+      "en": "16 Foundational Treatises by Shri Vallabhacharya"
+    },
+    "chapters": [
+      {
+        "id": "ch_mangalacharanam",
+        "order": 1,
+        "isVisible": true,
+        "title": {
+          "hi": "१. प्रातः स्मरण एवं मंगलाचरण",
+          "gu": "૧. પ્રાતઃ સ્મરણ અને મંગલાચરણ",
+          "en": "1. Pratah Smaran & Mangalacharanam"
         },
-        {
-          "id": "ch_varta_2",
-          "order": 2,
-          "isVisible": true,
-          "title": {
-            "hi": "२. बालबोधः",
-            "gu": "૨. બાલબોધઃ",
-            "en": "2. Balabodha"
-          },
-          "audioUrl": {
-            "hi": "audio/MANGALACHARANAM.mp3",
-            "gu": "audio/MANGALACHARANAM.mp3",
-            "en": "audio/MANGALACHARANAM.mp3"
-          },
-          "contentUrl": "chapters/book_shodash_granth/ch_balabodha.json"
-        }
-      ]
-    }
-  ]
+        "subtitle": {
+          "hi": "श्री वल्लभाचार्य चरण वंदना",
+          "gu": "શ્રી વલ્લભાચાર્ય ચરણ વંદના",
+          "en": "Pushtimargiya Daily Invocation"
+        },
+        "audioUrl": {
+          "hi": "audio/mangalacharanam.mp3",
+          "gu": "audio/mangalacharanam.mp3",
+          "en": "audio/mangalacharanam.mp3"
+        },
+        "contentUrl": "chapters/book_shodash_granth/ch_mangalacharanam.json"
+      },
+      {
+        "id": "ch_yamunashtakam",
+        "order": 2,
+        "isVisible": true,
+        "title": {
+          "hi": "२. श्री यमुनाष्टकम्",
+          "gu": "૨. શ્રી યમુનાષ્ટકમ્",
+          "en": "2. Shri Yamunashtakam"
+        },
+        "subtitle": {
+          "hi": "प्रथम ग्रंथ",
+          "gu": "પ્રથમ ગ્રંથ",
+          "en": "First Treatise"
+        },
+        "audioUrl": {
+          "hi": "audio/yamunashtakam.mp3",
+          "gu": "audio/yamunashtakam.mp3",
+          "en": "audio/yamunashtakam.mp3"
+        },
+        "durationSeconds": 245,
+        "contentUrl": "chapters/book_shodash_granth/ch_yamunashtakam.json"
+      },
+      {
+        "id": "ch_balabodha",
+        "order": 3,
+        "isVisible": true,
+        "title": {
+          "hi": "३. बालबोधः",
+          "gu": "૩. બાલબોધઃ",
+          "en": "3. Balabodha"
+        },
+        "subtitle": {
+          "hi": "द्वितीय ग्रंथ",
+          "gu": "દ્વિતીય ગ્રંથ",
+          "en": "Second Treatise"
+        },
+        "audioUrl": {
+          "hi": "audio/mangalacharanam.mp3",
+          "gu": "audio/mangalacharanam.mp3",
+          "en": "audio/mangalacharanam.mp3"
+        },
+        "contentUrl": "chapters/book_shodash_granth/ch_balabodha.json"
+      }
+    ]
+  },
+  {
+    "id": "book_84_varta",
+    "order": 2,
+    "isVisible": true,
+    "coverImageUrl": "images/shodash_granth.jpg",
+    "title": {
+      "hi": "८४ वैष्णवन की वार्ता",
+      "gu": "૮૪ વૈષ્ણવોની વાર્તા",
+      "en": "84 Vaishnavan Ki Varta"
+    },
+    "subtitle": {
+      "hi": "महाप्रभु श्री वल्लभाचार्यजी के ८४ परम कृपापात्र भगवदीय",
+      "gu": "મહાપ્રભુ શ્રી વલ્લભાચાર્યજીના ૮૪ પરમ કૃપાપાત્ર ભગવદીય",
+      "en": "Sacred Chronicles of the 84 Disciples of Shri Vallabhacharya"
+    },
+    "chapters": [
+      {
+        "id": "ch_varta_1",
+        "order": 1,
+        "isVisible": true,
+        "title": {
+          "hi": "१. श्री दामोदरदास हरसानी जी की वार्ता",
+          "gu": "૧. શ્રી દામોદરદાસ હરસાની જી ની વાર્તા",
+          "en": "1. Shri Damodardas Harsani Ji Varta"
+        },
+        "audioUrl": {
+          "hi": "audio/yamunashtakam.mp3",
+          "gu": "audio/yamunashtakam.mp3",
+          "en": "audio/yamunashtakam.mp3"
+        },
+        "durationSeconds": 245,
+        "contentUrl": "chapters/book_shodash_granth/ch_yamunashtakam.json"
+      },
+      {
+        "id": "ch_varta_2",
+        "order": 2,
+        "isVisible": true,
+        "title": {
+          "hi": "२. श्री कृष्णदास मेघन जी की वार्ता",
+          "gu": "૨. શ્રી કૃષ્ણદાસ મેઘન જી ની વાર્તા",
+          "en": "2. Shri Krishnadas Meghan Ji Varta"
+        },
+        "audioUrl": {
+          "hi": "audio/mangalacharanam.mp3",
+          "gu": "audio/mangalacharanam.mp3",
+          "en": "audio/mangalacharanam.mp3"
+        },
+        "contentUrl": "chapters/book_shodash_granth/ch_balabodha.json"
+      }
+    ]
+  }
+]
