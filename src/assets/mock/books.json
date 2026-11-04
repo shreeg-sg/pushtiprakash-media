@@ -34,7 +34,7 @@
           "gu": "audio/mangalacharanam.mp3",
           "en": "audio/mangalacharanam.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_mangalacharanam.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_mangalacharanam.json"
       },
       {
         "id": "ch_sg_yamunashtakam",
@@ -55,7 +55,7 @@
           "gu": "audio/yamunashtakam.mp3",
           "en": "audio/yamunashtakam.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_yamunashtakam.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_yamunashtakam.json"
       },
       {
         "id": "ch_sg_balabodha",
@@ -76,7 +76,7 @@
           "gu": "audio/balabodha.mp3",
           "en": "audio/balabodha.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_balabodha.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_balabodha.json"
       },
       {
         "id": "ch_sg_siddhanta_muktavali",
@@ -97,7 +97,7 @@
           "gu": "audio/siddhanta_muktavali.mp3",
           "en": "audio/siddhanta_muktavali.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_siddhanta_muktavali.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_siddhanta_muktavali.json"
       },
       {
         "id": "ch_sg_pushti_pravaha_maryada",
@@ -118,7 +118,7 @@
           "gu": "audio/pushti_pravaha_maryada.mp3",
           "en": "audio/pushti_pravaha_maryada.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_pushti_pravaha_maryada.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_pushti_pravaha_maryada.json"
       },
       {
         "id": "ch_sg_siddhanta_rahasya",
@@ -139,7 +139,7 @@
           "gu": "audio/siddhanta_rahasya.mp3",
           "en": "audio/siddhanta_rahasya.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_siddhanta_rahasya.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_siddhanta_rahasya.json"
       },
       {
         "id": "ch_sg_navaratnam",
@@ -160,7 +160,7 @@
           "gu": "audio/navaratnam.mp3",
           "en": "audio/navaratnam.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_navaratnam.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_navaratnam.json"
       },
       {
         "id": "ch_sg_antahkarana_prabodha",
@@ -181,7 +181,7 @@
           "gu": "audio/antahkarana_prabodha.mp3",
           "en": "audio/antahkarana_prabodha.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_antahkarana_prabodha.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_antahkarana_prabodha.json"
       },
       {
         "id": "ch_sg_viveka_dhairyashraya",
@@ -202,7 +202,7 @@
           "gu": "audio/viveka_dhairyashraya.mp3",
           "en": "audio/viveka_dhairyashraya.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_viveka_dhairyashraya.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_viveka_dhairyashraya.json"
       },
       {
         "id": "ch_sg_krishnashraya",
@@ -223,7 +223,7 @@
           "gu": "audio/krishnashraya.mp3",
           "en": "audio/krishnashraya.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_krishnashraya.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_krishnashraya.json"
       },
       {
         "id": "ch_sg_chatuhshloki",
@@ -244,7 +244,7 @@
           "gu": "audio/chatuhshloki.mp3",
           "en": "audio/chatuhshloki.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_chatuhshloki.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_chatuhshloki.json"
       },
       {
         "id": "ch_sg_bhaktivardhini",
@@ -265,7 +265,7 @@
           "gu": "audio/bhaktivardhini.mp3",
           "en": "audio/bhaktivardhini.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_bhaktivardhini.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_bhaktivardhini.json"
       },
       {
         "id": "ch_sg_jalabheda",
@@ -286,7 +286,7 @@
           "gu": "audio/jalabheda.mp3",
           "en": "audio/jalabheda.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_jalabheda.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_jalabheda.json"
       },
       {
         "id": "ch_sg_panchapadyani",
@@ -307,7 +307,7 @@
           "gu": "audio/panchapadyani.mp3",
           "en": "audio/panchapadyani.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_panchapadyani.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_panchapadyani.json"
       },
       {
         "id": "ch_sg_sannyasa_nirnaya",
@@ -328,7 +328,7 @@
           "gu": "audio/sannyasa_nirnaya.mp3",
           "en": "audio/sannyasa_nirnaya.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_sannyasa_nirnaya.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_sannyasa_nirnaya.json"
       },
       {
         "id": "ch_sg_nirodha_lakshanam",
@@ -349,7 +349,7 @@
           "gu": "audio/nirodha_lakshanam.mp3",
           "en": "audio/nirodha_lakshanam.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_nirodha_lakshanam.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_nirodha_lakshanam.json"
       },
       {
         "id": "ch_sg_seva_phalam",
@@ -370,7 +370,7 @@
           "gu": "audio/seva_phalam.mp3",
           "en": "audio/seva_phalam.mp3"
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_seva_phalam.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_seva_phalam.json"
       }
     ]
   },
