@@ -42,7 +42,7 @@ To maintain fast startup times (0ms local cache hydration) and responsive audio 
 | Asset Category | Relative Repository Path | File Format | Recommended Dimensions / Specs | Recommended File Size | Max Allowed Size | Key Usage in App |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Client Logo** | `src/assets/images/logo.png` | **PNG** (RGBA, transparent) | `1024 x 1024 px` (Square 1:1) | `100 KB – 250 KB` | **500 KB** | Native launcher app icon (scaled to 68%), Splash screen, About Us page, Global watermark |
-| **Book Cover Artwork** | `src/assets/images/<book_name>.jpg` | **JPG** / **WEBP** | `800 x 600 px` (4:3) or `800 x 1200 px` (2:3) | `100 KB – 300 KB` | **600 KB** | Dashboard book cards, Chapters page 15% height title section watermark, Media metadata |
+| **Book Cover Artwork** | `src/assets/images/<book_name>.jpg` | **JPG** / **WEBP** | `1200 x 400 px` (3:1) or `900 x 300 px` (3:1) | `50 KB – 300 KB` | **600 KB** | Dashboard book cards, Chapters page 15% height title section watermark, Media metadata |
 | **Recorded Audio Tracks** | `src/assets/audio/<stotra>.mp3` | **MP3** (MPEG-1 Layer 3) | `128 kbps` CBR, `44.1 kHz`, Joint Stereo | `2 MB – 6 MB` (per stotra) | **15 MB** | Reader streaming, in-app audio scrub bar, offline background audio caching |
 | **Remote Config JSONs** | `src/assets/mock/*.json` | **JSON** (UTF-8, minified) | Valid JSON, No trailing commas | `2 KB – 15 KB` | **50 KB** | Multi-tenant dynamic branding, UI localization, daily sync manifest |
 | **Modular Transcripts** | `src/assets/mock/chapters/<book_id>/<ch_id>.json` | **JSON** (UTF-8) | Valid JSON containing localized transcripts | `1 KB – 10 KB` | **100 KB** | On-demand split chapter text, anti-copy protected reader view |
