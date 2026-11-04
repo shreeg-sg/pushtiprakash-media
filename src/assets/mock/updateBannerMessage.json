@@ -1,5 +1,32 @@
-{
-  "hi": "कृपया ऐप के पठन और ऑडियो फीचर्स का अनुभव लें। इसे टेस्ट करें और अपने बहुमूल्य सुझाव (फीडबैक) हमारे साथ साझा करें।\n आज की तारीख: ०૪/११/२०२६",
-  "gu": "કૃપા કરીને ઍપના રીડિંગ અને ઑડિયો ફીચર્સનો ઉપયોગ કરી જુઓ. આ ઍપનું ટેસ્ટિંગ કરી આપનો કિંમતી પ્રતિભાવ (Feedback) જરૂર આપશો.\n આજની તારીખ: ૦४/૧૧/૨૦૨૬",
-  "en": "Thank you for joining us. We would love for you to explore the reading and audio features. Please test the app and share your valuable feedback to help us improve.\nToday's date: 04-11-2026"
-}
+[
+    {
+      "date": "2026-11-04",
+      "message": {
+        "hi": "<b>आज का सुविचार:</b> भक्ति मार्ग में भगवत्कृपा ही सर्वोपरि साधन है।",
+        "gu": "<b>આજનો સુવિચાર:</b> ભક્તિ માર્ગમાં ભગવત્કૃપા જ સર્વોપરી સાધન છે.",
+        "mr": "<b>आजचा सुविचार:</b> भक्ती मार्गात भगवंतांची कृपाच सर्वोच्च साधन आहे.",
+        "en": "<b>Today's Reflection:</b> In the path of devotion (Pushtimarg), divine grace is the supreme refuge."
+      },
+      "isEnabled": true
+    },
+    {
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-15",
+      "message": {
+        "hi": "दीपावली एवं अन्नकूट महोत्सव की हार्दिक शुभकामनाएँ! 🪔",
+        "gu": "દિવાળી અને અન્નકૂટ મહોત્સવની હાર્દિક શુભકામનાઓ! 🪔",
+        "mr": "दिवाळी आणि अन्नकूट महोत्सवाच्या हार्दिक शुभेच्छा! 🪔",
+        "en": "Happy Diwali and Annakut Mahotsav to all Vaishnavas! 🪔"
+      },
+      "isEnabled": true
+    },
+    {
+      "isDefault": true,
+      "message": {
+        "hi": "पुष्टिप्रकाश ऐप में आपका हार्दिक स्वागत है। नित्य पठन एवं श्रवण करें।",
+        "gu": "પુષ્ટિપ્રકાશ એપમાં આપનું હાર્દિક સ્વાગત છે. નિત્ય પઠન અને શ્રવણ કરો.",
+        "mr": "पुष्टीप्रकाश ॲपमध्ये आपले हार्दिक स्वागत आहे.",
+        "en": "Welcome to PushtiPrakash. Experience daily sacred scriptures and recitations."
+      }
+    }
+  ]
