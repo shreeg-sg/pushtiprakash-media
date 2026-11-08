@@ -163,13 +163,13 @@
         "contentUrl": "chapters/book_shodash_granth/ch_sg_navaratnam.json"
       },
       {
-        "id": "ch_sg_antahkarana_prabodha",
+        "id": "ch_sg_sarvottam_stotra",
         "order": 8,
         "isVisible": true,
         "title": {
-          "hi": "अन्तःकरणप्रबोधः",
-          "gu": "અન્તઃકરણપ્રબોધઃ",
-          "en": "Antahkarana Prabodha"
+          "hi": "सर्वोत्तम स्तोत्र",
+          "gu": "સર્વોત્તમ સ્તોત્ર",
+          "en": "Sarvottam stotra"
         },
         "subtitle": {
           "hi": "सप्तम ग्रंथ - मन को भगवन्निष्ठ उपदेश",
@@ -177,11 +177,11 @@
           "en": "7th Treatise - Admonition to the Inner Heart"
         },
         "audioUrl": {
-          "hi": "audio/antahkarana_prabodha.mp3",
-          "gu": "audio/antahkarana_prabodha.mp3",
-          "en": "audio/antahkarana_prabodha.mp3"
+          "hi": "",
+          "gu": "",
+          "en": ""
         },
-        "contentUrl": "chapters/book_shodash_granth/ch_sg_antahkarana_prabodha.json"
+        "contentUrl": "chapters/book_shodash_granth/ch_sg_sarvottam_stotra.json"
       },
       {
         "id": "ch_sg_viveka_dhairyashraya",
