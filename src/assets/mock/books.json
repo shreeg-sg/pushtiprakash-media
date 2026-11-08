@@ -5,7 +5,7 @@
     "isVisible": true,
     "coverImageUrl": "images/shodash_granth.jpg",
     "title": {
-      "hi": "षोडश ग्रंथ (Shodash Granth)",
+      "hi": "षोडश ग्रंथ",
       "gu": "ષોડશ ગ્રંથ",
       "en": "Shodash Granth"
     },
@@ -20,9 +20,9 @@
         "order": 1,
         "isVisible": true,
         "title": {
-          "hi": "मंगलाचरण (Pratah Smaran & Mangalacharanam)",
-          "gu": "મંગલાચરણ (પ્રાતઃ સ્મરણ અને મંગલાચરણ)",
-          "en": "Mangalacharanam (Daily Invocation)"
+          "hi": "मंगलाचरण",
+          "gu": "મંગલાચરણ",
+          "en": "Mangalacharanam"
         },
         "subtitle": {
           "hi": "श्री वल्लभाचार्य चरण वंदना",
@@ -41,9 +41,9 @@
         "order": 2,
         "isVisible": true,
         "title": {
-          "hi": "१. श्री यमुनाष्टकम्",
-          "gu": "૧. શ્રી યમુનાષ્ટકમ્",
-          "en": "1. Shri Yamunashtakam"
+          "hi": "श्री यमुनाष्टकम्",
+          "gu": "શ્રી યમુનાષ્ટકમ્",
+          "en": "Shri Yamunashtakam"
         },
         "subtitle": {
           "hi": "प्रथम ग्रंथ - श्री यमुनाजी का स्तवन",
@@ -62,9 +62,9 @@
         "order": 3,
         "isVisible": true,
         "title": {
-          "hi": "२. बालबोधः",
-          "gu": "૨. બાલબોધઃ",
-          "en": "2. Balabodha"
+          "hi": "बालबोधः",
+          "gu": "બાલબોધઃ",
+          "en": "Balabodha"
         },
         "subtitle": {
           "hi": "द्वितीय ग्रंथ - नवदीक्षितों हेतु मार्गदर्शन",
@@ -83,9 +83,9 @@
         "order": 4,
         "isVisible": true,
         "title": {
-          "hi": "३. सिद्धान्तमुक्तावली",
-          "gu": "૩. સિદ્ધાન્તમુક્તાવલી",
-          "en": "3. Siddhanta Muktavali"
+          "hi": "सिद्धान्तमुक्तावली",
+          "gu": "સિદ્ધાન્તમુક્તાવલી",
+          "en": "Siddhanta Muktavali"
         },
         "subtitle": {
           "hi": "तृतीय ग्रंथ - सेवा एवं ज्ञान का समन्वय",
@@ -104,9 +104,9 @@
         "order": 5,
         "isVisible": true,
         "title": {
-          "hi": "४. पुष्टिप्रवाहमर्यादाभेदः",
-          "gu": "૪. પુષ્ટિપ્રવાહમર્યાદાભેદઃ",
-          "en": "4. Pushti Pravaha Maryada Bheda"
+          "hi": "पुष्टिप्रवाहमर्यादाभेदः",
+          "gu": "પુષ્ટિપ્રવાહમર્યાદાભેદઃ",
+          "en": "Pushti Pravaha Maryada Bheda"
         },
         "subtitle": {
           "hi": "चतुर्थ ग्रंथ - तीन प्रकार के जीवों का भेद",
@@ -125,9 +125,9 @@
         "order": 6,
         "isVisible": true,
         "title": {
-          "hi": "५. सिद्धान्तरहस्यम्",
-          "gu": "૫. સિદ્ધાન્તરહસ્યમ્",
-          "en": "5. Siddhanta Rahasya"
+          "hi": "सिद्धान्तरहस्यम्",
+          "gu": "સિદ્ધાન્તરહસ્યમ્",
+          "en": "Siddhanta Rahasya"
         },
         "subtitle": {
           "hi": "पंचम ग्रंथ - ब्रह्मसंबंध का रहस्य",
@@ -146,9 +146,9 @@
         "order": 7,
         "isVisible": true,
         "title": {
-          "hi": "६. नवरत्नम्",
-          "gu": "૬. નવરત્નમ્",
-          "en": "6. Navaratnam"
+          "hi": "नवरत्नम्",
+          "gu": "નવરત્નમ્",
+          "en": "Navaratnam"
         },
         "subtitle": {
           "hi": "षष्ठ ग्रंथ - चिंता मुक्ति के नौ श्लोक",
@@ -167,9 +167,9 @@
         "order": 8,
         "isVisible": true,
         "title": {
-          "hi": "७. अन्तःकरणप्रबोधः",
-          "gu": "૭. અન્તઃકરણપ્રબોધઃ",
-          "en": "7. Antahkarana Prabodha"
+          "hi": "अन्तःकरणप्रबोधः",
+          "gu": "અન્તઃકરણપ્રબોધઃ",
+          "en": "Antahkarana Prabodha"
         },
         "subtitle": {
           "hi": "सप्तम ग्रंथ - मन को भगवन्निष्ठ उपदेश",
@@ -188,9 +188,9 @@
         "order": 9,
         "isVisible": true,
         "title": {
-          "hi": "८. विवेकधैर्याश्रयः",
-          "gu": "૮. વિવેકધૈર્યાશ્રયઃ",
-          "en": "8. Viveka Dhairyashraya"
+          "hi": "विवेकधैर्याश्रयः",
+          "gu": "વિવેકધૈર્યાશ્રયઃ",
+          "en": "Viveka Dhairyashraya"
         },
         "subtitle": {
           "hi": "अष्टम ग्रंथ - विवेक, धैर्य और अनन्य आश्रय",
@@ -209,9 +209,9 @@
         "order": 10,
         "isVisible": true,
         "title": {
-          "hi": "९. कृष्णाश्रयः",
-          "gu": "૯. કૃષ્ણાશ્રયઃ",
-          "en": "9. Krishnashraya"
+          "hi": "कृष्णाश्रयः",
+          "gu": "કૃષ્ણાશ્રયઃ",
+          "en": "Krishnashraya"
         },
         "subtitle": {
           "hi": "नवम ग्रंथ - कलिकाल में केवल श्रीकृष्ण ही शरण",
@@ -230,9 +230,9 @@
         "order": 11,
         "isVisible": true,
         "title": {
-          "hi": "१०. चतुःश्लोकी",
-          "gu": "૧૦. ચતુઃશ્લોકી",
-          "en": "10. Chatuhshloki"
+          "hi": "चतुःश्लोकी",
+          "gu": "ચતુઃશ્લોકી",
+          "en": "Chatuhshloki"
         },
         "subtitle": {
           "hi": "दशम ग्रंथ - पुरुषार्थ एवं सर्वस्व समर्पण",
@@ -251,9 +251,9 @@
         "order": 12,
         "isVisible": true,
         "title": {
-          "hi": "११. भक्तिवर्धिनी",
-          "gu": "૧૧. ભક્તિવર્ધિની",
-          "en": "11. Bhaktivardhini"
+          "hi": "भक्तिवर्धिनी",
+          "gu": "ભક્તિવર્ધિની",
+          "en": "Bhaktivardhini"
         },
         "subtitle": {
           "hi": "एकादश ग्रंथ - प्रेम एवं भक्ति की वृद्धि के उपाय",
@@ -272,9 +272,9 @@
         "order": 13,
         "isVisible": true,
         "title": {
-          "hi": "१२. जलभेदः",
-          "gu": "૧૨. જલભેદઃ",
-          "en": "12. Jalabheda"
+          "hi": "जलभेदः",
+          "gu": "જલભેદઃ",
+          "en": "Jalabheda"
         },
         "subtitle": {
           "hi": "द्वादश ग्रंथ - वक्ता एवं श्रोता के प्रकार",
@@ -293,9 +293,9 @@
         "order": 14,
         "isVisible": true,
         "title": {
-          "hi": "१३. पञ्चपद्यानि",
-          "gu": "૧૩. પંચપદ્યાનિ",
-          "en": "13. Panchapadyani"
+          "hi": "पञ्चपद्यानि",
+          "gu": "પંચપદ્યાનિ",
+          "en": "Panchapadyani"
         },
         "subtitle": {
           "hi": "त्रयोदश ग्रंथ - कथा-श्रवण का स्वरूप",
@@ -314,9 +314,9 @@
         "order": 15,
         "isVisible": true,
         "title": {
-          "hi": "१४. संन्यासनिर्णयः",
-          "gu": "૧૪. સંન્યાસનિર્ણયઃ",
-          "en": "14. Sannyasa Nirnaya"
+          "hi": "संन्यासनिर्णयः",
+          "gu": "સંન્યાસનિર્ણયઃ",
+          "en": "Sannyasa Nirnaya"
         },
         "subtitle": {
           "hi": "चतुर्दश ग्रंथ - विरह भक्ति हेतु संन्यास का निर्णय",
@@ -335,9 +335,9 @@
         "order": 16,
         "isVisible": true,
         "title": {
-          "hi": "१५. निरोधलक्षणम्",
-          "gu": "૧૫. નિરોધલક્ષણમ્",
-          "en": "15. Nirodha Lakshanam"
+          "hi": "निरोधलक्षणम्",
+          "gu": "નિરોધલક્ષણમ્",
+          "en": "Nirodha Lakshanam"
         },
         "subtitle": {
           "hi": "पंचदश ग्रंथ - प्रपंच विस्मृति और भगवदासक्ति",
@@ -356,9 +356,9 @@
         "order": 17,
         "isVisible": true,
         "title": {
-          "hi": "१६. सेवाफलम्",
-          "gu": "૧૬. સેવાફલમ્",
-          "en": "16. Seva Phalam"
+          "hi": "सेवाफलम्",
+          "gu": "સેવાફલમ્",
+          "en": "Seva Phalam"
         },
         "subtitle": {
           "hi": "षोडश ग्रंथ - मानसी सेवा एवं उसका परम फल",
