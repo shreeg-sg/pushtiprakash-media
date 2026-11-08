@@ -28,5 +28,18 @@
         "mr": "पुष्टीप्रकाश ॲपमध्ये आपले हार्दिक स्वागत आहे.",
         "en": "Welcome to PushtiPrakash. Experience daily sacred scriptures and recitations."
       }
+    },
+    {
+      "date": "2026-11-20",
+      "isNew": true,
+      "targetBookId": "book_shodash_granth",
+      "targetChapterId": "ch_sg_yamunashtakam",
+      "actionLabel": "Read Now",
+      "message": {
+        "hi": "<b>प्रबोधिनी एकादशी:</b> श्री यमुनाष्टकम् का विशेष पाठ करें।",
+        "gu": "<b>પ્રબોધિની એકાદશી:</b> શ્રી યમુનાષ્ટકમ્ નો વિશેષ પાઠ કરો.",
+        "en": "<b>Prabodhini Ekadashi:</b> Read Shri Yamunashtakam today."
+      },
+      "isEnabled": true
     }
   ]
