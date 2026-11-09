@@ -398,7 +398,7 @@
   {
     "id": "book_84_varta",
     "order": 2,
-    "isVisible": true,
+    "isVisible": false,
     "coverImageUrl": "images/84_varta.jpg",
     "title": {
       "hi": "८४ वैष्णवन की वार्ता",
@@ -2180,7 +2180,7 @@
   {
     "id": "book_252_varta",
     "order": 3,
-    "isVisible": true,
+    "isVisible": false,
     "coverImageUrl": "images/252_varta.jpg",
     "title": {
       "hi": "२५२ वैष्णवन की वार्ता",
@@ -7490,7 +7490,7 @@
   {
     "id": "book_shiksha_patra",
     "order": 4,
-    "isVisible": true,
+    "isVisible": false,
     "coverImageUrl": "images/shiksha_patra.jpg",
     "title": {
       "hi": "शिक्षा पत्र (Shiksha Patra)",
