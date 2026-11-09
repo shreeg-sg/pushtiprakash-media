@@ -1,5 +1,14 @@
 [
     {
+      "isDefault": true,
+      "message": {
+        "hi": "पुष्टिप्रकाश ऐप में आपका हार्दिक स्वागत है। नित्य पठन एवं श्रवण करें।",
+        "gu": "પુષ્ટિપ્રકાશ એપમાં આપનું હાર્દિક સ્વાગત છે. નિત્ય પઠન અને શ્રવણ કરો.",
+        "mr": "पुष्टीप्रकाश ॲपमध्ये आपले हार्दिक स्वागत आहे.",
+        "en": "Welcome to PushtiPrakash. Experience daily sacred scriptures and recitations."
+      }
+    },
+    {
       "date": "2026-11-04",
       "message": {
         "hi": "<b>आज का सुविचार:</b> भक्ति मार्ग में भगवत्कृपा ही सर्वोपरि साधन है।",
@@ -19,15 +28,6 @@
         "en": "Happy Diwali and Annakut Mahotsav to all Vaishnavas! 🪔"
       },
       "isEnabled": true
-    },
-    {
-      "isDefault": true,
-      "message": {
-        "hi": "पुष्टिप्रकाश ऐप में आपका हार्दिक स्वागत है। नित्य पठन एवं श्रवण करें।",
-        "gu": "પુષ્ટિપ્રકાશ એપમાં આપનું હાર્દિક સ્વાગત છે. નિત્ય પઠન અને શ્રવણ કરો.",
-        "mr": "पुष्टीप्रकाश ॲपमध्ये आपले हार्दिक स्वागत आहे.",
-        "en": "Welcome to PushtiPrakash. Experience daily sacred scriptures and recitations."
-      }
     },
     {
       "date": "2026-11-08",
