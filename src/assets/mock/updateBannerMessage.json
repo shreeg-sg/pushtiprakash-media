@@ -1,45 +1,56 @@
 [
-    {
-      "isDefault": true,
-      "message": {
-        "hi": "पुष्टिप्रकाश ऐप में आपका हार्दिक स्वागत है। नित्य पठन एवं श्रवण करें।",
-        "gu": "પુષ્ટિપ્રકાશ એપમાં આપનું હાર્દિક સ્વાગત છે. નિત્ય પઠન અને શ્રવણ કરો.",
-        "mr": "पुष्टीप्रकाश ॲपमध्ये आपले हार्दिक स्वागत आहे.",
-        "en": "Welcome to PushtiPrakash. Experience daily sacred scriptures and recitations."
-      }
-    },
-    {
-      "date": "2026-11-04",
-      "message": {
-        "hi": "<b>आज का सुविचार:</b> भक्ति मार्ग में भगवत्कृपा ही सर्वोपरि साधन है।",
-        "gu": "<b>આજનો સુવિચાર:</b> ભક્તિ માર્ગમાં ભગવત્કૃપા જ સર્વોપરી સાધન છે.",
-        "mr": "<b>आजचा सुविचार:</b> भक्ती मार्गात भगवंतांची कृपाच सर्वोच्च साधन आहे.",
-        "en": "<b>Today's Reflection:</b> In the path of devotion (Pushtimarg), divine grace is the supreme refuge."
-      },
-      "isEnabled": true
-    },
-    {
-      "startDate": "2026-11-01",
-      "endDate": "2026-11-15",
-      "message": {
-        "hi": "दीपावली एवं अन्नकूट महोत्सव की हार्दिक शुभकामनाएँ! 🪔",
-        "gu": "દિવાળી અને અન્નકૂટ મહોત્સવની હાર્દિક શુભકામનાઓ! 🪔",
-        "mr": "दिवाळी आणि अन्नकूट महोत्सवाच्या हार्दिक शुभेच्छा! 🪔",
-        "en": "Happy Diwali and Annakut Mahotsav to all Vaishnavas! 🪔"
-      },
-      "isEnabled": true
-    },
-    {
-      "date": "2026-11-08",
-      "isNew": true,
-      "targetBookId": "book_shodash_granth",
-      "targetChapterId": "ch_sg_yamunashtakam",
-      "actionLabel": "Read Now",
-      "message": {
-        "hi": "<b>प्रबोधिनी एकादशी:</b> श्री यमुनाष्टकम् का विशेष पाठ करें।",
-        "gu": "<b>પ્રબોધિની એકાદશી:</b> શ્રી યમુનાષ્ટકમ્ નો વિશેષ પાઠ કરો.",
-        "en": "<b>Prabodhini Ekadashi:</b> Read Shri Yamunashtakam today."
-      },
-      "isEnabled": true
+  {
+    "id": "banner_default",
+    "isDefault": true,
+    "isEnabled": true,
+    "message": {
+      "hi": "पुष्टिप्रकाश ऐप में आपका हार्दिक स्वागत है। नित्य पठन एवं श्रवण करें।",
+      "gu": "પુષ્ટિપ્રકાશ એપમાં આપનું હાર્દિક સ્વાગત છે. નિત્ય પઠન અને શ્રવણ કરો.",
+      "mr": "पुष्टीप्रकाश ॲपमध्ये आपले हार्दिक स्वागत आहे.",
+      "en": "Welcome to PushtiPrakash. Experience daily sacred scriptures and recitations."
     }
-  ]
+  },
+  {
+    "id": "banner_reflection_1",
+    "date": "2026-11-04",
+    "isEnabled": true,
+    "message": {
+      "hi": "<b>आज का सुविचार:</b> भक्ति मार्ग में भगवत्कृपा ही सर्वोपरि साधन है।",
+      "gu": "<b>આજનો સુविચાર:</b> ભક્તિ માર્ગમાં ભગવત્કૃપા જ સર્વોપરી સાધન છે.",
+      "mr": "<b>आजचा सुविचार:</b> भक्ती मार्गात भगवंतांची कृपाच सर्वोच्च साधन आहे.",
+      "en": "<b>Today's Reflection:</b> In the path of devotion (Pushtimarg), divine grace is the supreme refuge."
+    }
+  },
+  {
+    "id": "banner_diwali_2026",
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-15",
+    "isEnabled": true,
+    "message": {
+      "hi": "दीपावली एवं अन्नकूट महोत्सव की हार्दिक शुभकामनाएँ! 🪔",
+      "gu": "દિવાળી અને અન્નકૂટ મહોત્સવની હાર્દિક શુભકામનાઓ! 🪔",
+      "mr": "दिवाळी आणि अन्नकूट महोत्सवाच्या हार्दिक शुभेच्छा! 🪔",
+      "en": "Happy Diwali and Annakut Mahotsav to all Vaishnavas! 🪔"
+    }
+  },
+  {
+    "id": "banner_ekadashi_2026",
+    "date": "2026-11-08",
+    "isNew": true,
+    "isEnabled": true,
+    "targetBookId": "book_shodash_granth",
+    "targetChapterId": "ch_sg_yamunashtakam",
+    "actionLabel": {
+      "hi": "अभी पढ़ें",
+      "gu": "હવે વાંચો",
+      "mr": "आता वाचा",
+      "en": "Read Now"
+    },
+    "message": {
+      "hi": "<b>प्रबोधिनी एकादशी:</b> श्री यमुनाष्टकम् का विशेष पाठ करें।",
+      "gu": "<b>પ્રબોધિની એકાદશી:</b> શ્રી યમુનાષ્ટકમ્ નો વિશેષ પાઠ કરો.",
+      "mr": "<b>प्रबोधिनी एकादशी:</b> श्री यमुनाष्टकम् चे विशेष पठण करा.",
+      "en": "<b>Prabodhini Ekadashi:</b> Read Shri Yamunashtakam today."
+    }
+  }
+]
