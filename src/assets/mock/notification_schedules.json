@@ -8,15 +8,15 @@
         "en": "Morning Reading - PushtiPrakash"
       },
       "body": {
-        "hi": "श्री यमुनाष्टकम् का पाठ और श्रवण करने का समय।",
-        "gu": "શ્રી યમુનાષ્ટકમ્ નો પાઠ અને શ્રવણ કરવાનો સમય.",
-        "en": "Start your morning with Shri Yamunashtakam."
+        "hi": "मंगलाचरण का पाठ और श्रवण करने का समय।",
+        "gu": "મંગલાચરણ નો પાઠ અને શ્રવણ કરવાનો સમય.",
+        "en": "Start your morning with Mangalacharanm."
       },
       "hour": 7,
       "minute": 30,
       "repeatsDaily": true,
       "targetBookId": "book_shodash_granth",
-      "targetChapterId": "ch_sg_yamunashtakam"
+      "targetChapterId": "ch_sg_mangalacharanam"
     },
     {
       "id": 102,
@@ -34,6 +34,25 @@
       "hour": 19,
       "minute": 30,
       "repeatsDaily": true
+    },
+    {
+      "id": 103,
+      "isEnabled": true,
+       "title": {
+    "hi": "दोपहर का शांत स्मरण 🙏",
+    "gu": "બપોરનું શાંત સ્મરણ 🙏",
+    "en": "Peaceful Afternoon Reflection 🙏"
+  },
+  "body": {
+    "hi": "विश्राम के इन पलों में प्रभु का मधुर स्मरण करें। सुनें या पढ़ें — पुष्टिप्रकाश के साथ।",
+    "gu": "વિશ્રામના આ સમયે પ્રભુનું મધુર સ્મરણ કરો. સાંભળો કે વાંચો — પુષ્ટિપ્રકાશ સાથે.",
+    "en": "Take a quiet moment to rest and listen to a sacred recitation on PushtiPrakash."
+  }
+      "hour": 13,
+      "minute": 30,
+      "repeatsDaily": true,
+      "targetBookId": "book_shodash_granth",
+      "targetChapterId": "ch_sg_sarvottam_stotra"
     },
     {
       "id": 201,
