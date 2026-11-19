@@ -1,0 +1,13 @@
+[
+{
+"id": "ad_1",
+"name": "Festival Special",
+"url": "https://example.com/offer",
+"image": "ad_banner_1.jpg",
+"fromDate": "2026-11-01",
+"toDate": "2026-12-31",
+"isEnabled": true,
+"order": 1,
+"intervalSeconds": 7
+}
+]
