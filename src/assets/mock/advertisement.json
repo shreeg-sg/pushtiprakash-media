@@ -1,13 +1,22 @@
 [
-{
-"id": "ad_1",
-"name": "Festival Special",
-"url": "https://example.com/offer",
-"image": "ad_banner_1.jpg",
-"fromDate": "2026-11-01",
-"toDate": "2026-12-31",
-"isEnabled": true,
-"order": 1,
-"intervalSeconds": 7
-}
+  {
+    "id": "ad_1",
+    "uniqueName": "banner_1.png",
+    "order": 1,
+    "isEnabled": true,
+    "fromDate": "2026-11-01",
+    "toDate": "2027-12-31",
+    "url": "https://walink.me/u4pnke",
+    "imagePath": "src/assets/image/advertisement/banner_1.png"
+  },
+  {
+    "id": "ad_2",
+    "uniqueName": "banner_2.png",
+    "order": 2,
+    "isEnabled": true,
+    "fromDate": "2026-11-01",
+    "toDate": "2027-12-31",
+    "url": "https://forms.gle/BRtPfNZmnmXBqgUk6",
+    "imagePath": "src/assets/image/advertisement/banner_2.png"
+  }
 ]
