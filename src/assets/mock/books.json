@@ -398,7 +398,7 @@
   {
     "id": "book_84_varta",
     "order": 2,
-    "isVisible": true,
+    "isVisible": false,
     "coverImageUrl": "images/84_varta.jpg",
     "title": {
       "hi": "८४ वैष्णवन की वार्ता",
@@ -416,14 +416,14 @@
         "order": 1,
         "isVisible": true,
         "title": {
-          "hi": "१. दामोदरदास हरसानी जी की वार्ता",
-          "gu": "૧. દામોદરદાસ હરસાની જી ની વાર્તા",
-          "en": "1. Damodardas Harsani Ji Varta"
+          "hi": "१. श्री आचार्यजी के सेवक दामोदरदास हरसाणी की वार्ता",
+          "gu": "૧. શ્રી આચાર્યજીના સેવક દામોદરદાસ હરસાણીની વાર્તા",
+          "en": "1. Damodardas Harsani Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧",
-          "en": "Disciples of Shri Mahaprabhuji - Account 1"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता १",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૧",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 1"
         },
         "audioUrl": {
           "hi": "",
@@ -437,14 +437,14 @@
         "order": 2,
         "isVisible": true,
         "title": {
-          "hi": "२. कृष्णदास मेघन जी की वार्ता",
-          "gu": "૨. કૃષ્ણદાસ મેઘન જી ની વાર્તા",
-          "en": "2. Krishnadas Meghan Ji Varta"
+          "hi": "२. श्री आचार्यजी के सेवक कृष्णदास मेघन क्षत्रिय की वार्ता",
+          "gu": "૨. શ્રી આચાર્યજીના સેવક કૃષ્ણદાસ મેઘન ક્ષત્રિયની વાર્તા",
+          "en": "2. Krishnadas Meghan Kshatriya Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨",
-          "en": "Disciples of Shri Mahaprabhuji - Account 2"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता २",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૨",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 2"
         },
         "audioUrl": {
           "hi": "",
@@ -458,14 +458,14 @@
         "order": 3,
         "isVisible": true,
         "title": {
-          "hi": "३. दामोदरदास संभलवारे की वार्ता",
-          "gu": "૩. દામોદરદાસ સંભલવારે ની વાર્તા",
-          "en": "3. Damodardas Sambhalware Varta"
+          "hi": "३. दामोदरदास सम्भ्रवाल क्षत्रिय की वार्ता",
+          "gu": "૩. દામોદરદાસ સમ્ભ્રવાલ ક્ષત્રિયની વાર્તા",
+          "en": "3. Damodardas Sambhraval Kshatriya Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩",
-          "en": "Disciples of Shri Mahaprabhuji - Account 3"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૩",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 3"
         },
         "audioUrl": {
           "hi": "",
@@ -479,14 +479,14 @@
         "order": 4,
         "isVisible": true,
         "title": {
-          "hi": "४. पद्मनाभदास जी की वार्ता",
-          "gu": "૪. પદ્મનાભદાસ જી ની વાર્તા",
-          "en": "4. Padmanabhdas Ji Varta"
+          "hi": "४. पद्मनाभदास कनौजिया की वार्ता",
+          "gu": "૪. પદ્મનાભદાસ કનોજીઆની વાર્તા",
+          "en": "4. Padmanabhdas Kanojia Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪",
-          "en": "Disciples of Shri Mahaprabhuji - Account 4"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૪",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 4"
         },
         "audioUrl": {
           "hi": "",
@@ -500,14 +500,14 @@
         "order": 5,
         "isVisible": true,
         "title": {
-          "hi": "५. पद्मनाभदास की बेटी की वार्ता",
-          "gu": "૫. પદ્મનાભદાસની દીકરી ની વાર્તા",
-          "en": "5. Padmanabhdas's Daughter Varta"
+          "hi": "५. पद्मनाभदास की पुत्री तुलसां की वार्ता",
+          "gu": "૫. પદ્મનાભદાસની પુત્રી તુલસાંની વાર્તા",
+          "en": "5. Tulsan (Daughter of Padmanabhdas) Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫",
-          "en": "Disciples of Shri Mahaprabhuji - Account 5"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૫",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 5"
         },
         "audioUrl": {
           "hi": "",
@@ -521,14 +521,14 @@
         "order": 6,
         "isVisible": true,
         "title": {
-          "hi": "६. कुंभनदास जी क्षत्रिय की वार्ता",
-          "gu": "૬. કુંભનદાસ જી ક્ષત્રિય ની વાર્તા",
-          "en": "6. Kumbhandas Ji Varta"
+          "hi": "६. पद्मनाभदास के पुत्र की बहू पार्वती की वार्ता",
+          "gu": "૬. પદ્મનાભદાસના પુત્રની વહુ પાર્વતીની વાર્તા",
+          "en": "6. Parvati (Daughter-in-law of Padmanabhdas) Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬",
-          "en": "Disciples of Shri Mahaprabhuji - Account 6"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૬",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 6"
         },
         "audioUrl": {
           "hi": "",
@@ -542,14 +542,14 @@
         "order": 7,
         "isVisible": true,
         "title": {
-          "hi": "७. सूरदास जी महाकवि की वार्ता",
-          "gu": "૭. સૂરદાસ જી મહાકવિ ની વાર્તા",
-          "en": "7. Surdas Ji Varta"
+          "hi": "७. पार्वती के पुत्र रघुनाथदास की वार्ता",
+          "gu": "૭. પાર્વતીના પુત્ર રઘુનાથદાસની વાર્તા",
+          "en": "7. Raghunathdas (Son of Parvati) Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭",
-          "en": "Disciples of Shri Mahaprabhuji - Account 7"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૭",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 7"
         },
         "audioUrl": {
           "hi": "",
@@ -563,14 +563,14 @@
         "order": 8,
         "isVisible": true,
         "title": {
-          "hi": "८. परमानंददास जी की वार्ता",
-          "gu": "૮. પરમાનંદદાસ જી ની વાર્તા",
-          "en": "8. Paramanandadas Ji Varta"
+          "hi": "८. अडेलवाली रजो क्षत्राणी की वार्ता",
+          "gu": "૮. અડેલવાળી રજો ક્ષત્રીયાણીની વાર્તા",
+          "en": "8. Rajo Kshatriyani of Adel Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮",
-          "en": "Disciples of Shri Mahaprabhuji - Account 8"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૮",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 8"
         },
         "audioUrl": {
           "hi": "",
@@ -584,14 +584,14 @@
         "order": 9,
         "isVisible": true,
         "title": {
-          "hi": "९. कृष्णदास अधिकारी की वार्ता",
-          "gu": "૯. કૃષ્ણદાસ અધિકારી ની વાર્તા",
-          "en": "9. Krishnadas Adhikari Varta"
+          "hi": "९. बनारसवाले सेठ पुरुषोत्तमदास क्षत्रिय की वार्ता",
+          "gu": "૯. બનારસવાળા શેઠ પુરુષોત્તમદાસ ક્ષત્રીયની વાર્તા",
+          "en": "9. Seth Purushottamdas Kshatriya of Banaras Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ९",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૯",
-          "en": "Disciples of Shri Mahaprabhuji - Account 9"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૯",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 9"
         },
         "audioUrl": {
           "hi": "",
@@ -605,14 +605,14 @@
         "order": 10,
         "isVisible": true,
         "title": {
-          "hi": "१०. गोविंददास भल्ला की वार्ता",
-          "gu": "૧૦. ગોવિંદદાસ ભલ્લા ની વાર્તા",
-          "en": "10. Govinddas Bhalla Varta"
+          "hi": "१०. सेठ पुरुषोत्तमदास की पुत्री रुक्मिणी की वार्ता",
+          "gu": "૧૦. શેઠ પુરુષોત્તમદાસની પુત્રી રુક્ષ્મણીની વાર્તા",
+          "en": "10. Rukmini (Daughter of Seth Purushottamdas) Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १०",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૦",
-          "en": "Disciples of Shri Mahaprabhuji - Account 10"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता १०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૧૦",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 10"
         },
         "audioUrl": {
           "hi": "",
@@ -626,14 +626,14 @@
         "order": 11,
         "isVisible": true,
         "title": {
-          "hi": "११. रघुनाथदास कापड़िया की वार्ता",
-          "gu": "૧૧. રઘુનાથદાસ કાપડિયા ની વાર્તા",
-          "en": "11. Raghunathdas Kapadiya Varta"
+          "hi": "११. सेठ पुरुषोत्तमदास के पुत्र गोपालदास की वार्ता",
+          "gu": "૧૧. શેઠ પુરુષોત્તમદાસના પુત્ર ગોપાળદાસની વાર્તા",
+          "en": "11. Gopaldas (Son of Seth Purushottamdas) Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ११",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૧",
-          "en": "Disciples of Shri Mahaprabhuji - Account 11"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ११",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૧૧",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 11"
         },
         "audioUrl": {
           "hi": "",
@@ -647,14 +647,14 @@
         "order": 12,
         "isVisible": true,
         "title": {
-          "hi": "१२. माधवदास भल्ला की वार्ता",
-          "gu": "૧૨. માધવદાસ ભલ્લા ની વાર્તા",
-          "en": "12. Madhavdas Bhalla Varta"
+          "hi": "१२. श्री आचार्यजी के सेवक रामदास सारस्वत ब्राह्मण की वार्ता",
+          "gu": "૧૨. શ્રી આચાર્યજીના સેવક રામદાસ સારસ્વત બ્રાહ્મણની વાર્તા",
+          "en": "12. Ramdas Saraswat Brahmin Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १२",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૨",
-          "en": "Disciples of Shri Mahaprabhuji - Account 12"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता १२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૧૨",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 12"
         },
         "audioUrl": {
           "hi": "",
@@ -668,14 +668,14 @@
         "order": 13,
         "isVisible": true,
         "title": {
-          "hi": "१३. जगन्नाथदास जोशी की वार्ता",
-          "gu": "૧૩. જગન્નાથદાસ જોશી ની વાર્તા",
-          "en": "13. Jagannathdas Joshi Varta"
+          "hi": "१३. श्री आचार्यजी के सेवक गदाधरदास सारस्वत की वार्ता",
+          "gu": "૧૩. શ્રી આચાર્યજીના સેવક ગદાધરદાસ સારસ્વતની વાર્તા",
+          "en": "13. Gadadhardas Saraswat Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १३",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૩",
-          "en": "Disciples of Shri Mahaprabhuji - Account 13"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता १३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૧૩",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 13"
         },
         "audioUrl": {
           "hi": "",
@@ -689,14 +689,14 @@
         "order": 14,
         "isVisible": true,
         "title": {
-          "hi": "१४. त्रिपुरदास कायस्थ की वार्ता",
-          "gu": "૧૪. ત્રિપુરદાસ કાયસ્થ ની વાર્તા",
-          "en": "14. Tripurdas Kayastha Varta"
+          "hi": "१४. श्री वेणीदास तथा माधवदास दो भाइयों की वार्ता",
+          "gu": "૧૪. શ્રી વેણીદાસ તથા માધવદાસ બે ભાઈઓની વાર્તા",
+          "en": "14. Venidas and Madhavdas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १४",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૪",
-          "en": "Disciples of Shri Mahaprabhuji - Account 14"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता १४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૧૪",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 14"
         },
         "audioUrl": {
           "hi": "",
@@ -710,14 +710,14 @@
         "order": 15,
         "isVisible": true,
         "title": {
-          "hi": "१५. भगवानदास भाट की वार्ता",
-          "gu": "૧૫. ભગવાનદાસ ભાટ ની વાર્તા",
-          "en": "15. Bhagwandas Bhat Varta"
+          "hi": "१५. श्री हरिवंश पाठक बनारसवाले की वार्ता",
+          "gu": "૧૫. શ્રી હરિવંશ પાઠક બનારસવાળાની વાર્તા",
+          "en": "15. Harivansh Pathak of Banaras Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १५",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૫",
-          "en": "Disciples of Shri Mahaprabhuji - Account 15"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता १५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૧૫",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 15"
         },
         "audioUrl": {
           "hi": "",
@@ -731,14 +731,14 @@
         "order": 16,
         "isVisible": true,
         "title": {
-          "hi": "१६. नारायणदास सारस्वत की वार्ता",
-          "gu": "૧૬. નારાયણદાસ સારસ્વત ની વાર્તા",
-          "en": "16. Narayandas Saraswat Varta"
+          "hi": "१६. श्री गोविन्ददास की वार्ता",
+          "gu": "૧૬. શ્રી ગોવિન્દદાસની વાર્તા",
+          "en": "16. Govinddas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १६",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૬",
-          "en": "Disciples of Shri Mahaprabhuji - Account 16"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता १६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૧૬",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 16"
         },
         "audioUrl": {
           "hi": "",
@@ -752,14 +752,14 @@
         "order": 17,
         "isVisible": true,
         "title": {
-          "hi": "१७. उद्धवदास छीपी की वार्ता",
-          "gu": "૧૭. ઉદ્ધવદાસ છીપી ની વાર્તા",
-          "en": "17. Uddhavdas Chhipi Varta"
+          "hi": "१७. श्री अम्बा क्षत्राणी की वार्ता",
+          "gu": "૧૭. શ્રી અંબા ક્ષત્રીયાણીની વાર્તા",
+          "en": "17. Amba Kshatriyani Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १७",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૭",
-          "en": "Disciples of Shri Mahaprabhuji - Account 17"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता १७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૧૭",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 17"
         },
         "audioUrl": {
           "hi": "",
@@ -773,14 +773,14 @@
         "order": 18,
         "isVisible": true,
         "title": {
-          "hi": "१८. विष्णुदास सांचोरा की वार्ता",
-          "gu": "૧૮. વિષ્ણુદાસ સાંચોરા ની વાર્તા",
-          "en": "18. Vishnudas Sanchora Varta"
+          "hi": "१८. श्री गज्जनधावन क्षत्रिय आगरावाले की वार्ता",
+          "gu": "૧૮. શ્રી ગજ્જનધાવન ક્ષત્રિય આગ્રાવાળાની વાર્તા",
+          "en": "18. Gajjandhavan Kshatriya of Agra Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १८",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૮",
-          "en": "Disciples of Shri Mahaprabhuji - Account 18"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता १८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૧૮",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 18"
         },
         "audioUrl": {
           "hi": "",
@@ -794,14 +794,14 @@
         "order": 19,
         "isVisible": true,
         "title": {
-          "hi": "१९. रामदास गुजराती की वार्ता",
-          "gu": "૧૯. રામદાસ ગુજરાતી ની વાર્તા",
-          "en": "19. Ramdas Gujarati Varta"
+          "hi": "१९. श्री नारायणदास ब्रह्मचारी की वार्ता",
+          "gu": "૧૯. શ્રી નારાયણદાસ બ્રહ્મચારીની વાર્તા",
+          "en": "19. Narayandas Brahmachari Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग १९",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૧૯",
-          "en": "Disciples of Shri Mahaprabhuji - Account 19"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता १९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૧૯",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 19"
         },
         "audioUrl": {
           "hi": "",
@@ -815,14 +815,14 @@
         "order": 20,
         "isVisible": true,
         "title": {
-          "hi": "२०. राजा मानसिंह जी की वार्ता",
-          "gu": "૨૦. રાજા માનસિંહ જી ની વાર્તા",
-          "en": "20. Raja Mansingh Ji Varta"
+          "hi": "२०. श्री महावनवाली क्षत्राणी की वार्ता",
+          "gu": "૨૦. શ્રી મહાવનવાળી ક્ષત્રીયાણીની વાર્તા",
+          "en": "20. Mahavanwali Kshatriyani Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २०",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૦",
-          "en": "Disciples of Shri Mahaprabhuji - Account 20"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता २०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૨૦",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 20"
         },
         "audioUrl": {
           "hi": "",
@@ -836,14 +836,14 @@
         "order": 21,
         "isVisible": true,
         "title": {
-          "hi": "२१. शेख फरीद पठान की वार्ता",
-          "gu": "૨૧. શેખ ફરીદ પઠાણ ની વાર્તા",
-          "en": "21. Sheikh Farid Pathan Varta"
+          "hi": "२१. श्री जयदास क्षत्रिय की वार्ता",
+          "gu": "૨૧. શ્રી જયદાસ ક્ષત્રિયની વાર્તા",
+          "en": "21. Jaydas Kshatriya Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २१",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૧",
-          "en": "Disciples of Shri Mahaprabhuji - Account 21"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता २१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૨૧",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 21"
         },
         "audioUrl": {
           "hi": "",
@@ -857,14 +857,14 @@
         "order": 22,
         "isVisible": true,
         "title": {
-          "hi": "२२. रुक्मिणी बाई की वार्ता",
-          "gu": "૨૨. રુકિમણી બાઈ ની વાર્તા",
-          "en": "22. Rukmini Bai Varta"
+          "hi": "२२. श्री देवा क्षत्रिय की वार्ता",
+          "gu": "૨૨. શ્રી દેવા ક્ષત્રિયની વાર્તા",
+          "en": "22. Deva Kshatriya Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २२",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૨",
-          "en": "Disciples of Shri Mahaprabhuji - Account 22"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता २२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૨૨",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 22"
         },
         "audioUrl": {
           "hi": "",
@@ -878,14 +878,14 @@
         "order": 23,
         "isVisible": true,
         "title": {
-          "hi": "२३. अमृत बाई की वार्ता",
-          "gu": "૨૩. અમૃત બાઈ ની વાર્તા",
-          "en": "23. Amrit Bai Varta"
+          "hi": "२३. श्री दीनकरदास सेठ की वार्ता",
+          "gu": "૨૩. શ્રી દીનકરદાસ શેઠની વાર્તા",
+          "en": "23. Dinkardas Seth Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २३",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૩",
-          "en": "Disciples of Shri Mahaprabhuji - Account 23"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता २३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૨૩",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 23"
         },
         "audioUrl": {
           "hi": "",
@@ -899,14 +899,14 @@
         "order": 24,
         "isVisible": true,
         "title": {
-          "hi": "२४. तुलसीदास सुनार की वार्ता",
-          "gu": "૨૪. તુલસીદાસ સુનાર ની વાર્તા",
-          "en": "24. Tulsidas Sunar Varta"
+          "hi": "२४. श्री आचार्यजी के सेवक मुकुन्ददास कायस्थ की वार्ता",
+          "gu": "૨૪. શ્રી આચાર્યજીના સેવક મુકુન્દદાસ કાયસ્થની વાર્તા",
+          "en": "24. Mukunddas Kayastha Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २४",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૪",
-          "en": "Disciples of Shri Mahaprabhuji - Account 24"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता २४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૨૪",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 24"
         },
         "audioUrl": {
           "hi": "",
@@ -920,14 +920,14 @@
         "order": 25,
         "isVisible": true,
         "title": {
-          "hi": "२५. गोपालदास दर्जी की वार्ता",
-          "gu": "૨૫. ગોપાલદાસ દર્જી ની વાર્તા",
-          "en": "25. Gopaldas Darji Varta"
+          "hi": "२५. श्री प्रभुदास सिंहनंदनिवासी की वार्ता",
+          "gu": "૨૫. શ્રી પ્રભુદાસ સિંહનંદનીવાસીની વાર્તા",
+          "en": "25. Prabhudas of Sinhanand Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २५",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૫",
-          "en": "Disciples of Shri Mahaprabhuji - Account 25"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता २५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૨૫",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 25"
         },
         "audioUrl": {
           "hi": "",
@@ -941,14 +941,14 @@
         "order": 26,
         "isVisible": true,
         "title": {
-          "hi": "२६. कल्याणदास कायस्थ की वार्ता",
-          "gu": "૨૬. કલ્યાણદાસ કાયસ્થ ની વાર્તા",
-          "en": "26. Kalyandas Kayastha Varta"
+          "hi": "२६. श्री प्रभुदास भाट की वार्ता",
+          "gu": "૨૬. શ્રી પ્રભુદાસ ભાટની વાર્તા",
+          "en": "26. Prabhudas Bhat Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २६",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૬",
-          "en": "Disciples of Shri Mahaprabhuji - Account 26"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता २६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૨૬",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 26"
         },
         "audioUrl": {
           "hi": "",
@@ -962,14 +962,14 @@
         "order": 27,
         "isVisible": true,
         "title": {
-          "hi": "२७. देवकीनंदन क्षत्रिय की वार्ता",
-          "gu": "૨૭. દેવકીનંદન ક્ષત્રિય ની વાર્તા",
-          "en": "27. Devkinandan Kshatriya Varta"
+          "hi": "२७. श्री पुरुषोत्तमदास की वार्ता",
+          "gu": "૨૭. શ્રી પુરુષોત્તમદાસની વાર્તા",
+          "en": "27. Purushottamdas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २७",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૭",
-          "en": "Disciples of Shri Mahaprabhuji - Account 27"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता २७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૨૭",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 27"
         },
         "audioUrl": {
           "hi": "",
@@ -983,14 +983,14 @@
         "order": 28,
         "isVisible": true,
         "title": {
-          "hi": "२८. हरिदास नाई की वार्ता",
-          "gu": "૨૮. હરિદાસ નાઈ ની વાર્તા",
-          "en": "28. Haridas Nai Varta"
+          "hi": "२८. श्री त्रिपुरदास कायस्थ की वार्ता",
+          "gu": "૨૮. શ્રી ત્રિપુરદાસ કાયસ્થની વાર્તા",
+          "en": "28. Tripurdas Kayastha Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २८",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૮",
-          "en": "Disciples of Shri Mahaprabhuji - Account 28"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता २८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૨૮",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 28"
         },
         "audioUrl": {
           "hi": "",
@@ -1004,14 +1004,14 @@
         "order": 29,
         "isVisible": true,
         "title": {
-          "hi": "२९. गोपालदास बनिया की वार्ता",
-          "gu": "૨૯. ગોપાલદાસ વાણિયા ની વાર્તા",
-          "en": "29. Gopaldas Baniya Varta"
+          "hi": "२९. श्री पूरणमल्ल क्षत्रिय की वार्ता",
+          "gu": "૨૯. શ્રી પુરણમલ્લ ક્ષત્રીયની વાર્તા",
+          "en": "29. Puranmall Kshatriya Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग २९",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૨૯",
-          "en": "Disciples of Shri Mahaprabhuji - Account 29"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता २९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૨૯",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 29"
         },
         "audioUrl": {
           "hi": "",
@@ -1025,14 +1025,14 @@
         "order": 30,
         "isVisible": true,
         "title": {
-          "hi": "३०. मोहनदास सिंधी की वार्ता",
-          "gu": "૩૦. મોહનદાસ સિંધી ની વાર્તા",
-          "en": "30. Mohandas Sindhi Varta"
+          "hi": "३०. श्री यादवेन्द्रदास कुम्हार की वार्ता",
+          "gu": "૩૦. શ્રી યાદવેન્દ્રદાસ કુંભારની વાર્તા",
+          "en": "30. Yadvendradas Kumbhar Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३०",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૦",
-          "en": "Disciples of Shri Mahaprabhuji - Account 30"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ३०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૩૦",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 30"
         },
         "audioUrl": {
           "hi": "",
@@ -1046,14 +1046,14 @@
         "order": 31,
         "isVisible": true,
         "title": {
-          "hi": "३१. काशीराम ब्राह्मण की वार्ता",
-          "gu": "૩૧. કાશીરામ બ્રાહ્મણ ની વાર્તા",
-          "en": "31. Kashiram Brahman Varta"
+          "hi": "३१. श्री गुसाईंदास सारस्वत ब्राह्मण की वार्ता",
+          "gu": "૩૧. શ્રી ગુંસાઈદાસ સારસ્વત બ્રાહ્મણની વાર્તા",
+          "en": "31. Gusaidas Saraswat Brahmin Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३१",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૧",
-          "en": "Disciples of Shri Mahaprabhuji - Account 31"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ३१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૩૧",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 31"
         },
         "audioUrl": {
           "hi": "",
@@ -1067,14 +1067,14 @@
         "order": 32,
         "isVisible": true,
         "title": {
-          "hi": "३२. मथुरादास खत्री की वार्ता",
-          "gu": "૩૨. મથુરાદાસ ખત્રી ની વાર્તા",
-          "en": "32. Mathuradas Khatri Varta"
+          "hi": "३२. श्री माधवदास भट्ट कश्मीरवासी की वार्ता",
+          "gu": "૩૨. શ્રી માધવદાસ ભટ્ટ કાશ્મીરવાસીની વાર્તા",
+          "en": "32. Madhavdas Bhatt Kashmiri Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३२",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૨",
-          "en": "Disciples of Shri Mahaprabhuji - Account 32"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ३२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૩૨",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 32"
         },
         "audioUrl": {
           "hi": "",
@@ -1088,14 +1088,14 @@
         "order": 33,
         "isVisible": true,
         "title": {
-          "hi": "३३. हरिवंश व्यास की वार्ता",
-          "gu": "૩૩. હરિવંશ વ્યાસ ની વાર્તા",
-          "en": "33. Harivansh Vyas Varta"
+          "hi": "३३. श्री गोपालदास की वार्ता",
+          "gu": "૩૩. શ્રી ગોપાળદાસની વાર્તા",
+          "en": "33. Gopaldas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३३",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૩",
-          "en": "Disciples of Shri Mahaprabhuji - Account 33"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ३३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૩૩",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 33"
         },
         "audioUrl": {
           "hi": "",
@@ -1109,14 +1109,14 @@
         "order": 34,
         "isVisible": true,
         "title": {
-          "hi": "३४. श्यामा बाई की वार्ता",
-          "gu": "૩૪. શ્યામા બાઈ ની વાર્તા",
-          "en": "34. Shyama Bai Varta"
+          "hi": "३४. श्री पद्मरावल साचोरा की वार्ता",
+          "gu": "૩૪. શ્રી પદ્મરાવળ સાચોરાની વાર્તા",
+          "en": "34. Padmaraval Sachora Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३४",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૪",
-          "en": "Disciples of Shri Mahaprabhuji - Account 34"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ३४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૩૪",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 34"
         },
         "audioUrl": {
           "hi": "",
@@ -1130,14 +1130,14 @@
         "order": 35,
         "isVisible": true,
         "title": {
-          "hi": "३५. गंगाबाई क्षत्राणी की वार्ता",
-          "gu": "૩૫. ગંગાબાઈ ક્ષત્રાણી ની વાર્તા",
-          "en": "35. Gangabai Kshatrani Varta"
+          "hi": "३५. श्री साचोरा ब्राह्मण पुरुषोत्तम जोशी की वार्ता",
+          "gu": "૩૫. શ્રી સાચોરા બ્રાહ્મણ પુરુષોત્તમ જોશીની વાર્તા",
+          "en": "35. Purushottam Joshi Sachora Brahmin Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३५",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૫",
-          "en": "Disciples of Shri Mahaprabhuji - Account 35"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ३५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૩૫",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 35"
         },
         "audioUrl": {
           "hi": "",
@@ -1151,14 +1151,14 @@
         "order": 36,
         "isVisible": true,
         "title": {
-          "hi": "३६. राणा व्यास की वार्ता",
-          "gu": "૩૬. રાણા વ્યાસ ની વાર્તા",
-          "en": "36. Rana Vyas Varta"
+          "hi": "३६. श्री जगन्नाथ जोशी की वार्ता",
+          "gu": "૩૬. શ્રી જગન્નાથ જોશીની વાર્તા",
+          "en": "36. Jagannath Joshi Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३६",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૬",
-          "en": "Disciples of Shri Mahaprabhuji - Account 36"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ३६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૩૬",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 36"
         },
         "audioUrl": {
           "hi": "",
@@ -1172,14 +1172,14 @@
         "order": 37,
         "isVisible": true,
         "title": {
-          "hi": "३७. केशवदास लोढा की वार्ता",
-          "gu": "૩૭. કેશવદાસ લોઢા ની વાર્તા",
-          "en": "37. Keshavdas Lodha Varta"
+          "hi": "३७. श्री जगन्नाथ जोशी की माता की वार्ता",
+          "gu": "૩૭. શ્રી જગન્નાથ જોશીની માતાની વાર્તા",
+          "en": "37. Mother of Jagannath Joshi Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३७",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૭",
-          "en": "Disciples of Shri Mahaprabhuji - Account 37"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ३७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૩૭",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 37"
         },
         "audioUrl": {
           "hi": "",
@@ -1193,14 +1193,14 @@
         "order": 38,
         "isVisible": true,
         "title": {
-          "hi": "३८. नरहरि जोशी की वार्ता",
-          "gu": "૩૮. નરહરિ જોશી ની વાર્તા",
-          "en": "38. Narhari Joshi Varta"
+          "hi": "३८. श्री नरहर जोशी की वार्ता",
+          "gu": "૩૮. શ્રી નરહર જોશીની વાર્તા",
+          "en": "38. Narhar Joshi Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३८",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૮",
-          "en": "Disciples of Shri Mahaprabhuji - Account 38"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ३८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૩૮",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 38"
         },
         "audioUrl": {
           "hi": "",
@@ -1214,14 +1214,14 @@
         "order": 39,
         "isVisible": true,
         "title": {
-          "hi": "३९. बलभद्रदास कायस्थ की वार्ता",
-          "gu": "૩૯. બલભદ્રદાસ કાયસ્થ ની વાર્તા",
-          "en": "39. Balbhadradas Kayastha Varta"
+          "hi": "३९. श्री गोधरावाले राणा व्यास की वार्ता",
+          "gu": "૩૯. શ્રી ગોધરાવાળા રાણા વ્યાસની વાર્તા",
+          "en": "39. Rana Vyas of Godhra Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ३९",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૩૯",
-          "en": "Disciples of Shri Mahaprabhuji - Account 39"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ३९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૩૯",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 39"
         },
         "audioUrl": {
           "hi": "",
@@ -1235,14 +1235,14 @@
         "order": 40,
         "isVisible": true,
         "title": {
-          "hi": "४०. दामोदरदास बड़ौदा की वार्ता",
-          "gu": "૪૦. દામોદરદાસ વડોદરા ની વાર્તા",
-          "en": "40. Damodardas Baroda Varta"
+          "hi": "४०. श्री राजनगरवाले रामदास सारस्वत की वार्ता",
+          "gu": "૪૦. શ્રી રાજનગરવાળા રામદાસ સારસ્વતની વાર્તા",
+          "en": "40. Ramdas Saraswat of Rajnagar Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४०",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૦",
-          "en": "Disciples of Shri Mahaprabhuji - Account 40"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ४०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૪૦",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 40"
         },
         "audioUrl": {
           "hi": "",
@@ -1256,14 +1256,14 @@
         "order": 41,
         "isVisible": true,
         "title": {
-          "hi": "४१. मुरलीधर सुनार की वार्ता",
-          "gu": "૪૧. મુરલીધર સુનાર ની વાર્તા",
-          "en": "41. Murlidhar Sunar Varta"
+          "hi": "४१. श्री गोविन्द दवे की वार्ता",
+          "gu": "૪૧. શ્રી ગોવિંદ દવેની વાર્તા",
+          "en": "41. Govind Dave Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४१",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૧",
-          "en": "Disciples of Shri Mahaprabhuji - Account 41"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ४१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૪૧",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 41"
         },
         "audioUrl": {
           "hi": "",
@@ -1277,14 +1277,14 @@
         "order": 42,
         "isVisible": true,
         "title": {
-          "hi": "४२. हरिराम व्यास की वार्ता",
-          "gu": "૪૨. હરિરામ વ્યાસ ની વાર્તા",
-          "en": "42. Hariram Vyas Varta"
+          "hi": "४२. श्री राजा दवे तथा माधव दवे दो भाइयों की वार्ता",
+          "gu": "૪૨. શ્રી રાજા દવે તથા માધવ દવે બે ભાઈની વાર્તા",
+          "en": "42. Raja Dave and Madhav Dave Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४२",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૨",
-          "en": "Disciples of Shri Mahaprabhuji - Account 42"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ४२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૪૨",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 42"
         },
         "audioUrl": {
           "hi": "",
@@ -1298,14 +1298,14 @@
         "order": 43,
         "isVisible": true,
         "title": {
-          "hi": "४३. गदाधरदास क्षत्रिय की वार्ता",
-          "gu": "૪૩. ગદાધરદાસ ક્ષત્રિય ની વાર્તા",
-          "en": "43. Gadadhardas Kshatriya Varta"
+          "hi": "४३. श्री उत्तमश्लोकदास साचोरा ब्राह्मण की वार्ता",
+          "gu": "૪૩. શ્રી ઉત્તમશ્લોકદાસ સાચોરા બ્રાહ્મણની વાર્તા",
+          "en": "43. Uttamshlokdas Sachora Brahmin Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४३",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૩",
-          "en": "Disciples of Shri Mahaprabhuji - Account 43"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ४३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૪૩",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 43"
         },
         "audioUrl": {
           "hi": "",
@@ -1319,14 +1319,14 @@
         "order": 44,
         "isVisible": true,
         "title": {
-          "hi": "४४. शिवदास माली की वार्ता",
-          "gu": "૪૪. શિવદાસ માળી ની વાર્તા",
-          "en": "44. Shivdas Mali Varta"
+          "hi": "४४. श्री साचोरा ब्राह्मण ईश्वर दवे की वार्ता",
+          "gu": "૪૪. શ્રી સાચોરા બ્રાહ્મણ ઈશ્વર દવેની વાર્તા",
+          "en": "44. Ishwar Dave Sachora Brahmin Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४४",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૪",
-          "en": "Disciples of Shri Mahaprabhuji - Account 44"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ४४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૪૪",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 44"
         },
         "audioUrl": {
           "hi": "",
@@ -1340,14 +1340,14 @@
         "order": 45,
         "isVisible": true,
         "title": {
-          "hi": "४५. जयदेवदास कनोडिया की वार्ता",
-          "gu": "૪૫. જયદેવદાસ કનોડિયા ની વાર્તા",
-          "en": "45. Jaydevdas Kanodiya Varta"
+          "hi": "४५. श्री सारस्वत ब्राह्मण वासुदेवदास की वार्ता",
+          "gu": "૪૫. શ્રી સારસ્વત બ્રાહ્મણ વાસુદેવદાસની વાર્તા",
+          "en": "45. Vasudevdas Saraswat Brahmin Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४५",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૫",
-          "en": "Disciples of Shri Mahaprabhuji - Account 45"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ४५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૪૫",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 45"
         },
         "audioUrl": {
           "hi": "",
@@ -1361,14 +1361,14 @@
         "order": 46,
         "isVisible": true,
         "title": {
-          "hi": "४६. भानुदास पटेरिया की वार्ता",
-          "gu": "૪૬. ભાનુદાસ પટેરિયા ની વાર્તા",
-          "en": "46. Bhanudas Pateriya Varta"
+          "hi": "४६. श्री वेणुबावा, कृष्णदास धधरिया और यादवदास की वार्ता",
+          "gu": "૪૬. શ્રી વેણુબાવા, કૃષ્ણદાસ ધધરીઆ અને યાદવદાસની વાર્તા",
+          "en": "46. Venubava, Krishnadas Dhadharia and Yadavdas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४६",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૬",
-          "en": "Disciples of Shri Mahaprabhuji - Account 46"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ४६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૪૬",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 46"
         },
         "audioUrl": {
           "hi": "",
@@ -1382,14 +1382,14 @@
         "order": 47,
         "isVisible": true,
         "title": {
-          "hi": "४७. गंगाधर भट्ट की वार्ता",
-          "gu": "૪૭. ગંગાધર ભટ્ટ ની વાર્તા",
-          "en": "47. Gangadhar Bhatt Varta"
+          "hi": "४७. श्री सारस्वत ब्राह्मण जगतानन्द की वार्ता",
+          "gu": "૪૭. શ્રી સારસ્વત બ્રાહ્મણ જગતાનંદની વાર્તા",
+          "en": "47. Jagatanand Saraswat Brahmin Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४७",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૭",
-          "en": "Disciples of Shri Mahaprabhuji - Account 47"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ४७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૪૭",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 47"
         },
         "audioUrl": {
           "hi": "",
@@ -1403,14 +1403,14 @@
         "order": 48,
         "isVisible": true,
         "title": {
-          "hi": "४८. मंगतराम हलवाई की वार्ता",
-          "gu": "૪૮. મંગતરામ હલવાઈ ની વાર્તા",
-          "en": "48. Mangatram Halwai Varta"
+          "hi": "४८. श्री विश्वम्भरदास और आनन्ददास की वार्ता",
+          "gu": "૪૮. શ્રી વિશ્વમ્ભરદાસ અને આનન્દદાસની વાર્તા",
+          "en": "48. Vishwambhardas and Ananddas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४८",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૮",
-          "en": "Disciples of Shri Mahaprabhuji - Account 48"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ४८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૪૮",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 48"
         },
         "audioUrl": {
           "hi": "",
@@ -1424,14 +1424,14 @@
         "order": 49,
         "isVisible": true,
         "title": {
-          "hi": "४९. द्वारकादास कनोडिया की वार्ता",
-          "gu": "૪૯. દ્વારકાદાસ કનોડિયા ની વાર્તા",
-          "en": "49. Dwarkadas Kanodiya Varta"
+          "hi": "४९. श्री एक ब्राह्मणी की वार्ता",
+          "gu": "૪૯. શ્રી એક બ્રાહ્મણીની વાર્તા",
+          "en": "49. A Brahmin Woman Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ४९",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૪૯",
-          "en": "Disciples of Shri Mahaprabhuji - Account 49"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ४९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૪૯",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 49"
         },
         "audioUrl": {
           "hi": "",
@@ -1445,14 +1445,14 @@
         "order": 50,
         "isVisible": true,
         "title": {
-          "hi": "५०. भगवानदास सुनार की वार्ता",
-          "gu": "૫૦. ભગવાનદાસ સુનાર ની વાર્તા",
-          "en": "50. Bhagwandas Sunar Varta"
+          "hi": "५०. श्री एक क्षत्राणी की वार्ता",
+          "gu": "૫૦. શ્રી એક ક્ષત્રીયાણીની વાર્તા",
+          "en": "50. A Kshatriyani Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५०",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૦",
-          "en": "Disciples of Shri Mahaprabhuji - Account 50"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ५०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૫૦",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 50"
         },
         "audioUrl": {
           "hi": "",
@@ -1466,14 +1466,14 @@
         "order": 51,
         "isVisible": true,
         "title": {
-          "hi": "५१. लक्ष्मीदास कायस्थ की वार्ता",
-          "gu": "૫૧. લક્ષ્મીદાસ કાયસ્થ ની વાર્તા",
-          "en": "51. Lakshmidas Kayastha Varta"
+          "hi": "५१. श्री सास-बहू की वार्ता",
+          "gu": "૫૧. શ્રી સાસુ-વહુની વાર્તા",
+          "en": "51. Mother-in-law and Daughter-in-law Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५१",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૧",
-          "en": "Disciples of Shri Mahaprabhuji - Account 51"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ५१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૫૧",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 51"
         },
         "audioUrl": {
           "hi": "",
@@ -1487,14 +1487,14 @@
         "order": 52,
         "isVisible": true,
         "title": {
-          "hi": "५२. विट्ठलदास चांपानेरी की वार्ता",
-          "gu": "૫૨. વિઠ્ઠલદાસ ચાંપાનેરી ની વાર્તા",
-          "en": "52. Vitthaldas Champaneri Varta"
+          "hi": "५२. श्री कृष्णदासी की वार्ता",
+          "gu": "૫૨. શ્રી કૃષ્ણદાસીની વાર્તા",
+          "en": "52. Krishnadasi Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५२",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૨",
-          "en": "Disciples of Shri Mahaprabhuji - Account 52"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ५२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૫૨",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 52"
         },
         "audioUrl": {
           "hi": "",
@@ -1508,14 +1508,14 @@
         "order": 53,
         "isVisible": true,
         "title": {
-          "hi": "५३. रतनबाई राजपूत की वार्ता",
-          "gu": "૫૩. રતનબાઈ રાજપૂત ની વાર્તા",
-          "en": "53. Ratanbai Rajput Varta"
+          "hi": "५३. श्री भुलामिश्र पण्डित की वार्ता",
+          "gu": "૫૩. શ્રી ભુલામિશ્ર પંડિતની વાર્તા",
+          "en": "53. Bhulamishra Pandit Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५३",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૩",
-          "en": "Disciples of Shri Mahaprabhuji - Account 53"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ५३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૫૩",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 53"
         },
         "audioUrl": {
           "hi": "",
@@ -1529,14 +1529,14 @@
         "order": 54,
         "isVisible": true,
         "title": {
-          "hi": "५४. मदनमोहनदास की वार्ता",
-          "gu": "૫૪. મદનમોહનદાસ ની વાર્તા",
-          "en": "54. Madanmohandas Varta"
+          "hi": "५४. श्री मीराबाई के पुरोहित रामदासजी की वार्ता",
+          "gu": "૫૪. શ્રી મીરાંબાઈના પુરોહિત રામદાસજીની વાર્તા",
+          "en": "54. Ramdasji (Purohit of Mirabai) Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५४",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૪",
-          "en": "Disciples of Shri Mahaprabhuji - Account 54"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ५४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૫૪",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 54"
         },
         "audioUrl": {
           "hi": "",
@@ -1550,14 +1550,14 @@
         "order": 55,
         "isVisible": true,
         "title": {
-          "hi": "५५. सुंदरदास बनिया की वार्ता",
-          "gu": "૫૫. સુંદરદાસ વાણિયા ની વાર્તા",
-          "en": "55. Sundardas Baniya Varta"
+          "hi": "५५. श्री रामदास चौहान की वार्ता",
+          "gu": "૫૫. શ્રી રામદાસ ચહુઆણની વાર્તા",
+          "en": "55. Ramdas Chauhan Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५५",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૫",
-          "en": "Disciples of Shri Mahaprabhuji - Account 55"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ५५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૫૫",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 55"
         },
         "audioUrl": {
           "hi": "",
@@ -1571,14 +1571,14 @@
         "order": 56,
         "isVisible": true,
         "title": {
-          "hi": "५६. नंददास जी की वार्ता",
-          "gu": "૫૬. નંદદાસ જી ની વાર્તા",
-          "en": "56. Nandadas Ji Varta"
+          "hi": "५६. श्री पण्डितजी रामानन्द की वार्ता",
+          "gu": "૫૬. શ્રી પંડિતજી રામાનંદની વાર્તા",
+          "en": "56. Panditji Ramanand Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५६",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૬",
-          "en": "Disciples of Shri Mahaprabhuji - Account 56"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ५६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૫૬",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 56"
         },
         "audioUrl": {
           "hi": "",
@@ -1592,14 +1592,14 @@
         "order": 57,
         "isVisible": true,
         "title": {
-          "hi": "५७. चतुर्भुजदास जी की वार्ता",
-          "gu": "૫૭. ચતુર્ભુજદાસ જી ની વાર્તા",
-          "en": "57. Chaturbhujdas Ji Varta"
+          "hi": "५७. श्री विष्णुदास की वार्ता",
+          "gu": "૫૭. શ્રી વિષ્ણુદાસની વાર્તા",
+          "en": "57. Vishnudas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५७",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૭",
-          "en": "Disciples of Shri Mahaprabhuji - Account 57"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ५७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૫૭",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 57"
         },
         "audioUrl": {
           "hi": "",
@@ -1613,14 +1613,14 @@
         "order": 58,
         "isVisible": true,
         "title": {
-          "hi": "५८. रामदास मेड़तवाल की वार्ता",
-          "gu": "૫૮. રામદાસ મેડતવાલ ની વાર્તા",
-          "en": "58. Ramdas Medatwal Varta"
+          "hi": "५८. श्री जीवणदास क्षत्रिय की वार्ता",
+          "gu": "૫૮. શ્રી જીવણદાસ ક્ષત્રિયની વાર્તા",
+          "en": "58. Jivandas Kshatriya Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५८",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૮",
-          "en": "Disciples of Shri Mahaprabhuji - Account 58"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ५८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૫૮",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 58"
         },
         "audioUrl": {
           "hi": "",
@@ -1634,14 +1634,14 @@
         "order": 59,
         "isVisible": true,
         "title": {
-          "hi": "५९. भगवानदास मोची की वार्ता",
-          "gu": "૫૯. ભગવાનદાસ મોચી ની વાર્તા",
-          "en": "59. Bhagwandas Mochi Varta"
+          "hi": "५९. श्री भगवानदास की वार्ता",
+          "gu": "૫૯. શ્રી ભગવાનદાસની વાર્તા",
+          "en": "59. Bhagwandas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ५९",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૫૯",
-          "en": "Disciples of Shri Mahaprabhuji - Account 59"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ५९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૫૯",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 59"
         },
         "audioUrl": {
           "hi": "",
@@ -1655,14 +1655,14 @@
         "order": 60,
         "isVisible": true,
         "title": {
-          "hi": "६०. कृपाराम सारस्वत की वार्ता",
-          "gu": "૬૦. કૃપારામ સારસ્વત ની વાર્તા",
-          "en": "60. Kriparam Saraswat Varta"
+          "hi": "६०. श्री अच्युतदास की वार्ता",
+          "gu": "૬૦. શ્રી અચ્યુતદાસની વાર્તા",
+          "en": "60. Achyutdas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६०",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૦",
-          "en": "Disciples of Shri Mahaprabhuji - Account 60"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ६०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૬૦",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 60"
         },
         "audioUrl": {
           "hi": "",
@@ -1676,14 +1676,14 @@
         "order": 61,
         "isVisible": true,
         "title": {
-          "hi": "६१. गोविंददास तेली की वार्ता",
-          "gu": "૬૧. ગોવિંદદાસ તેલી ની વાર્તા",
-          "en": "61. Govinddas Teli Varta"
+          "hi": "६१. श्रीनाथजी के भीतरीया भगवानदास की वार्ता",
+          "gu": "૬૧. શ્રીનાથજીના ભીતરીઆ ભગવાનદાસની વાર્તા",
+          "en": "61. Bhagwandas Bhitariya of Shrinathji Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६१",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૧",
-          "en": "Disciples of Shri Mahaprabhuji - Account 61"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ६१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૬૧",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 61"
         },
         "audioUrl": {
           "hi": "",
@@ -1697,14 +1697,14 @@
         "order": 62,
         "isVisible": true,
         "title": {
-          "hi": "६२. पुरुषोत्तमदास की वार्ता",
-          "gu": "૬૨. પુરુષોત્તમદાસ ની વાર્તા",
-          "en": "62. Purushottamdas Varta"
+          "hi": "६२. गौड़ ब्राह्मण अच्युतदास की वार्ता",
+          "gu": "૬૨. ગૌડ બ્રાહ્મણ અચ્યુતદાસની વાર્તા",
+          "en": "62. Gaud Brahmin Achyutdas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६२",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૨",
-          "en": "Disciples of Shri Mahaprabhuji - Account 62"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ६२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૬૨",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 62"
         },
         "audioUrl": {
           "hi": "",
@@ -1718,14 +1718,14 @@
         "order": 63,
         "isVisible": true,
         "title": {
-          "hi": "६३. हरिजीवनदास की वार्ता",
-          "gu": "૬૩. હરિજીવનદાસ ની વાર્તા",
-          "en": "63. Harijivandas Varta"
+          "hi": "६३. सारस्वत ब्राह्मण अच्युतदास की वार्ता",
+          "gu": "૬૩. સારસ્વત બ્રાહ્મણ અચ્યુતદાસની વાર્તા",
+          "en": "63. Saraswat Brahmin Achyutdas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६३",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૩",
-          "en": "Disciples of Shri Mahaprabhuji - Account 63"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ६३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૬૩",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 63"
         },
         "audioUrl": {
           "hi": "",
@@ -1739,14 +1739,14 @@
         "order": 64,
         "isVisible": true,
         "title": {
-          "hi": "६४. गोपालदास खत्री की वार्ता",
-          "gu": "૬૪. ગોપાલદાસ ખત્રી ની વાર્તા",
-          "en": "64. Gopaldas Khatri Varta"
+          "hi": "६४. श्री नारायणदास की वार्ता",
+          "gu": "૬૪. શ્રી નારાયણદાસની વાર્તા",
+          "en": "64. Narayandas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६४",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૪",
-          "en": "Disciples of Shri Mahaprabhuji - Account 64"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ६४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૬૪",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 64"
         },
         "audioUrl": {
           "hi": "",
@@ -1760,14 +1760,14 @@
         "order": 65,
         "isVisible": true,
         "title": {
-          "hi": "६५. मथुरादास लुहार की वार्ता",
-          "gu": "૬૫. મથુરાદાસ લુહાર ની વાર્તા",
-          "en": "65. Mathuradas Luhar Varta"
+          "hi": "६५. श्री नारायणदास मथुरावाले की वार्ता",
+          "gu": "૬૫. શ્રી નારાયણદાસ મથુરાવાળાની વાર્તા",
+          "en": "65. Narayandas of Mathura Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६५",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૫",
-          "en": "Disciples of Shri Mahaprabhuji - Account 65"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ६५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૬૫",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 65"
         },
         "audioUrl": {
           "hi": "",
@@ -1781,14 +1781,14 @@
         "order": 66,
         "isVisible": true,
         "title": {
-          "hi": "६६. गंगाबाई बनियानी की वार्ता",
-          "gu": "૬૬. ગંગાબાઈ વાણિયાણી ની વાર્તા",
-          "en": "66. Gangabai Baniyani Varta"
+          "hi": "६६. श्री नारायणदास चौहान ठट्ठानिवासी की वार्ता",
+          "gu": "૬૬. શ્રી નારાયણદાસ ચહુઆણ ઠઠ્ઠાનીવાસીની વાર્તા",
+          "en": "66. Narayandas Chauhan of Thatta Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६६",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૬",
-          "en": "Disciples of Shri Mahaprabhuji - Account 66"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ६६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૬૬",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 66"
         },
         "audioUrl": {
           "hi": "",
@@ -1802,14 +1802,14 @@
         "order": 67,
         "isVisible": true,
         "title": {
-          "hi": "६७. मुरलीधर कायस्थ की वार्ता",
-          "gu": "૬૭. મુરલીધર કાયસ્થ ની વાર્તા",
-          "en": "67. Murlidhar Kayastha Varta"
+          "hi": "६७. श्री सिंहनंदवाली क्षत्राणी की वार्ता",
+          "gu": "૬૭. શ્રી સિંહનંદવાળી ક્ષત્રીયાણીની વાર્તા",
+          "en": "67. Sinhanandwali Kshatriyani Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६७",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૭",
-          "en": "Disciples of Shri Mahaprabhuji - Account 67"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ६७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૬૭",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 67"
         },
         "audioUrl": {
           "hi": "",
@@ -1823,14 +1823,14 @@
         "order": 68,
         "isVisible": true,
         "title": {
-          "hi": "६८. जयरामदास राजपूत की वार्ता",
-          "gu": "૬૮. જયરામદાસ રાજપૂત ની વાર્તા",
-          "en": "68. Jayramdas Rajput Varta"
+          "hi": "६८. श्री दामोदरदास कायस्थ की वार्ता",
+          "gu": "૬૮. શ્રી દામોદરદાસ કાયસ્થની વાર્તા",
+          "en": "68. Damodardas Kayastha Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६८",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૮",
-          "en": "Disciples of Shri Mahaprabhuji - Account 68"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ६८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૬૮",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 68"
         },
         "audioUrl": {
           "hi": "",
@@ -1844,14 +1844,14 @@
         "order": 69,
         "isVisible": true,
         "title": {
-          "hi": "६९. विष्णुदास माली की वार्ता",
-          "gu": "૬૯. વિષ્ણુદાસ માળી ની વાર્તા",
-          "en": "69. Vishnudas Mali Varta"
+          "hi": "६९. श्री दम्पती की वार्ता",
+          "gu": "૬૯. શ્રી દંપતીની વાર્તા",
+          "en": "69. A Devotee Couple (Dampati) Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ६९",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૬૯",
-          "en": "Disciples of Shri Mahaprabhuji - Account 69"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ६९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૬૯",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 69"
         },
         "audioUrl": {
           "hi": "",
@@ -1865,14 +1865,14 @@
         "order": 70,
         "isVisible": true,
         "title": {
-          "hi": "७०. कमलाबाई की वार्ता",
-          "gu": "૭૦. કમલાબાઈ ની વાર્તા",
-          "en": "70. Kamlabai Varta"
+          "hi": "७०. श्री अडेलवाले सुथार की वार्ता",
+          "gu": "૭૦. શ્રી અડેલવાળા સુથારની વાર્તા",
+          "en": "70. Carpenter of Adel Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७०",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૦",
-          "en": "Disciples of Shri Mahaprabhuji - Account 70"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ७०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૭૦",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 70"
         },
         "audioUrl": {
           "hi": "",
@@ -1886,14 +1886,14 @@
         "order": 71,
         "isVisible": true,
         "title": {
-          "hi": "७१. श्यामदास बनिया की वार्ता",
-          "gu": "૭૧. શ્યામદાસ વાણિયા ની વાર્તા",
-          "en": "71. Shyamdas Baniya Varta"
+          "hi": "७१. श्री एक क्षत्रिय की वार्ता",
+          "gu": "૭૧. શ્રી એક ક્ષત્રિયની વાર્તા",
+          "en": "71. A Kshatriya Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७१",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૧",
-          "en": "Disciples of Shri Mahaprabhuji - Account 71"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ७१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૭૧",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 71"
         },
         "audioUrl": {
           "hi": "",
@@ -1907,14 +1907,14 @@
         "order": 72,
         "isVisible": true,
         "title": {
-          "hi": "७२. बालकृष्णदास की वार्ता",
-          "gu": "૭૨. બાલકૃષ્ણદાસ ની વાર્તા",
-          "en": "72. Balakrishnadas Varta"
+          "hi": "७२. श्री लघु पुरुषोत्तमदास क्षत्रिय की वार्ता",
+          "gu": "૭૨. શ્રી લઘુ પુરુષોત્તમદાસ ક્ષત્રીયની વાર્તા",
+          "en": "72. Laghu Purushottamdas Kshatriya Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७२",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૨",
-          "en": "Disciples of Shri Mahaprabhuji - Account 72"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ७२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૭૨",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 72"
         },
         "audioUrl": {
           "hi": "",
@@ -1928,14 +1928,14 @@
         "order": 73,
         "isVisible": true,
         "title": {
-          "hi": "७३. नारायणदास खत्री की वार्ता",
-          "gu": "૭૩. નારાયણદાસ ખત્રી ની વાર્તા",
-          "en": "73. Narayandas Khatri Varta"
+          "hi": "७३. श्री गोपालदास की वार्ता",
+          "gu": "૭૩. શ્રી ગોપાળદાસની વાર્તા",
+          "en": "73. Gopaldas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७३",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૩",
-          "en": "Disciples of Shri Mahaprabhuji - Account 73"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ७३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૭૩",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 73"
         },
         "audioUrl": {
           "hi": "",
@@ -1949,14 +1949,14 @@
         "order": 74,
         "isVisible": true,
         "title": {
-          "hi": "७४. भगवानदास कनोडिया की वार्ता",
-          "gu": "૭૪. ભગવાનદાસ કનોડિયા ની વાર્તા",
-          "en": "74. Bhagwandas Kanodiya Varta"
+          "hi": "७४. श्री कविराज की वार्ता",
+          "gu": "૭૪. શ્રી કવિરાજની વાર્તા",
+          "en": "74. Kaviraj Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७४",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૪",
-          "en": "Disciples of Shri Mahaprabhuji - Account 74"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ७४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૭૪",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 74"
         },
         "audioUrl": {
           "hi": "",
@@ -1970,14 +1970,14 @@
         "order": 75,
         "isVisible": true,
         "title": {
-          "hi": "७५. जगदीशदास राजपूत की वार्ता",
-          "gu": "૭૫. જગદીશદાસ રાજપૂત ની વાર્તા",
-          "en": "75. Jagdishdas Rajput Varta"
+          "hi": "७५. श्री जनार्दन क्षत्रिय की वार्ता",
+          "gu": "૭૫. શ્રી જનાર્દન ક્ષત્રિયની વાર્તા",
+          "en": "75. Janardan Kshatriya Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७५",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૫",
-          "en": "Disciples of Shri Mahaprabhuji - Account 75"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ७५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૭૫",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 75"
         },
         "audioUrl": {
           "hi": "",
@@ -1991,14 +1991,14 @@
         "order": 76,
         "isVisible": true,
         "title": {
-          "hi": "७६. माधवदास सुनार की वार्ता",
-          "gu": "૭૬. માધવદાસ સુનાર ની વાર્તા",
-          "en": "76. Madhavdas Sunar Varta"
+          "hi": "७६. श्री गडुस्वामी सनोडिया ब्राह्मण की वार्ता",
+          "gu": "૭૬. શ્રી ગડુસ્વામી સનોડીઆ બ્રાહ્મણની વાર્તા",
+          "en": "76. Gaduswami Sanodiya Brahmin Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७६",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૬",
-          "en": "Disciples of Shri Mahaprabhuji - Account 76"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ७६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૭૬",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 76"
         },
         "audioUrl": {
           "hi": "",
@@ -2012,14 +2012,14 @@
         "order": 77,
         "isVisible": true,
         "title": {
-          "hi": "७७. केशवदास दर्जी की वार्ता",
-          "gu": "૭૭. કેશવદાસ દર્જી ની વાર્તા",
-          "en": "77. Keshavdas Darji Varta"
+          "hi": "७७. श्री कन्हैयालाल क्षत्रिय की वार्ता",
+          "gu": "૭૭. શ્રી કનૈયાલાલ ક્ષત્રિયની વાર્તા",
+          "en": "77. Kanhaiyalal Kshatriya Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७७",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૭",
-          "en": "Disciples of Shri Mahaprabhuji - Account 77"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ७७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૭૭",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 77"
         },
         "audioUrl": {
           "hi": "",
@@ -2033,14 +2033,14 @@
         "order": 78,
         "isVisible": true,
         "title": {
-          "hi": "७८. गोपीनाथदास की वार्ता",
-          "gu": "૭૮. ગોપીનાથદાસ ની વાર્તા",
-          "en": "78. Gopinathdas Varta"
+          "hi": "७८. श्री नरहरदास की वार्ता",
+          "gu": "૭૮. શ્રી નરહરદાસની વાર્તા",
+          "en": "78. Narhardas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७८",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૮",
-          "en": "Disciples of Shri Mahaprabhuji - Account 78"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ७८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૭૮",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 78"
         },
         "audioUrl": {
           "hi": "",
@@ -2054,14 +2054,14 @@
         "order": 79,
         "isVisible": true,
         "title": {
-          "hi": "७९. लक्ष्मणदास कायस्थ की वार्ता",
-          "gu": "૭૯. લક્ષ્મણદાસ કાયસ્થ ની વાર્તા",
-          "en": "79. Lakshmandas Kayastha Varta"
+          "hi": "७९. श्री बादरायणदास की वार्ता",
+          "gu": "૭૯. શ્રી બાદરાયણદાસની વાર્તા",
+          "en": "79. Badarayandas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ७९",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૭૯",
-          "en": "Disciples of Shri Mahaprabhuji - Account 79"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ७९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૭૯",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 79"
         },
         "audioUrl": {
           "hi": "",
@@ -2075,14 +2075,14 @@
         "order": 80,
         "isVisible": true,
         "title": {
-          "hi": "८०. शिवराम भट्ट की वार्ता",
-          "gu": "૮૦. શિવરામ ભટ્ટ ની વાર્તા",
-          "en": "80. Shivram Bhatt Varta"
+          "hi": "८०. श्री आन्योर के सद्दू पाण्डे एवं माणेकचन्द पाण्डे परिवार की वार्ता",
+          "gu": "૮૦. શ્રી આનોરાના સદુ પાંડે અને માણેકચંદ પાંડે, તેની સ્ત્રી તથા છોડીની વાર્તા",
+          "en": "80. Sadu Pande and Manekchand Pande Family Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८०",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮૦",
-          "en": "Disciples of Shri Mahaprabhuji - Account 80"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ८०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૮૦",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 80"
         },
         "audioUrl": {
           "hi": "",
@@ -2096,14 +2096,14 @@
         "order": 81,
         "isVisible": true,
         "title": {
-          "hi": "८१. हरिदास कायस्थ की वार्ता",
-          "gu": "૮૧. હરિદાસ કાયસ્થ ની વાર્તા",
-          "en": "81. Haridas Kayastha Varta"
+          "hi": "८१. श्री नरहरदास संन्यासी की वार्ता",
+          "gu": "૮૧. શ્રી નરહરદાસ સંન્યાસીની વાર્તા",
+          "en": "81. Narhardas Sannyasi Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८१",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮૧",
-          "en": "Disciples of Shri Mahaprabhuji - Account 81"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ८१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૮૧",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 81"
         },
         "audioUrl": {
           "hi": "",
@@ -2117,14 +2117,14 @@
         "order": 82,
         "isVisible": true,
         "title": {
-          "hi": "८२. आनंददास गुजराती की वार्ता",
-          "gu": "૮૨. આનંદદાસ ગુજરાતી ની વાર્તા",
-          "en": "82. Ananddas Gujarati Varta"
+          "hi": "८२. श्रीनाथजी के खवास गोपालदास जटाधारी की वार्ता",
+          "gu": "૮૨. શ્રી નાથજીના ખવાસ ગોપાલદાસ જટાધારીની વાર્તા",
+          "en": "82. Gopaldas Jatadhari (Khavas of Shrinathji) Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८२",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮૨",
-          "en": "Disciples of Shri Mahaprabhuji - Account 82"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ८२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૮૨",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 82"
         },
         "audioUrl": {
           "hi": "",
@@ -2138,14 +2138,14 @@
         "order": 83,
         "isVisible": true,
         "title": {
-          "hi": "८३. त्रिभुवनदास की वार्ता",
-          "gu": "૮૩. ત્રિભુવનદાસ ની વાર્તા",
-          "en": "83. Tribhuvandas Varta"
+          "hi": "८३. श्री कृष्णदास की वार्ता",
+          "gu": "૮૩. શ્રી કૃષ્ણદાસની વાર્તા",
+          "en": "83. Krishnadas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८३",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮૩",
-          "en": "Disciples of Shri Mahaprabhuji - Account 83"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ८३",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૮૩",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 83"
         },
         "audioUrl": {
           "hi": "",
@@ -2159,14 +2159,14 @@
         "order": 84,
         "isVisible": true,
         "title": {
-          "hi": "८४. श्रीनाथदास की वार्ता",
-          "gu": "૮૪. શ્રીનાથદાસ ની વાર્તા",
-          "en": "84. Shrinathdas Varta"
+          "hi": "८४. श्री सन्तदास की वार्ता",
+          "gu": "૮૪. શ્રી સંતદાસની વાર્તા",
+          "en": "84. Santdas Varta"
         },
         "subtitle": {
-          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - प्रसंग ८४",
-          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - પ્રસંગ ૮૪",
-          "en": "Disciples of Shri Mahaprabhuji - Account 84"
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ८४",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૮૪",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 84"
         },
         "audioUrl": {
           "hi": "",
@@ -2174,13 +2174,181 @@
           "en": ""
         },
         "contentUrl": "chapters/book_84_varta/ch_varta84_84.json"
+      },
+      {
+        "id": "ch_varta84_85",
+        "order": 85,
+        "isVisible": true,
+        "title": {
+          "hi": "८५. श्री सुन्दरदास की वार्ता",
+          "gu": "૮૫. શ્રી સુંદરદાસની વાર્તા",
+          "en": "85. Sundardas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ८५",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૮૫",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 85"
+        },
+        "audioUrl": {
+          "hi": "",
+          "gu": "",
+          "en": ""
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_85.json"
+      },
+      {
+        "id": "ch_varta84_86",
+        "order": 86,
+        "isVisible": true,
+        "title": {
+          "hi": "८६. श्री मावजी पटेल तथा उनकी स्त्री विरजा की वार्ता",
+          "gu": "૮૬. શ્રી માવજી પટેલ તથા તેની સ્ત્રી વિરજાની વાર્તા",
+          "en": "86. Mavji Patel and Viraja Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ८६",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૮૬",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 86"
+        },
+        "audioUrl": {
+          "hi": "",
+          "gu": "",
+          "en": ""
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_86.json"
+      },
+      {
+        "id": "ch_varta84_87",
+        "order": 87,
+        "isVisible": true,
+        "title": {
+          "hi": "८७. श्री गोपालदास की वार्ता",
+          "gu": "૮૭. શ્રી ગોપાળદાસની વાર્તા",
+          "en": "87. Gopaldas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ८७",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૮૭",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 87"
+        },
+        "audioUrl": {
+          "hi": "",
+          "gu": "",
+          "en": ""
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_87.json"
+      },
+      {
+        "id": "ch_varta84_88",
+        "order": 88,
+        "isVisible": true,
+        "title": {
+          "hi": "८८. श्री सूरदासजी गऊघाटवाले की वार्ता",
+          "gu": "૮૮. શ્રી સુરદાસજી ગૌઘાટવાળાની વાર્તા",
+          "en": "88. Surdasji of Gaughat Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ८८",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૮૮",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 88"
+        },
+        "audioUrl": {
+          "hi": "",
+          "gu": "",
+          "en": ""
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_88.json"
+      },
+      {
+        "id": "ch_varta84_89",
+        "order": 89,
+        "isVisible": true,
+        "title": {
+          "hi": "८९. श्री परमानन्ददास कनौजिया ब्राह्मण की वार्ता",
+          "gu": "૮૯. શ્રી પરમાનંદદાસ કનોજીઆ બ્રાહ્મણની વાર્તા",
+          "en": "89. Parmananddas Kanojia Brahmin Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ८९",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૮૯",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 89"
+        },
+        "audioUrl": {
+          "hi": "",
+          "gu": "",
+          "en": ""
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_89.json"
+      },
+      {
+        "id": "ch_varta84_90",
+        "order": 90,
+        "isVisible": true,
+        "title": {
+          "hi": "९०. श्री कुम्भनदास की वार्ता",
+          "gu": "૯૦. શ્રી કુંભનદાસની વાર્તા",
+          "en": "90. Kumbhandas Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ९०",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૯૦",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 90"
+        },
+        "audioUrl": {
+          "hi": "",
+          "gu": "",
+          "en": ""
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_90.json"
+      },
+      {
+        "id": "ch_varta84_91",
+        "order": 91,
+        "isVisible": true,
+        "title": {
+          "hi": "९१. श्री कुम्भनदासजी के पुत्र कृष्णदास की वार्ता",
+          "gu": "૯૧. શ્રી કુંભનદાસજીના પુત્ર કૃષ્ણદાસની વાર્તા",
+          "en": "91. Krishnadas (Son of Kumbhandasji) Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ९१",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૯૧",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 91"
+        },
+        "audioUrl": {
+          "hi": "",
+          "gu": "",
+          "en": ""
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_91.json"
+      },
+      {
+        "id": "ch_varta84_92",
+        "order": 92,
+        "isVisible": true,
+        "title": {
+          "hi": "९२. श्री आचार्यजी के सेवक कृष्णदास अधिकारी की वार्ता",
+          "gu": "૯૨. શ્રી આચાર્યજીના સેવક કૃષ્ણદાસ અધિકારીની વાર્તા",
+          "en": "92. Krishnadas Adhikari Varta"
+        },
+        "subtitle": {
+          "hi": "श्री महाप्रभुजी के ८४ वैष्णव - वार्ता ९२",
+          "gu": "શ્રી મહાપ્રભુજીના ૮૪ વૈષ્ણવ - વાર્તા ૯૨",
+          "en": "Disciples of Shri Mahaprabhuji - Varta 92"
+        },
+        "audioUrl": {
+          "hi": "",
+          "gu": "",
+          "en": ""
+        },
+        "contentUrl": "chapters/book_84_varta/ch_varta84_92.json"
       }
     ]
   },
   {
     "id": "book_252_varta",
     "order": 3,
-    "isVisible": true,
+    "isVisible": false,
     "coverImageUrl": "images/252_varta.jpg",
     "title": {
       "hi": "२५२ वैष्णवन की वार्ता",
@@ -7490,7 +7658,7 @@
   {
     "id": "book_shiksha_patra",
     "order": 4,
-    "isVisible": true,
+    "isVisible": false,
     "coverImageUrl": "images/shiksha_patra.jpg",
     "title": {
       "hi": "शिक्षा पत्र (Shiksha Patra)",
