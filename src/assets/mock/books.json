@@ -398,7 +398,7 @@
   {
     "id": "book_84_varta",
     "order": 2,
-    "isVisible": false,
+    "isVisible": true,
     "coverImageUrl": "images/84_varta.jpg",
     "title": {
       "hi": "८४ वैष्णवन की वार्ता",
