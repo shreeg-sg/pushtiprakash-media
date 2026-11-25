@@ -1,22 +1,22 @@
 [
   {
     "id": "ad_1",
-    "uniqueName": "banner_1.png",
+    "uniqueName": "banner_1.jpg",
     "order": 1,
     "isEnabled": true,
     "fromDate": "2026-11-01",
     "toDate": "2027-12-31",
     "url": "https://walink.me/u4pnke",
-    "imagePath": "advertisement/banner_1.png"
+    "imagePath": "images/advertisement/banner_1.jpg"
   },
   {
     "id": "ad_2",
-    "uniqueName": "banner_2.png",
+    "uniqueName": "banner_2.jpg",
     "order": 2,
-    "isEnabled": true,
+    "isEnabled": false,
     "fromDate": "2026-11-01",
     "toDate": "2027-12-31",
     "url": "https://forms.gle/BRtPfNZmnmXBqgUk6",
-    "imagePath": "advertisement/banner_2.png"
+    "imagePath": "images/advertisement/banner_2.jpg"
   }
 ]
