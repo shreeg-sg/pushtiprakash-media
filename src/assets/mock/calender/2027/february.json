@@ -1,0 +1,560 @@
+{
+  "year": 2027,
+  "month": 2,
+  "monthName": "february",
+  "hinduMonth": {
+    "en": "Magh / Phalgun",
+    "hi": "माघ / फाल्गुन",
+    "gu": "મહા / ફાગણ"
+  },
+  "days": [
+    {
+      "id": "2027-02-01",
+      "day": 1,
+      "hinduDay": {
+        "en": "Dashami",
+        "hi": "दशमी",
+        "gu": "દશમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-10",
+        "hi": "कृ. 10",
+        "gu": "વદ 10"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-02",
+      "day": 2,
+      "hinduDay": {
+        "en": "Ekadashi",
+        "hi": "एकादशी",
+        "gu": "અગિયારસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-11",
+        "hi": "कृ. 11",
+        "gu": "વદ 11"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_02_02_1",
+          "title": {
+            "hi": "षट्तिला एकादशी व्रतम्।",
+            "gu": "ષટ્તિલા એકાદશી વ્રતમ્.",
+            "en": "Shattila Ekadashi Vrat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-02-03",
+      "day": 3,
+      "hinduDay": {
+        "en": "Dwadashi",
+        "hi": "द्वादशी",
+        "gu": "બારસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-12",
+        "hi": "कृ. 12",
+        "gu": "વદ 12"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-04",
+      "day": 4,
+      "hinduDay": {
+        "en": "Trayodashi",
+        "hi": "त्रयोदशी",
+        "gu": "તેરસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-13",
+        "hi": "कृ. 13",
+        "gu": "વદ 13"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-05",
+      "day": 5,
+      "hinduDay": {
+        "en": "Chaturdashi",
+        "hi": "चतुर्दशी",
+        "gu": "ચૌદશ"
+      },
+      "hinduTithiShort": {
+        "en": "K-14",
+        "hi": "कृ. 14",
+        "gu": "વદ 14"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-06",
+      "day": 6,
+      "hinduDay": {
+        "en": "Amavasya",
+        "hi": "अमावस्या",
+        "gu": "અમાસ"
+      },
+      "hinduTithiShort": {
+        "en": "Amav.",
+        "hi": "अमा.",
+        "gu": "અમાસ"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": []
+    },
+    {
+      "id": "2027-02-07",
+      "day": 7,
+      "hinduDay": {
+        "en": "Pratipada",
+        "hi": "प्रतिपदा",
+        "gu": "એકમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-1",
+        "hi": "शु. 1",
+        "gu": "સુદ 1"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_02_07_1",
+          "title": {
+            "hi": "इष्टिः।",
+            "gu": "ઇષ્ટિઃ.",
+            "en": "Ishtih."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-02-08",
+      "day": 8,
+      "hinduDay": {
+        "en": "Dwitiya",
+        "hi": "द्वितीया",
+        "gu": "બીજ"
+      },
+      "hinduTithiShort": {
+        "en": "S-2",
+        "hi": "शु. 2",
+        "gu": "સુદ 2"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-09",
+      "day": 9,
+      "hinduDay": {
+        "en": "Tritiya",
+        "hi": "तृतीया",
+        "gu": "ત્રીજ"
+      },
+      "hinduTithiShort": {
+        "en": "S-3",
+        "hi": "शु. 3",
+        "gu": "સુદ 3"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-10",
+      "day": 10,
+      "hinduDay": {
+        "en": "Chaturthi",
+        "hi": "चतुर्थी",
+        "gu": "ચોથ"
+      },
+      "hinduTithiShort": {
+        "en": "S-4",
+        "hi": "शु. 4",
+        "gu": "સુદ 4"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_02_10_1",
+          "title": {
+            "hi": "श्री मुकुन्दरायजी का पाटोत्सवः।",
+            "gu": "શ્રી મુકુન્દરાયજી કા પાટોત્સવઃ.",
+            "en": "Shri mukundarayajee ka patotsavah."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-02-11",
+      "day": 11,
+      "hinduDay": {
+        "en": "Panchami",
+        "hi": "पंचमी",
+        "gu": "પાંચમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-5",
+        "hi": "शु. 5",
+        "gu": "સુદ 5"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_02_11_1",
+          "title": {
+            "hi": "बसन्त पंचमी।",
+            "gu": "બસન્ત પંચમી.",
+            "en": "Basant panchamee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-02-12",
+      "day": 12,
+      "hinduDay": {
+        "en": "Shashthi",
+        "hi": "षष्ठी",
+        "gu": "છઠ"
+      },
+      "hinduTithiShort": {
+        "en": "S-6",
+        "hi": "शु. 6",
+        "gu": "સુદ 6"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-13",
+      "day": 13,
+      "hinduDay": {
+        "en": "Saptami",
+        "hi": "सप्तमी",
+        "gu": "સાતમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-7",
+        "hi": "शु. 7",
+        "gu": "સુદ 7"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-14",
+      "day": 14,
+      "hinduDay": {
+        "en": "Ashtami",
+        "hi": "अष्टमी",
+        "gu": "આઠમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-8",
+        "hi": "शु. 8",
+        "gu": "સુદ 8"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-15",
+      "day": 15,
+      "hinduDay": {
+        "en": "Navami",
+        "hi": "नवमी",
+        "gu": "નોમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-9",
+        "hi": "शु. 9",
+        "gu": "સુદ 9"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-16",
+      "day": 16,
+      "hinduDay": {
+        "en": "Dashami",
+        "hi": "दशमी",
+        "gu": "દશમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-10",
+        "hi": "शु. 10",
+        "gu": "સુદ 10"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-17",
+      "day": 17,
+      "hinduDay": {
+        "en": "Ekadashi",
+        "hi": "एकादशी",
+        "gu": "અગિયારસ"
+      },
+      "hinduTithiShort": {
+        "en": "S-11",
+        "hi": "शु. 11",
+        "gu": "સુદ 11"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_02_17_1",
+          "title": {
+            "hi": "जया एकादशी व्रतम्।",
+            "gu": "જયા એકાદશી વ્રતમ્.",
+            "en": "Jaya Ekadashi Vrat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-02-18",
+      "day": 18,
+      "hinduDay": {
+        "en": "Dwadashi",
+        "hi": "द्वादशी",
+        "gu": "બારસ"
+      },
+      "hinduTithiShort": {
+        "en": "S-12",
+        "hi": "शु. 12",
+        "gu": "સુદ 12"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-19",
+      "day": 19,
+      "hinduDay": {
+        "en": "Trayodashi",
+        "hi": "त्रयोदशी",
+        "gu": "તેરસ"
+      },
+      "hinduTithiShort": {
+        "en": "S-13",
+        "hi": "शु. 13",
+        "gu": "સુદ 13"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-20",
+      "day": 20,
+      "hinduDay": {
+        "en": "Chaturdashi",
+        "hi": "चतुर्दशी",
+        "gu": "ચૌદશ"
+      },
+      "hinduTithiShort": {
+        "en": "S-14",
+        "hi": "शु. 14",
+        "gu": "સુદ 14"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_02_20_1",
+          "title": {
+            "hi": "माघ स्नान की समाप्तिः। होरी डांडो दण्डारोपणं, आज सूर्यास्तान्तरम् सायं 6 बजके 31 मिनिट पश्चात्, याही समय धमार को आरम्भ, रोपणी को उत्सव। चतुर्दशी को क्षय होयवे सूं आज।",
+            "gu": "માઘ સ્નાન કી સમાપ્તિઃ. હોરી ડાંડો દણ્ડારોપણં, આજ સૂર્યાસ્તાન્તરમ્ સાયં 6 બજકે 31 મિનિટ પશ્ચાત્, યાહી સમય ધમાર કો આરમ્ભ, રોપણી કો ઉત્સવ. ચતુર્દશી કો ક્ષય હોયવે સૂં આજ.",
+            "en": "Magh snan kee samaptih. Horee dando dandaropanan, aaj sooryastantaram sayan 6 bajake 31 minit pashchat, yahee samay dhamar ko aarambh, ropanee ko utsava. Chaturdashee ko kshay hoyave soon aaja."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-02-21",
+      "day": 21,
+      "hinduDay": {
+        "en": "Pratipada",
+        "hi": "प्रतिपदा",
+        "gu": "એકમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-1",
+        "hi": "कृ. 1",
+        "gu": "વદ 1"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_02_21_1",
+          "title": {
+            "hi": "इष्टिः।",
+            "gu": "ઇષ્ટિઃ.",
+            "en": "Ishtih."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-02-22",
+      "day": 22,
+      "hinduDay": {
+        "en": "Dwitiya",
+        "hi": "द्वितीया",
+        "gu": "બીજ"
+      },
+      "hinduTithiShort": {
+        "en": "K-2",
+        "hi": "कृ. 2",
+        "gu": "વદ 2"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-23",
+      "day": 23,
+      "hinduDay": {
+        "en": "Tritiya",
+        "hi": "तृतीया",
+        "gu": "ત્રીજ"
+      },
+      "hinduTithiShort": {
+        "en": "K-3",
+        "hi": "कृ. 3",
+        "gu": "વદ 3"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-24",
+      "day": 24,
+      "hinduDay": {
+        "en": "Chaturthi",
+        "hi": "चतुर्थी",
+        "gu": "ચોથ"
+      },
+      "hinduTithiShort": {
+        "en": "K-4",
+        "hi": "कृ. 4",
+        "gu": "વદ 4"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-25",
+      "day": 25,
+      "hinduDay": {
+        "en": "Panchami",
+        "hi": "पंचमी",
+        "gu": "પાંચમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-5",
+        "hi": "कृ. 5",
+        "gu": "વદ 5"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-26",
+      "day": 26,
+      "hinduDay": {
+        "en": "Shashthi",
+        "hi": "षष्ठी",
+        "gu": "છઠ"
+      },
+      "hinduTithiShort": {
+        "en": "K-6",
+        "hi": "कृ. 6",
+        "gu": "વદ 6"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-02-27",
+      "day": 27,
+      "hinduDay": {
+        "en": "Saptami",
+        "hi": "सप्तमी",
+        "gu": "સાતમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-7",
+        "hi": "कृ. 7",
+        "gu": "વદ 7"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_02_27_1",
+          "title": {
+            "hi": "श्रीनाथजी को पाटोत्सवः।",
+            "gu": "શ્રીનાથજી કો પાટોત્સવઃ.",
+            "en": "Shreenathajee ko patotsavah."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-02-28",
+      "day": 28,
+      "hinduDay": {
+        "en": "Ashtami",
+        "hi": "अष्टमी",
+        "gu": "આઠમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-8",
+        "hi": "कृ. 8",
+        "gu": "વદ 8"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    }
+  ]
+}
