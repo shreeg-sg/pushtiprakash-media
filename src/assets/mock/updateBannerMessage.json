@@ -1,6 +1,7 @@
 [
-  {
+    {
     "id": "banner_default",
+    "order": 99,
     "isDefault": true,
     "isEnabled": true,
     "message": {
@@ -11,35 +12,14 @@
     }
   },
   {
-    "id": "banner_reflection_1",
-    "date": "2026-11-19",
-    "isEnabled": true,
-    "message": {
-      "hi": "<b>आज का सुविचार:</b> भक्ति मार्ग में भगवत्कृपा ही सर्वोपरि साधन है।",
-      "gu": "<b>આજનો સુविચાર:</b> ભક્તિ માર્ગમાં ભગવત્કૃપા જ સર્વોપરી સાધન છે.",
-      "mr": "<b>आजचा सुविचार:</b> भक्ती मार्गात भगवंतांची कृपाच सर्वोच्च साधन आहे.",
-      "en": "<b>Today's Reflection:</b> In the path of devotion (Pushtimarg), divine grace is the supreme refuge."
-    }
-  },
-  {
-    "id": "banner_diwali_2026",
-    "startDate": "2026-11-15",
-    "endDate": "2026-11-21",
-    "isEnabled": true,
-    "message": {
-      "hi": "दीपावली एवं अन्नकूट महोत्सव की हार्दिक शुभकामनाएँ! 🪔",
-      "gu": "દિવાળી અને અન્નકૂટ મહોત્સવની હાર્દિક શુભકામનાઓ! 🪔",
-      "mr": "दिवाळी आणि अन्नकूट महोत्सवाच्या हार्दिक शुभेच्छा! 🪔",
-      "en": "Happy Diwali and Annakut Mahotsav to all Vaishnavas! 🪔"
-    }
-  },
-  {
-    "id": "banner_ekadashi_2026",
-    "date": "2026-11-19",
+    "id": "banner_varta84_launch",
+    "order": 1,
+    "startDate": "2026-11-24",
+    "endDate": "2026-12-15",
     "isNew": true,
     "isEnabled": true,
-    "targetBookId": "book_shodash_granth",
-    "targetChapterId": "ch_sg_yamunashtakam",
+    "targetBookId": "book_84_varta",
+    "targetChapterId": "ch_varta84_1",
     "actionLabel": {
       "hi": "अभी पढ़ें",
       "gu": "હવે વાંચો",
@@ -47,10 +27,52 @@
       "en": "Read Now"
     },
     "message": {
-      "hi": "<b>प्रबोधिनी एकादशी:</b> श्री यमुनाष्टकम् का विशेष पाठ करें।",
-      "gu": "<b>પ્રબોધિની એકાદશી:</b> શ્રી યમુનાષ્ટકમ્ નો વિશેષ પાઠ કરો.",
-      "mr": "<b>प्रबोधिनी एकादशी:</b> श्री यमुनाष्टकम् चे विशेष पठण करा.",
-      "en": "<b>Prabodhini Ekadashi:</b> Read Shri Yamunashtakam today."
+      "hi": "<b>नया ग्रंथ जोड़ा गया:</b> श्री ८४ वैष्णव की वार्ता अब हिंदी, गुजराती और अंग्रेजी में उपलब्ध है।",
+      "gu": "<b>નવો ગ્રંથ ઉમેરાયો:</b> શ્રી ૮૪ વૈષ્ણવની વાર્તા હવે ગુજરાતી, હિન્દી અને અંગ્રેજીમાં ઉપલબ્ધ છે.",
+      "mr": "<b>नवीन ग्रंथ जोडला गेला:</b> श्री ८४ वैष्णवांची वार्ता आता उपलब्ध आहे.",
+      "en": "<b>New Scripture Added:</b> Shri 84 Vaishnav ki Varta is now available in Gujarati, Hindi, and English."
+    }
+  },
+  {
+    "id": "banner_tippani_2026_11_25",
+    "order": 2,
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-30",
+    "isNew": false,
+    "isEnabled": true,
+    "url": "/tippani",
+    "actionLabel": {
+      "hi": "टिप्पनी देखें",
+      "gu": "ટિપ્પણી જુઓ",
+      "mr": "टिप्पनी पहा",
+      "en": "Open Tippani"
+    },
+    "message": {
+      "hi": "<b>गोपमास प्रारंभ (२५ नवंबर):</b> नवंबर–दिसंबर २०२६ की तिथियाँ एवं उत्सव कैलेंडर में देखें।",
+      "gu": "<b>ગોપમાસ પ્રારંભ (૨૫ નવેમ્બર):</b> નવેમ્બર–ડિસેમ્બર ૨૦૨૬ ની તિથિઓ અને ઉત્સવો કેલેન્ડરમાં જુઓ.",
+      "mr": "<b>गोपमास प्रारंभ (२५ नोव्हेंबर):</b> नोव्हेंबर–डिसेंबर २०२६ च्या तिथी व उत्सव दिनदर्शिकेत पहा.",
+      "en": "<b>Gopamas Begins (25 Nov):</b> View November–December 2026 Tithis and Utsavs in the Tippani calendar."
+    }
+  },
+  {
+    "id": "banner_feedback_link",
+    "order": 3,
+    "startDate": "2026-11-20",
+    "endDate": "2026-12-31",
+    "isNew": true,
+    "isEnabled": true,
+    "url": "https://forms.gle/BRtPfNZmnmXBqgUk6",
+    "actionLabel": {
+      "hi": "सुझाव दें",
+      "gu": "પ્રતિભાવ આપો",
+      "mr": "अभिप्राय द्या",
+      "en": "Share Feedback"
+    },
+    "message": {
+      "hi": "<b>आपका सुझाव महत्वपूर्ण है:</b> पुष्टिप्रकाश ऐप को और बेहतर बनाने के लिए अपना अनुभव साझा करें।",
+      "gu": "<b>તમારો પ્રતિભાવ મહત્વપૂર્ણ છે:</b> પુષ્ટિપ્રકાશ એપને વધુ ઉત્તમ બનાવવા તમારો અનુભવ જણાવો.",
+      "mr": "<b>तुमचा अभिप्राय महत्त्वाचा आहे:</b> पुष्टीप्रकाश ॲप अधिक चांगले करण्यासाठी तुमचे मत कळवा.",
+      "en": "<b>We value your feedback:</b> Help us improve PushtiPrakash by sharing your suggestions."
     }
   }
 ]
