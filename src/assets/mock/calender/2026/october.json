@@ -1,0 +1,674 @@
+{
+  "year": 2026,
+  "month": 10,
+  "monthName": "october",
+  "hinduMonth": {
+    "en": "Ashwin / Kartik",
+    "hi": "आश्विन / कार्तिक",
+    "gu": "આસો / કારતક"
+  },
+  "days": [
+    {
+      "id": "2026-10-01",
+      "day": 1,
+      "hinduDay": {
+        "en": "Panchami",
+        "hi": "पंचमी",
+        "gu": "પાંચમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-5",
+        "hi": "कृ. 5",
+        "gu": "વદ 5"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_01_1",
+          "title": {
+            "hi": "श्री हरिरायजी को उत्सव (1647)",
+            "gu": "શ્રી હરિરાયજી કો ઉત્સવ (1647)",
+            "en": "Shri harirayajee ko utsav (1647)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02",
+      "day": 2,
+      "hinduDay": {
+        "en": "Shashthi",
+        "hi": "षष्ठी",
+        "gu": "છઠ"
+      },
+      "hinduTithiShort": {
+        "en": "K-6",
+        "hi": "कृ. 6",
+        "gu": "વદ 6"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-03",
+      "day": 3,
+      "hinduDay": {
+        "en": "Saptami",
+        "hi": "सप्तमी",
+        "gu": "સાતમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-7",
+        "hi": "कृ. 7",
+        "gu": "વદ 7"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_03_1",
+          "title": {
+            "hi": "श्री महाप्रभुजी के ज्येष्ठ पुत्र श्री गोपीनाथजी के पुत्र श्री पुरुषोत्तमजी को उत्सव (1587)। अष्टमी का क्षय होयवे सूं आज।",
+            "gu": "શ્રી મહાપ્રભુજી કે જ્યેષ્ઠ પુત્ર શ્રી ગોપીનાથજી કે પુત્ર શ્રી પુરુષોત્તમજી કો ઉત્સવ (1587). અષ્ટમી કા ક્ષય હોયવે સૂં આજ.",
+            "en": "Shri mahaprabhujee ke jyeshth putr Shri gopeenathajee ke putr Shri purushottamajee ko utsav (1587). Ashtamee ka kshay hoyave soon aaja."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-04",
+      "day": 4,
+      "hinduDay": {
+        "en": "Navami",
+        "hi": "नवमी",
+        "gu": "નોમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-9",
+        "hi": "कृ. 9",
+        "gu": "વદ 9"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-05",
+      "day": 5,
+      "hinduDay": {
+        "en": "Dashami",
+        "hi": "दशमी",
+        "gu": "દશમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-10",
+        "hi": "कृ. 10",
+        "gu": "વદ 10"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-06",
+      "day": 6,
+      "hinduDay": {
+        "en": "Ekadashi",
+        "hi": "एकादशी",
+        "gu": "અગિયારસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-11",
+        "hi": "कृ. 11",
+        "gu": "વદ 11"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_06_1",
+          "title": {
+            "hi": "इन्दिरा एकादशी व्रतम् (महादान)।",
+            "gu": "ઇન્દિરા એકાદશી વ્રતમ્ (મહાદાન).",
+            "en": "Indira Ekadashi Vrat (mahadan)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07",
+      "day": 7,
+      "hinduDay": {
+        "en": "Dwadashi",
+        "hi": "द्वादशी",
+        "gu": "બારસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-12",
+        "hi": "कृ. 12",
+        "gu": "વદ 12"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_07_1",
+          "title": {
+            "hi": "श्री महाप्रभुजी के ज्येष्ठ पुत्र श्री गोपीनाथजी को उत्सव (1567)।",
+            "gu": "શ્રી મહાપ્રભુજી કે જ્યેષ્ઠ પુત્ર શ્રી ગોપીનાથજી કો ઉત્સવ (1567).",
+            "en": "Shri mahaprabhujee ke jyeshth putr Shri gopeenathajee ko utsav (1567)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-08",
+      "day": 8,
+      "hinduDay": {
+        "en": "Trayodashi",
+        "hi": "त्रयोदशी",
+        "gu": "તેરસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-13",
+        "hi": "कृ. 13",
+        "gu": "વદ 13"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_08_1",
+          "title": {
+            "hi": "श्री गुसांईजी के तीसरे लाल जी श्री बालकृष्णजी को उत्सव (1606)।",
+            "gu": "શ્રી ગુસાંઈજી કે તીસરે લાલ જી શ્રી બાલકૃષ્ણજી કો ઉત્સવ (1606).",
+            "en": "Shri gusaneejee ke teesare lal jee Shri balakrishnajee ko utsav (1606)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-09",
+      "day": 9,
+      "hinduDay": {
+        "en": "Chaturdashi",
+        "hi": "चतुर्दशी",
+        "gu": "ચૌદશ"
+      },
+      "hinduTithiShort": {
+        "en": "K-14",
+        "hi": "कृ. 14",
+        "gu": "વદ 14"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-10",
+      "day": 10,
+      "hinduDay": {
+        "en": "Amavasya",
+        "hi": "अमावस्या",
+        "gu": "અમાસ"
+      },
+      "hinduTithiShort": {
+        "en": "Amav.",
+        "hi": "अमा.",
+        "gu": "અમાસ"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_10_1",
+          "title": {
+            "hi": "सर्वपितृ अमावस, कोट की आरती और सांझी की समाप्ति।",
+            "gu": "સર્વપિતૃ અમાવસ, કોટ કી આરતી ઔર સાંઝી કી સમાપ્તિ.",
+            "en": "Sarvapitri amavas, kot kee aaratee aur sanjhee kee samapti."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11",
+      "day": 11,
+      "hinduDay": {
+        "en": "Pratipada",
+        "hi": "प्रतिपदा",
+        "gu": "એકમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-1",
+        "hi": "शु. 1",
+        "gu": "સુદ 1"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_11_1",
+          "title": {
+            "hi": "इष्टिः। मातामह श्राद्ध, नवरात्रारम्भः।",
+            "gu": "ઇષ્ટિઃ. માતામહ શ્રાદ્ધ, નવરાત્રારમ્ભઃ.",
+            "en": "Ishtih. Matamah shraddh, navaratrarambhah."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12",
+      "day": 12,
+      "hinduDay": {
+        "en": "Dwitiya",
+        "hi": "द्वितीया",
+        "gu": "બીજ"
+      },
+      "hinduTithiShort": {
+        "en": "S-2",
+        "hi": "शु. 2",
+        "gu": "સુદ 2"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-13",
+      "day": 13,
+      "hinduDay": {
+        "en": "Tritiya",
+        "hi": "तृतीया",
+        "gu": "ત્રીજ"
+      },
+      "hinduTithiShort": {
+        "en": "S-3",
+        "hi": "शु. 3",
+        "gu": "સુદ 3"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-14",
+      "day": 14,
+      "hinduDay": {
+        "en": "Chaturthi",
+        "hi": "चतुर्थी",
+        "gu": "ચોથ"
+      },
+      "hinduTithiShort": {
+        "en": "S-4",
+        "hi": "शु. 4",
+        "gu": "સુદ 4"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_14_1",
+          "title": {
+            "hi": "श्री दामोदरजी (श्री दाऊजी) महाराज को उत्सव (दुहेरा मनोरथ) (1854)।",
+            "gu": "શ્રી દામોદરજી (શ્રી દાઊજી) મહારાજ કો ઉત્સવ (દુહેરા મનોરથ) (1854).",
+            "en": "Shri damodarajee (Shri daoojee) maharaj ko utsav (duhera manorath) (1854)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15",
+      "day": 15,
+      "hinduDay": {
+        "en": "Panchami",
+        "hi": "पंचमी",
+        "gu": "પાંચમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-5",
+        "hi": "शु. 5",
+        "gu": "સુદ 5"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-16",
+      "day": 16,
+      "hinduDay": {
+        "en": "Shashthi",
+        "hi": "षष्ठी",
+        "gu": "છઠ"
+      },
+      "hinduTithiShort": {
+        "en": "S-6",
+        "hi": "शु. 6",
+        "gu": "સુદ 6"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-17",
+      "day": 17,
+      "hinduDay": {
+        "en": "Saptami",
+        "hi": "सप्तमी",
+        "gu": "સાતમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-7",
+        "hi": "शु. 7",
+        "gu": "સુદ 7"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_17_1",
+          "title": {
+            "hi": "सरस्वती पूजनारम्भः।",
+            "gu": "સરસ્વતી પૂજનારમ્ભઃ.",
+            "en": "Sarasvatee poojanarambhah."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18",
+      "day": 18,
+      "hinduDay": {
+        "en": "Saptami",
+        "hi": "सप्तमी",
+        "gu": "સાતમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-7",
+        "hi": "शु. 7",
+        "gu": "સુદ 7"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-19",
+      "day": 19,
+      "hinduDay": {
+        "en": "Ashtami",
+        "hi": "अष्टमी",
+        "gu": "આઠમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-8",
+        "hi": "शु. 8",
+        "gu": "સુદ 8"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-20",
+      "day": 20,
+      "hinduDay": {
+        "en": "Navami",
+        "hi": "नवमी",
+        "gu": "નોમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-9",
+        "hi": "शु. 9",
+        "gu": "સુદ 9"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_20_1",
+          "title": {
+            "hi": "दशहरा (विजयदशमी), सरस्वती विसर्जनम।्",
+            "gu": "દશહરા (વિજયદશમી), સરસ્વતી વિસર્જનમ.્",
+            "en": "Dashahara (vijayadashamee), sarasvatee visarjanama.्"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21",
+      "day": 21,
+      "hinduDay": {
+        "en": "Dashami",
+        "hi": "दशमी",
+        "gu": "દશમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-10",
+        "hi": "शु. 10",
+        "gu": "સુદ 10"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_21_1",
+          "title": {
+            "hi": "श्री गिरधरजी के प्रथम लालजी श्री मुरलीधरजी को उत्सव।",
+            "gu": "શ્રી ગિરધરજી કે પ્રથમ લાલજી શ્રી મુરલીધરજી કો ઉત્સવ.",
+            "en": "Shri giradharajee ke pratham lalajee Shri muraleedharajee ko utsava."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22",
+      "day": 22,
+      "hinduDay": {
+        "en": "Ekadashi",
+        "hi": "एकादशी",
+        "gu": "અગિયારસ"
+      },
+      "hinduTithiShort": {
+        "en": "S-11",
+        "hi": "शु. 11",
+        "gu": "સુદ 11"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_22_1",
+          "title": {
+            "hi": "पाशांकुशा एकादशी व्रतम्।",
+            "gu": "પાશાંકુશા એકાદશી વ્રતમ્.",
+            "en": "Pashankusha Ekadashi Vrat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-23",
+      "day": 23,
+      "hinduDay": {
+        "en": "Dwadashi",
+        "hi": "द्वादशी",
+        "gu": "બારસ"
+      },
+      "hinduTithiShort": {
+        "en": "S-12",
+        "hi": "शु. 12",
+        "gu": "સુદ 12"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-24",
+      "day": 24,
+      "hinduDay": {
+        "en": "Trayodashi",
+        "hi": "त्रयोदशी",
+        "gu": "તેરસ"
+      },
+      "hinduTithiShort": {
+        "en": "S-13",
+        "hi": "शु. 13",
+        "gu": "સુદ 13"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_24_1",
+          "title": {
+            "hi": "श्री बालकृष्णजी को पाटोत्सवः।",
+            "gu": "શ્રી બાલકૃષ્ણજી કો પાટોત્સવઃ.",
+            "en": "Shri balakrishnajee ko patotsavah."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25",
+      "day": 25,
+      "hinduDay": {
+        "en": "Chaturdashi",
+        "hi": "चतुर्दशी",
+        "gu": "ચૌદશ"
+      },
+      "hinduTithiShort": {
+        "en": "S-14",
+        "hi": "शु. 14",
+        "gu": "સુદ 14"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_25_1",
+          "title": {
+            "hi": "शरद पूर्णिमा (रासोत्सवः)।",
+            "gu": "શરદ પૂર્ણિમા (રાસોત્સવઃ).",
+            "en": "Sharad Purnima (rasotsavah)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26",
+      "day": 26,
+      "hinduDay": {
+        "en": "Purnima",
+        "hi": "पूर्णिमा",
+        "gu": "પૂનમ"
+      },
+      "hinduTithiShort": {
+        "en": "Purn.",
+        "hi": "पूर्णि.",
+        "gu": "પૂનમ"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_10_26_1",
+          "title": {
+            "hi": "इष्टिः। कार्तिक स्नानारम्भः।",
+            "gu": "ઇષ્ટિઃ. કાર્તિક સ્નાનારમ્ભઃ.",
+            "en": "Ishtih. Kartik snanarambhah."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27",
+      "day": 27,
+      "hinduDay": {
+        "en": "Pratipada",
+        "hi": "प्रतिपदा",
+        "gu": "એકમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-1",
+        "hi": "कृ. 1",
+        "gu": "વદ 1"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-28",
+      "day": 28,
+      "hinduDay": {
+        "en": "Tritiya",
+        "hi": "तृतीया",
+        "gu": "ત્રીજ"
+      },
+      "hinduTithiShort": {
+        "en": "K-3",
+        "hi": "कृ. 3",
+        "gu": "વદ 3"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-29",
+      "day": 29,
+      "hinduDay": {
+        "en": "Chaturthi",
+        "hi": "चतुर्थी",
+        "gu": "ચોથ"
+      },
+      "hinduTithiShort": {
+        "en": "K-4",
+        "hi": "कृ. 4",
+        "gu": "વદ 4"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-30",
+      "day": 30,
+      "hinduDay": {
+        "en": "Panchami",
+        "hi": "पंचमी",
+        "gu": "પાંચમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-5",
+        "hi": "कृ. 5",
+        "gu": "વદ 5"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-10-31",
+      "day": 31,
+      "hinduDay": {
+        "en": "Shashthi",
+        "hi": "षष्ठी",
+        "gu": "છઠ"
+      },
+      "hinduTithiShort": {
+        "en": "K-6",
+        "hi": "कृ. 6",
+        "gu": "વદ 6"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    }
+  ]
+}

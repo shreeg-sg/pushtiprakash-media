@@ -1,0 +1,279 @@
+{
+  "year": 2026,
+  "month": 3,
+  "monthName": "march",
+  "hinduMonth": {
+    "en": "Chaitra",
+    "hi": "चैत्र",
+    "gu": "ચૈત્ર"
+  },
+  "days": [
+    {
+      "id": "2026-03-20",
+      "day": 20,
+      "hinduDay": {
+        "en": "Dwitiya",
+        "hi": "द्वितीया",
+        "gu": "બીજ"
+      },
+      "hinduTithiShort": {
+        "en": "S-2",
+        "hi": "शु. 2",
+        "gu": "સુદ 2"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-03-21",
+      "day": 21,
+      "hinduDay": {
+        "en": "Tritiya",
+        "hi": "तृतीया",
+        "gu": "ત્રીજ"
+      },
+      "hinduTithiShort": {
+        "en": "S-3",
+        "hi": "शु. 3",
+        "gu": "સુદ 3"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_03_21_1",
+          "title": {
+            "hi": "गणगौरी। (चूंदड़ी गणगौर)",
+            "gu": "ગણગૌરી. (ચૂંદડ઼ી ગણગૌર)",
+            "en": "Ganagauree. (choondadee ganagaur)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-03-22",
+      "day": 22,
+      "hinduDay": {
+        "en": "Chaturthi",
+        "hi": "चतुर्थी",
+        "gu": "ચોથ"
+      },
+      "hinduTithiShort": {
+        "en": "S-4",
+        "hi": "शु. 4",
+        "gu": "સુદ 4"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_03_22_1",
+          "title": {
+            "hi": "पंचरंगी लहरियाँ (हरि गणगौर)",
+            "gu": "પંચરંગી લહરિયાઁ (હરિ ગણગૌર)",
+            "en": "Pancharangee lahariyan (hari ganagaur)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-03-23",
+      "day": 23,
+      "hinduDay": {
+        "en": "Panchami",
+        "hi": "पंचमी",
+        "gu": "પાંચમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-5",
+        "hi": "शु. 5",
+        "gu": "સુદ 5"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_03_23_1",
+          "title": {
+            "hi": "गुलाबी गणगौर",
+            "gu": "ગુલાબી ગણગૌર",
+            "en": "Gulabee ganagaur"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-03-24",
+      "day": 24,
+      "hinduDay": {
+        "en": "Shashthi",
+        "hi": "षष्ठी",
+        "gu": "છઠ"
+      },
+      "hinduTithiShort": {
+        "en": "S-6",
+        "hi": "शु. 6",
+        "gu": "સુદ 6"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_03_24_1",
+          "title": {
+            "hi": "श्री गुसांईजी के छट्ठेलालजी श्री यदुनाथजी को उत्सव। (1615) केसरी गणगौर एवं यमुना छट्ठ।",
+            "gu": "શ્રી ગુસાંઈજી કે છટ્ઠેલાલજી શ્રી યદુનાથજી કો ઉત્સવ. (1615) કેસરી ગણગૌર એવં યમુના છટ્ઠ.",
+            "en": "Shri gusaneejee ke chhatthelalajee Shri yadunathajee ko utsava. (1615) kesaree ganagaur evan yamuna chhattha."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-03-25",
+      "day": 25,
+      "hinduDay": {
+        "en": "Saptami",
+        "hi": "सप्तमी",
+        "gu": "સાતમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-7",
+        "hi": "शु. 7",
+        "gu": "સુદ 7"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-03-26",
+      "day": 26,
+      "hinduDay": {
+        "en": "Ashtami",
+        "hi": "अष्टमी",
+        "gu": "આઠમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-8",
+        "hi": "शु. 8",
+        "gu": "સુદ 8"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-03-27",
+      "day": 27,
+      "hinduDay": {
+        "en": "Navami",
+        "hi": "नवमी",
+        "gu": "નોમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-9",
+        "hi": "शु. 9",
+        "gu": "સુદ 9"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_03_27_1",
+          "title": {
+            "hi": "रामनवमी व्रतम्।",
+            "gu": "રામનવમી વ્રતમ્.",
+            "en": "Ramanavamee Vrat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-03-28",
+      "day": 28,
+      "hinduDay": {
+        "en": "Dashami",
+        "hi": "दशमी",
+        "gu": "દશમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-10",
+        "hi": "शु. 10",
+        "gu": "સુદ 10"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_03_28_1",
+          "title": {
+            "hi": "रामनवमी व्रत की पारणा प्रातः 8 बजके 47 मिनिट पूर्व",
+            "gu": "રામનવમી વ્રત કી પારણા પ્રાતઃ 8 બજકે 47 મિનિટ પૂર્વ",
+            "en": "Ramanavamee vrat kee parana pratah 8 bajake 47 minit poorv"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-03-29",
+      "day": 29,
+      "hinduDay": {
+        "en": "Ekadashi",
+        "hi": "एकादशी",
+        "gu": "અગિયારસ"
+      },
+      "hinduTithiShort": {
+        "en": "S-11",
+        "hi": "शु. 11",
+        "gu": "સુદ 11"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2026_03_29_1",
+          "title": {
+            "hi": "कामदा एकादशी व्रतम्। श्रीवल्लभाचार्य चरण के उत्सव की बधाई।",
+            "gu": "કામદા એકાદશી વ્રતમ્. શ્રીવલ્લભાચાર્ય ચરણ કે ઉત્સવ કી બધાઈ.",
+            "en": "Kamada Ekadashi Vrat. Shreevallabhachary charan ke utsav kee badhaee."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2026-03-30",
+      "day": 30,
+      "hinduDay": {
+        "en": "Dwadashi",
+        "hi": "द्वादशी",
+        "gu": "બારસ"
+      },
+      "hinduTithiShort": {
+        "en": "S-12",
+        "hi": "शु. 12",
+        "gu": "સુદ 12"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2026-03-31",
+      "day": 31,
+      "hinduDay": {
+        "en": "Trayodashi",
+        "hi": "त्रयोदशी",
+        "gu": "તેરસ"
+      },
+      "hinduTithiShort": {
+        "en": "S-13",
+        "hi": "शु. 13",
+        "gu": "સુદ 13"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    }
+  ]
+}
