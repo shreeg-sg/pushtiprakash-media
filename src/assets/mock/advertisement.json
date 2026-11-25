@@ -7,7 +7,7 @@
     "fromDate": "2026-11-01",
     "toDate": "2027-12-31",
     "url": "https://walink.me/u4pnke",
-    "imagePath": "src/assets/image/advertisement/banner_1.png"
+    "imagePath": "advertisement/banner_1.png"
   },
   {
     "id": "ad_2",
@@ -17,6 +17,6 @@
     "fromDate": "2026-11-01",
     "toDate": "2027-12-31",
     "url": "https://forms.gle/BRtPfNZmnmXBqgUk6",
-    "imagePath": "src/assets/image/advertisement/banner_2.png"
+    "imagePath": "advertisement/banner_2.png"
   }
 ]
