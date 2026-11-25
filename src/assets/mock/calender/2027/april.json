@@ -1,0 +1,132 @@
+{
+  "year": 2027,
+  "month": 4,
+  "monthName": "april",
+  "hinduMonth": {
+    "en": "Chaitra",
+    "hi": "चैत्र",
+    "gu": "ચૈત્ર"
+  },
+  "days": [
+    {
+      "id": "2027-04-01",
+      "day": 1,
+      "hinduDay": {
+        "en": "Dashami",
+        "hi": "दशमी",
+        "gu": "દશમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-10",
+        "hi": "कृ. 10",
+        "gu": "વદ 10"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-04-02",
+      "day": 2,
+      "hinduDay": {
+        "en": "Ekadashi",
+        "hi": "एकादशी",
+        "gu": "અગિયારસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-11",
+        "hi": "कृ. 11",
+        "gu": "વદ 11"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_04_02_1",
+          "title": {
+            "hi": "पापमोचिनी एकादशी व्रतम्।",
+            "gu": "પાપમોચિની એકાદશી વ્રતમ્.",
+            "en": "Papamochinee Ekadashi Vrat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-04-03",
+      "day": 3,
+      "hinduDay": {
+        "en": "Dwadashi",
+        "hi": "द्वादशी",
+        "gu": "બારસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-12",
+        "hi": "कृ. 12",
+        "gu": "વદ 12"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-04-04",
+      "day": 4,
+      "hinduDay": {
+        "en": "Trayodashi",
+        "hi": "त्रयोदशी",
+        "gu": "તેરસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-13",
+        "hi": "कृ. 13",
+        "gu": "વદ 13"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-04-05",
+      "day": 5,
+      "hinduDay": {
+        "en": "Chaturdashi",
+        "hi": "चतुर्दशी",
+        "gu": "ચૌદશ"
+      },
+      "hinduTithiShort": {
+        "en": "K-14",
+        "hi": "कृ. 14",
+        "gu": "વદ 14"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-04-06",
+      "day": 6,
+      "hinduDay": {
+        "en": "Amavasya",
+        "hi": "अमावस्या",
+        "gu": "અમાસ"
+      },
+      "hinduTithiShort": {
+        "en": "Amav.",
+        "hi": "अमा.",
+        "gu": "અમાસ"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_04_06_1",
+          "title": {
+            "hi": "वर्षे हर्षः प्रकर्षः स्यात्।",
+            "gu": "વર્ષે હર્ષઃ પ્રકર્ષઃ સ્યાત્.",
+            "en": "Varshe harshah prakarshah syat."
+          }
+        }
+      ]
+    }
+  ]
+}

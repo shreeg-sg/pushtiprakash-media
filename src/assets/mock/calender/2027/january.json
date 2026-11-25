@@ -1,0 +1,638 @@
+{
+  "year": 2027,
+  "month": 1,
+  "monthName": "january",
+  "hinduMonth": {
+    "en": "Paush / Magh",
+    "hi": "पौष / माघ",
+    "gu": "પોષ / મહા"
+  },
+  "days": [
+    {
+      "id": "2027-01-01",
+      "day": 1,
+      "hinduDay": {
+        "en": "Navami",
+        "hi": "नवमी",
+        "gu": "નોમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-9",
+        "hi": "कृ. 9",
+        "gu": "વદ 9"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_01_01_1",
+          "title": {
+            "hi": "श्री मत्प्रभुचरण श्री विट्ठलनाथजी को उत्सव (1572)। जनवरी सन् 2027 को प्रारम्भ।",
+            "gu": "શ્રી મત્પ્રભુચરણ શ્રી વિટ્ઠલનાથજી કો ઉત્સવ (1572). જનવરી સન્ 2027 કો પ્રારમ્ભ.",
+            "en": "Shri matprabhucharan Shri vitthalanathajee ko utsav (1572). Janavaree san 2027 ko prarambha."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-01-02",
+      "day": 2,
+      "hinduDay": {
+        "en": "Dashami",
+        "hi": "दशमी",
+        "gu": "દશમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-10",
+        "hi": "कृ. 10",
+        "gu": "વદ 10"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-03",
+      "day": 3,
+      "hinduDay": {
+        "en": "Ekadashi",
+        "hi": "एकादशी",
+        "gu": "અગિયારસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-11",
+        "hi": "कृ. 11",
+        "gu": "વદ 11"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_01_03_1",
+          "title": {
+            "hi": "सफला एकादशी व्रतम्। फल अवश्य भोग धरनो, फलन के दान अवश्य करनो। तिलकायित श्री गोविन्दजी महाराज को उत्सव (1769)।",
+            "gu": "સફલા એકાદશી વ્રતમ્. ફલ અવશ્ય ભોગ ધરનો, ફલન કે દાન અવશ્ય કરનો. તિલકાયિત શ્રી ગોવિન્દજી મહારાજ કો ઉત્સવ (1769).",
+            "en": "Saphala Ekadashi Vrat. Phal avashy bhog dharano, phalan ke dan avashy karano. Tilakayit Shri govindajee maharaj ko utsav (1769)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-01-04",
+      "day": 4,
+      "hinduDay": {
+        "en": "Dwadashi",
+        "hi": "द्वादशी",
+        "gu": "બારસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-12",
+        "hi": "कृ. 12",
+        "gu": "વદ 12"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-05",
+      "day": 5,
+      "hinduDay": {
+        "en": "Trayodashi",
+        "hi": "त्रयोदशी",
+        "gu": "તેરસ"
+      },
+      "hinduTithiShort": {
+        "en": "K-13",
+        "hi": "कृ. 13",
+        "gu": "વદ 13"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-06",
+      "day": 6,
+      "hinduDay": {
+        "en": "Chaturdashi",
+        "hi": "चतुर्दशी",
+        "gu": "ચૌદશ"
+      },
+      "hinduTithiShort": {
+        "en": "K-14",
+        "hi": "कृ. 14",
+        "gu": "વદ 14"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-07",
+      "day": 7,
+      "hinduDay": {
+        "en": "Amavasya",
+        "hi": "अमावस्या",
+        "gu": "અમાસ"
+      },
+      "hinduTithiShort": {
+        "en": "Amav.",
+        "hi": "अमा.",
+        "gu": "અમાસ"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_01_07_1",
+          "title": {
+            "hi": "गोस्वामी तिलक श्री 108 श्री इन्द्रदमनजी (श्री राकेशजी) महाराज के पुत्र चि.गो.105 श्री भूपेशकुमारजी (श्री विशाल बावा) को जन्मदिन (2037)।",
+            "gu": "ગોસ્વામી તિલક શ્રી 108 શ્રી ઇન્દ્રદમનજી (શ્રી રાકેશજી) મહારાજ કે પુત્ર ચિ.ગો.105 શ્રી ભૂપેશકુમારજી (શ્રી વિશાલ બાવા) કો જન્મદિન (2037).",
+            "en": "Gosvamee tilak Shri 108 Shri indradamanajee (Shri rakeshajee) maharaj ke putr chi.go.105 Shri bhoopeshakumarajee (Shri vishal bava) ko janmadin (2037)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-01-08",
+      "day": 8,
+      "hinduDay": {
+        "en": "Pratipada",
+        "hi": "प्रतिपदा",
+        "gu": "એકમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-1",
+        "hi": "शु. 1",
+        "gu": "સુદ 1"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_01_08_1",
+          "title": {
+            "hi": "इष्टिः।",
+            "gu": "ઇષ્ટિઃ.",
+            "en": "Ishtih."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-01-09",
+      "day": 9,
+      "hinduDay": {
+        "en": "Dwitiya",
+        "hi": "द्वितीया",
+        "gu": "બીજ"
+      },
+      "hinduTithiShort": {
+        "en": "S-2",
+        "hi": "शु. 2",
+        "gu": "સુદ 2"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-10",
+      "day": 10,
+      "hinduDay": {
+        "en": "Tritiya",
+        "hi": "तृतीया",
+        "gu": "ત્રીજ"
+      },
+      "hinduTithiShort": {
+        "en": "S-3",
+        "hi": "शु. 3",
+        "gu": "સુદ 3"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-11",
+      "day": 11,
+      "hinduDay": {
+        "en": "Tritiya",
+        "hi": "तृतीया",
+        "gu": "ત્રીજ"
+      },
+      "hinduTithiShort": {
+        "en": "S-3",
+        "hi": "शु. 3",
+        "gu": "સુદ 3"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-12",
+      "day": 12,
+      "hinduDay": {
+        "en": "Chaturthi",
+        "hi": "चतुर्थी",
+        "gu": "ચોથ"
+      },
+      "hinduTithiShort": {
+        "en": "S-4",
+        "hi": "शु. 4",
+        "gu": "સુદ 4"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-13",
+      "day": 13,
+      "hinduDay": {
+        "en": "Panchami",
+        "hi": "पंचमी",
+        "gu": "પાંચમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-5",
+        "hi": "शु. 5",
+        "gu": "સુદ 5"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-14",
+      "day": 14,
+      "hinduDay": {
+        "en": "Shashthi",
+        "hi": "षष्ठी",
+        "gu": "છઠ"
+      },
+      "hinduTithiShort": {
+        "en": "S-6",
+        "hi": "शु. 6",
+        "gu": "સુદ 6"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_01_14_1",
+          "title": {
+            "hi": "नित्य लीलास्थ गो. श्री 108 श्री दामोदरलाल जी महाराज को उत्सव (1953)। भोगी, धनुर्मास की समाप्ति।",
+            "gu": "નિત્ય લીલાસ્થ ગો. શ્રી 108 શ્રી દામોદરલાલ જી મહારાજ કો ઉત્સવ (1953). ભોગી, ધનુર્માસ કી સમાપ્તિ.",
+            "en": "Nity leelasth go. Shri 108 Shri damodaralal jee maharaj ko utsav (1953). Bhogee, dhanurmas kee samapti."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-01-15",
+      "day": 15,
+      "hinduDay": {
+        "en": "Saptami",
+        "hi": "सप्तमी",
+        "gu": "સાતમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-7",
+        "hi": "शु. 7",
+        "gu": "સુદ 7"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_01_15_1",
+          "title": {
+            "hi": "मकर संक्रान्तिः। तिलवा गोपीवल्लभ में अथवा राजभोग में ता पीछे दान श्राद्धादि करने। अबके यह संक्रान्ति 6 गुरु कूं रात्रि के 9 बजके 11 मिनिट पर बैठे है। तासूं पुण्यकाल आज सूर्योदय से लेके दिनके 3 बजके 23 मिनिट पर्यन्त है। तामे भी सूर्योदय के पास के 2 घंटा अति मुख्य पुण्यकाल है। उत्तरायण।",
+            "gu": "મકર સંક્રાન્તિઃ. તિલવા ગોપીવલ્લભ મેં અથવા રાજભોગ મેં તા પીછે દાન શ્રાદ્ધાદિ કરને. અબકે યહ સંક્રાન્તિ 6 ગુરુ કૂં રાત્રિ કે 9 બજકે 11 મિનિટ પર બૈઠે હૈ. તાસૂં પુણ્યકાલ આજ સૂર્યોદય સે લેકે દિનકે 3 બજકે 23 મિનિટ પર્યન્ત હૈ. તામે ભી સૂર્યોદય કે પાસ કે 2 ઘંટા અતિ મુખ્ય પુણ્યકાલ હૈ. ઉત્તરાયણ.",
+            "en": "Makar sankrantih. Tilava gopeevallabh men athava rajabhog men ta peechhe dan shraddhadi karane. Abake yah sankranti 6 guru koon ratri ke 9 bajake 11 minit par baithe hai. Tasoon punyakal aaj sooryoday se leke dinake 3 bajake 23 minit paryant hai. Tame bhee sooryoday ke pas ke 2 ghanta ati mukhy punyakal hai. Uttarayana."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-01-16",
+      "day": 16,
+      "hinduDay": {
+        "en": "Ashtami",
+        "hi": "अष्टमी",
+        "gu": "આઠમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-8",
+        "hi": "शु. 8",
+        "gu": "સુદ 8"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-17",
+      "day": 17,
+      "hinduDay": {
+        "en": "Navami",
+        "hi": "नवमी",
+        "gu": "નોમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-9",
+        "hi": "शु. 9",
+        "gu": "સુદ 9"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-18",
+      "day": 18,
+      "hinduDay": {
+        "en": "Dashami",
+        "hi": "दशमी",
+        "gu": "દશમ"
+      },
+      "hinduTithiShort": {
+        "en": "S-10",
+        "hi": "शु. 10",
+        "gu": "સુદ 10"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-19",
+      "day": 19,
+      "hinduDay": {
+        "en": "Ekadashi",
+        "hi": "एकादशी",
+        "gu": "અગિયારસ"
+      },
+      "hinduTithiShort": {
+        "en": "S-11",
+        "hi": "शु. 11",
+        "gu": "સુદ 11"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_01_19_1",
+          "title": {
+            "hi": "पुत्रदा एकादशी व्रतम्।",
+            "gu": "પુત્રદા એકાદશી વ્રતમ્.",
+            "en": "Putrada Ekadashi Vrat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-01-20",
+      "day": 20,
+      "hinduDay": {
+        "en": "Trayodashi",
+        "hi": "त्रयोदशी",
+        "gu": "તેરસ"
+      },
+      "hinduTithiShort": {
+        "en": "S-13",
+        "hi": "शु. 13",
+        "gu": "સુદ 13"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-21",
+      "day": 21,
+      "hinduDay": {
+        "en": "Chaturdashi",
+        "hi": "चतुर्दशी",
+        "gu": "ચૌદશ"
+      },
+      "hinduTithiShort": {
+        "en": "S-14",
+        "hi": "शु. 14",
+        "gu": "સુદ 14"
+      },
+      "paksha": "shukla",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-22",
+      "day": 22,
+      "hinduDay": {
+        "en": "Purnima",
+        "hi": "पूर्णिमा",
+        "gu": "પૂનમ"
+      },
+      "hinduTithiShort": {
+        "en": "Purn.",
+        "hi": "पूर्णि.",
+        "gu": "પૂનમ"
+      },
+      "paksha": "shukla",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_01_22_1",
+          "title": {
+            "hi": "माघ स्नानारम्भः।",
+            "gu": "માઘ સ્નાનારમ્ભઃ.",
+            "en": "Magh snanarambhah."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-01-23",
+      "day": 23,
+      "hinduDay": {
+        "en": "Pratipada",
+        "hi": "प्रतिपदा",
+        "gu": "એકમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-1",
+        "hi": "कृ. 1",
+        "gu": "વદ 1"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_01_23_1",
+          "title": {
+            "hi": "इष्टिः।",
+            "gu": "ઇષ્ટિઃ.",
+            "en": "Ishtih."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-01-24",
+      "day": 24,
+      "hinduDay": {
+        "en": "Dwitiya",
+        "hi": "द्वितीया",
+        "gu": "બીજ"
+      },
+      "hinduTithiShort": {
+        "en": "K-2",
+        "hi": "कृ. 2",
+        "gu": "વદ 2"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-25",
+      "day": 25,
+      "hinduDay": {
+        "en": "Tritiya",
+        "hi": "तृतीया",
+        "gu": "ત્રીજ"
+      },
+      "hinduTithiShort": {
+        "en": "K-3",
+        "hi": "कृ. 3",
+        "gu": "વદ 3"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-26",
+      "day": 26,
+      "hinduDay": {
+        "en": "Panchami",
+        "hi": "पंचमी",
+        "gu": "પાંચમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-5",
+        "hi": "कृ. 5",
+        "gu": "વદ 5"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-27",
+      "day": 27,
+      "hinduDay": {
+        "en": "Shashthi",
+        "hi": "षष्ठी",
+        "gu": "છઠ"
+      },
+      "hinduTithiShort": {
+        "en": "K-6",
+        "hi": "कृ. 6",
+        "gu": "વદ 6"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-28",
+      "day": 28,
+      "hinduDay": {
+        "en": "Saptami",
+        "hi": "सप्तमी",
+        "gu": "સાતમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-7",
+        "hi": "कृ. 7",
+        "gu": "વદ 7"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_01_28_1",
+          "title": {
+            "hi": "पीली घटा।",
+            "gu": "પીલી ઘટા.",
+            "en": "Peelee ghata."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-01-29",
+      "day": 29,
+      "hinduDay": {
+        "en": "Ashtami",
+        "hi": "अष्टमी",
+        "gu": "આઠમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-8",
+        "hi": "कृ. 8",
+        "gu": "વદ 8"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_2027_01_29_1",
+          "title": {
+            "hi": "बड़े दामोदरजी (श्री दाऊजी) महाराज को उत्सव (1711)।",
+            "gu": "બડ઼ે દામોદરજી (શ્રી દાઊજી) મહારાજ કો ઉત્સવ (1711).",
+            "en": "Bade damodarajee (Shri daoojee) maharaj ko utsav (1711)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "2027-01-30",
+      "day": 30,
+      "hinduDay": {
+        "en": "Navami",
+        "hi": "नवमी",
+        "gu": "નોમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-9",
+        "hi": "कृ. 9",
+        "gu": "વદ 9"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    },
+    {
+      "id": "2027-01-31",
+      "day": 31,
+      "hinduDay": {
+        "en": "Dashami",
+        "hi": "दशमी",
+        "gu": "દશમ"
+      },
+      "hinduTithiShort": {
+        "en": "K-10",
+        "hi": "कृ. 10",
+        "gu": "વદ 10"
+      },
+      "paksha": "krishna",
+      "isHighlighted": false,
+      "events": []
+    }
+  ]
+}
