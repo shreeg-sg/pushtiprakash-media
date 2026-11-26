@@ -13,7 +13,7 @@
     "id": "ad_2",
     "uniqueName": "banner_2.jpg",
     "order": 2,
-    "isEnabled": false,
+    "isEnabled": true,
     "fromDate": "2026-11-01",
     "toDate": "2027-12-31",
     "url": "https://forms.gle/BRtPfNZmnmXBqgUk6",
