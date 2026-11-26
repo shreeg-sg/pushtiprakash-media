@@ -1,7 +1,7 @@
 [
   {
     "id": "ad_1",
-    "uniqueName": "banner_1.jpg",
+    "uniqueName": "banner_1",
     "order": 1,
     "isEnabled": true,
     "fromDate": "2026-11-01",
@@ -11,12 +11,12 @@
   },
   {
     "id": "ad_2",
-    "uniqueName": "banner_2.jpg",
+    "uniqueName": "banner_2",
     "order": 2,
     "isEnabled": true,
     "fromDate": "2026-11-01",
     "toDate": "2027-12-31",
-    "url": "https://forms.gle/BRtPfNZmnmXBqgUk6",
+    "url": "https://the-tech-bites.pages.dev/",
     "imagePath": "images/advertisement/banner_2.jpg"
   }
 ]
