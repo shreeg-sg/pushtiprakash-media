@@ -1,0 +1,47 @@
+================================================================================
+FOLDER: src/assets/books/
+PURPOSE: Per-Book Chapter Lists (Keeps mock/books.json Fast & Lightweight)
+================================================================================
+
+1. FILES IN THIS FOLDER
+-----------------------
+- <book_id>.json (e.g., book_shodash_granth.json, book_84_varta.json)
+  * Format: UTF-8 JSON (no trailing commas)
+  * Purpose: Holds the chapter index array for one book so the Dashboard
+    only downloads the small mock/books.json summary on startup.
+
+2. SAMPLE JSON (src/assets/books/my_book.json)
+----------------------------------------------
+{
+  "bookId": "my_book",
+  "chapters": [
+    {
+      "id": "ch_01",
+      "order": 1,
+      "isVisible": true,
+      "title": {
+        "en": "Chapter 1: Introduction",
+        "hi": "अध्याय १: परिचय",
+        "gu": "પ્રકરણ ૧: પરિચય"
+      },
+      "subtitle": {
+        "en": "Opening notes",
+        "hi": "प्रारंभिक परिचय"
+      },
+      "audioUrl": {
+        "en": "",
+        "hi": "audio/ch_01.mp3"
+      },
+      "durationSeconds": 180,
+      "contentUrl": "mock/chapters/my_book/ch_01.json"
+    }
+  ]
+}
+
+3. STEP-BY-STEP FOR NEW TENANT
+------------------------------
+Step 1: Create one file per book named src/assets/books/<book_id>.json.
+Step 2: Add each chapter's metadata and point "contentUrl" to
+        "mock/chapters/<book_id>/<chapter_id>.json".
+Step 3: In src/assets/mock/books.json, set "chapterCount" and
+        "chaptersUrl": "books/<book_id>.json" (with "chapters": []).
