@@ -1,0 +1,35 @@
+================================================================================
+FOLDER: src/assets/audio/
+PURPOSE: Recorded MP3 Audio Tracks for Chapters
+================================================================================
+
+1. FILES IN THIS FOLDER
+-----------------------
+- <track_name>.mp3 (e.g., yamunashtakam.mp3, lesson_01.mp3)
+  * Format: MP3 (MPEG-1 Layer 3)
+  * Bitrate / Sample Rate: 128 kbps CBR, 44.1 kHz, Joint Stereo
+  * Recommended Size: 2 MB - 6 MB per track (Max: 15 MB)
+  * Note: If a chapter has no MP3 ("audioUrl": ""), the app automatically
+    uses native device Text-to-Speech (TTS) in the selected language.
+
+2. SAMPLE JSON REFERENCE (inside src/assets/books/<book_id>.json)
+------------------------------------------------------------------
+{
+  "id": "ch_01",
+  "order": 1,
+  "isVisible": true,
+  "title": { "en": "Chapter 1", "hi": "अध्याय १" },
+  "audioUrl": {
+    "en": "audio/lesson_01_en.mp3",
+    "hi": "audio/lesson_01_hi.mp3"
+  },
+  "durationSeconds": 185,
+  "contentUrl": "mock/chapters/my_book/ch_01.json"
+}
+
+3. STEP-BY-STEP FOR NEW TENANT
+------------------------------
+Step 1: Export audio as 128 kbps MP3 with strict lowercase filename (no spaces).
+Step 2: Upload the .mp3 file into src/assets/audio/.
+Step 3: Link it in your book's chapter entry under src/assets/books/<book_id>.json.
+Step 4: If you re-upload a track with the same name, increment ?v=2 in JSON.
