@@ -1,0 +1,40 @@
+================================================================================
+FOLDER: src/assets/<tenantName>/   (Example: src/assets/pushtiprakash/)
+PURPOSE: Tenant-Specific Unique ID / Roll Number Allowlist (JSON Mode)
+================================================================================
+
+1. FILES IN THIS FOLDER
+-----------------------
+- uniqueId.json
+  * Usage: Used when auth_config.json sets:
+      "requireUniqueId": true,
+      "uniqueIdSource": "json",
+      "uniqueIdJsonPath": "assets/<tenantName>/uniqueId.json"
+  * Note: For large or private student/member lists, use
+    "uniqueIdSource": "supabase" instead and upload IDs to the private
+    allowed_unique_ids table in Supabase.
+
+2. SAMPLE JSON (src/assets/<tenantName>/uniqueId.json)
+------------------------------------------------------
+{
+  "tenant": "mytenant",
+  "description": "Allowed Roll Numbers / Unique IDs for login",
+  "ids": [
+    "101",
+    "102",
+    "STU-2026-001",
+    "STU-2026-002"
+  ]
+}
+
+(Also supports object items: [{"id": "101", "active": true}] — matching is
+case-insensitive and trimmed automatically.)
+
+3. STEP-BY-STEP FOR NEW TENANT
+------------------------------
+Step 1: Rename/create folder src/assets/<your_tenant_slug>/.
+Step 2: Put your valid IDs inside uniqueId.json.
+Step 3: In src/assets/mock/auth_config.json, set:
+        "requireUniqueId": true,
+        "uniqueIdSource": "json",
+        "uniqueIdJsonPath": "assets/<your_tenant_slug>/uniqueId.json"
