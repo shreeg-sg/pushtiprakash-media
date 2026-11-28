@@ -1,0 +1,88 @@
+================================================================================
+FOLDER: src/assets/mock/
+PURPOSE: Master Runtime Configuration Files for Your White-Label App
+================================================================================
+
+1. FILES IN THIS FOLDER
+-----------------------
+1) app_identity.json         -> App name, logo/watermark paths, developerCredit, theme colors
+2) auth_config.json          -> Login toggle, Supabase URL/key, 30-day expiry, Unique ID mode
+3) supportedLanguages.json   -> Enabled languages & TTS locales (hi-IN, gu-IN, en-IN)
+4) ui_translations.json      -> All UI & Login screen labels per language
+5) books.json                -> Lightweight book catalog (points to books/<book_id>.json)
+6) updateBannerMessage.json  -> Sticky dashboard banners (date-based, NEW badge, deep links)
+7) about_info.json           -> Organization description, email, website & feedback links
+8) notification_schedules.json -> Local mobile reading reminders
+9) advertisement.json        -> Sticky bottom ad carousel settings
+
+2. SAMPLE JSONS FOR KEY FILES
+-----------------------------
+--- app_identity.json ---
+{
+  "defaultAppName": "MyTenantApp",
+  "appName": { "en": "MyTenantApp", "hi": "मेरा ऐप" },
+  "mediaBaseUrl": "https://cdn.jsdelivr.net/gh/<org>/<media-repo>@main/src/assets",
+  "developerCredit": "Developed by ShreeG",
+  "logoUrl": "images/logo.png",
+  "watermarkUrl": "images/logo.png",
+  "theme": {
+    "primary": "#8B2635",
+    "secondary": "#D4AF37",
+    "tertiary": "#2E5A44",
+    "background": "#FFFDF9",
+    "surface": "#FFF8EC",
+    "textPrimary": "#2C1810",
+    "textSecondary": "#6E4F42"
+  }
+}
+
+--- auth_config.json ---
+{
+  "enabled": true,
+  "tenantId": "mytenant",
+  "supabaseUrl": "https://YOUR_PROJECT_REF.supabase.co",
+  "supabaseAnonKey": "YOUR_SUPABASE_ANON_KEY",
+  "inactivityExpiryDays": 30,
+  "requireUniqueId": false,
+  "uniqueIdSource": "supabase",
+  "uniqueIdJsonPath": "assets/mytenant/uniqueId.json"
+}
+
+--- books.json (Lightweight Index) ---
+[
+  {
+    "id": "my_book",
+    "order": 1,
+    "isVisible": true,
+    "coverImageUrl": "images/my_book_cover.jpg",
+    "title": { "en": "My First Book", "hi": "मेरी पहली पुस्तक" },
+    "subtitle": { "en": "Subtitle" },
+    "chapterCount": 10,
+    "chaptersUrl": "books/my_book.json",
+    "chapters": []
+  }
+]
+
+--- updateBannerMessage.json ---
+[
+  {
+    "id": "welcome_banner",
+    "isEnabled": true,
+    "isDefault": true,
+    "isNew": true,
+    "startDate": "2026-01-01",
+    "endDate": "2026-12-31",
+    "message": { "en": "<b>Welcome!</b> New chapters added.", "hi": "<b>स्वागत है!</b> नए अध्याय जुड़े।" },
+    "targetBookId": "my_book",
+    "targetChapterId": "ch_01",
+    "actionLabel": { "en": "Read Now", "hi": "अभी पढ़ें" }
+  }
+]
+
+3. STEP-BY-STEP FOR NEW TENANT
+------------------------------
+Step 1: Update app_identity.json with your app name, colors, and mediaBaseUrl.
+Step 2: Configure supportedLanguages.json (at least one language isEnabled: true).
+Step 3: Configure auth_config.json (set enabled: false to disable login).
+Step 4: Add books to books.json and chapter lists under src/assets/books/.
+Step 5: Validate all JSON files before pushing to GitHub / CDN.
