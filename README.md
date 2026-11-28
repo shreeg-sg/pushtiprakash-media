@@ -1,153 +1,116 @@
-# PushtiPrakash Media & Remote Assets Repository
+# White-Label Media & Remote Assets Repository
+### Tenant Media Specifications, Dimensions, Naming Rules & JSON Structure
 
-Welcome to the central media and remote content repository for the **PushtiPrakash White-Label Mobile Platform** (Android & iOS). This repository acts as the single source of truth for runtime app identity, sacred scriptures, high-fidelity audio recitations, book cover artworks, and modular split JSON configurations.
+This repository hosts all runtime configurations, branding assets, books, audio tracks, advertisements, Hindu calendar data, and optional Unique ID lists for your **White-Label Mobile & Web Reading App**. Updates pushed here take effect automatically on user devices without rebuilding or resubmitting the app.
 
 ---
 
-## 1. Directory Tree & Architecture Overview
+## 1. Directory Structure
 
-All mobile clients fetch runtime configurations and stream media assets directly from this repository. Ensure all files follow this exact folder hierarchy:
+Maintain this exact folder hierarchy inside `src/assets/`:
 
 ```text
-pushtiprakash-media/
+your-media-repository/
 ├── README.md
 └── src/
     └── assets/
-        ├── images/
-        │   ├── logo.png                  # App icon, header emblem & watermark
-        │   └── shodash_granth.jpg        # Book cover photo & banner watermark
+        ├── <tenantName>/
+        │   └── uniqueId.json                 # Optional ID allowlist when uniqueIdSource = "json"
+        ├── books/
+        │   └── <book_id>.json                  # Per-book chapter index (keeps books.json lightweight)
         ├── audio/
-        │   ├── yamunashtakam.mp3         # Sacred stotra recorded audio track
-        │   └── mangalacharanam.mp3       # Chapter audio track (strict lowercase)
+        │   ├── chapter_1.mp3                 # Recorded MP3 tracks (strict lowercase)
+        │   └── chapter_2.mp3
+        ├── images/
+        │   ├── logo.png                      # App icon, header emblem & watermark
+        │   ├── book_cover_1.jpg              # Book cover artwork
+        │   ├── chapter_img_1.jpg             # Optional chapter header illustrations
+        │   └── advertisement/
+        │       └── banner_1.jpg              # Sticky bottom advertisement banners
         └── mock/
-            ├── app_identity.json         # Client branding, primary colors, mediaBaseUrl
-            ├── supportedLanguages.json   # Enabled languages & TTS locales
-            ├── ui_translations.json      # Complete multi-lingual UI string registry
-            ├── books.json                # Books manifest & chapter catalog
-            ├── updateBannerMessage.json  # Sticky notification banner (HTML-supported)
-            ├── about_info.json           # About Us text, contacts & feedback links
-            ├── notification_schedules.json # Local push notification schedule
+            ├── app_identity.json             # App name, theme colors, mediaBaseUrl & developerCredit
+            ├── auth_config.json              # Optional login, Supabase & Unique ID settings
+            ├── supportedLanguages.json       # Enabled languages & TTS locales
+            ├── ui_translations.json          # Multilingual UI & login labels
+            ├── books.json                    # Book catalog & chapter index
+            ├── updateBannerMessage.json      # Sticky dashboard announcements (multi-banner, links, dates)
+            ├── about_info.json               # Organization description, email & feedback links
+            ├── notification_schedules.json   # Local reading reminders
+            ├── advertisement.json            # Bottom ad carousel configuration
+            ├── calendar/
+            │   └── <year>/
+            │       ├── january.json          # Monthly Gregorian + Hindu Tithi calendar & events
+            │       └── ...                   # lowercase month names (january..december)
             └── chapters/
-                └── book_shodash_granth/  # Modular on-demand chapter transcripts
-                    ├── ch_yamunashtakam.json
-                    └── ch_balabodha.json
+                └── <book_id>/
+                    └── <chapter_id>.json     # On-demand chapter transcript & images
 ```
 
 ---
 
-## 2. Asset Specifications & Size Guidelines
+## 2. Asset Dimensions, Aspect Ratios & File Specifications
 
-To maintain fast startup times (0ms local cache hydration) and responsive audio playback on cellular networks, adhere to these technical specifications for every media asset:
-
-| Asset Category | Relative Repository Path | File Format | Recommended Dimensions / Specs | Recommended File Size | Max Allowed Size | Key Usage in App |
+| Asset Type | Repository Path | File Format | Recommended Dimensions & Aspect Ratio | Recommended Size | Max Size | Usage in App |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Client Logo** | `src/assets/images/logo.png` | **PNG** (RGBA, transparent) | `1024 x 1024 px` (Square 1:1) | `100 KB – 250 KB` | **500 KB** | Native launcher app icon (scaled to 68%), Splash screen, About Us page, Global watermark |
-| **Book Cover Artwork** | `src/assets/images/<book_name>.jpg` | **JPG** / **WEBP** | `1200 x 400 px` (3:1) or `900 x 300 px` (3:1) | `50 KB – 300 KB` | **600 KB** | Dashboard book cards, Chapters page 15% height title section watermark, Media metadata |
-| **Recorded Audio Tracks** | `src/assets/audio/<stotra>.mp3` | **MP3** (MPEG-1 Layer 3) | `128 kbps` CBR, `44.1 kHz`, Joint Stereo | `2 MB – 6 MB` (per stotra) | **15 MB** | Reader streaming, in-app audio scrub bar, offline background audio caching |
-| **Remote Config JSONs** | `src/assets/mock/*.json` | **JSON** (UTF-8, minified) | Valid JSON, No trailing commas | `2 KB – 15 KB` | **50 KB** | Multi-tenant dynamic branding, UI localization, daily sync manifest |
-| **Modular Transcripts** | `src/assets/mock/chapters/<book_id>/<ch_id>.json` | **JSON** (UTF-8) | Valid JSON containing localized transcripts | `1 KB – 10 KB` | **100 KB** | On-demand split chapter text, anti-copy protected reader view |
+| **App Icon & Logo** | `src/assets/images/logo.png` | **PNG** (RGBA, transparent) | `1024 x 1024 px` (**1:1** square) | `100 KB - 250 KB` | **500 KB** | Android/iOS launcher icon (center 68% safe zone), Onboarding, Login, Sidebar, Watermark |
+| **Book Cover Artwork** | `src/assets/images/<book_name>.jpg` | **JPG** or **WEBP** | `1200 x 400 px` (**3:1**) or `800 x 400 px` (**2:1**) landscape | `50 KB - 250 KB` | **600 KB** | Dashboard book card watermark & Chapters page header banner |
+| **Chapter Header Images** | `src/assets/images/<image_name>.jpg` | **JPG**, **PNG**, or **WEBP** | `800 x 600 px` (**4:3**) or `900 x 1200 px` (**3:4**) | `50 KB - 250 KB` | **500 KB** | Center-aligned illustrations above chapter text in Reader view |
+| **Advertisement Banners** | `src/assets/images/advertisement/<name>.jpg` | **JPG**, **PNG**, or **WEBP** | `1200 x 240 px` (**5:1**) or `1080 x 216 px` (**5:1**) wide strip | `40 KB - 150 KB` | **300 KB** | Sticky bottom ad carousel (~15% screen height); keep text centered away from edges |
+| **Recorded Audio** | `src/assets/audio/<track_name>.mp3` | **MP3** (MPEG-1 Layer 3) | `128 kbps` CBR, `44.1 kHz`, Joint Stereo | `2 MB - 6 MB` | **15 MB** | Reader audio player & offline cache; leave `audioUrl` empty (`""`) for TTS fallback |
+| **Config JSONs** | `src/assets/mock/*.json` | **JSON** (UTF-8) | Valid JSON, no trailing commas | `1 KB - 20 KB` | **50 KB** | Branding, auth, languages, UI labels, banners, ads, schedules |
+| **Calendar Month JSONs** | `src/assets/mock/calendar/<year>/<month>.json` | **JSON** (UTF-8) | Valid JSON with `days` + `hinduDay` + `events` | `2 KB - 15 KB` | **50 KB** | Tippani Gregorian/Hindu Tithi calendar & daily event list |
+| **Chapter JSONs** | `src/assets/mock/chapters/<book_id>/<ch_id>.json` | **JSON** (UTF-8) | Valid JSON with `transcript` map | `1 KB - 15 KB` | **100 KB** | On-demand chapter text & optional images |
+| **Unique ID Allowlist** | `src/assets/<tenantName>/uniqueId.json` | **JSON** (UTF-8) | Array or `{ "ids": [...] }` of valid IDs | `1 KB - 100 KB` | **500 KB** | Used only when `auth_config.json` sets `uniqueIdSource: "json"` |
 
 ---
 
-## 3. Strict Naming & Casing Rules (Critical)
+## 3. Strict Naming & Formatting Rules
 
-> [!WARNING]
-> **Linux, GitHub, and Android file systems are strictly case-sensitive.**
-> If your `books.json` references `"audio/mangalacharanam.mp3"`, but the file on GitHub is named `"audio/MANGALACHARANAM.mp3"`, GitHub will return a **`404: Not Found`** error, and the app will be forced into TTS fallback mode.
-
-* **Always use lowercase alphanumeric filenames**:  
-  * Use: `yamunashtakam.mp3`, `mangalacharanam.mp3`, `shodash_granth.jpg`.
-  * Do NOT use: `MANGALACHARANAM.mp3`, `Yamuna Ashtakam (Final).MP3`, `Cover Photo #1.jpeg`.
-* **Separate words with underscores or hyphens**: Use `shodash_granth.jpg` or `balabodha.mp3`. Never use spaces or special punctuation characters (`&`, `%`, `+`, `?`).
-* **Consistent Extensions**: Always use `.jpg` (not `.jpeg` or `.JPG`), `.png` (not `.PNG`), and `.mp3` (not `.MP3`).
+1. **Lowercase Only & No Spaces:** Linux, GitHub, and Android/iOS CDNs are case-sensitive. Use lowercase letters, numbers, underscores, or hyphens only (e.g., `banner_1.jpg`, `ch_01_intro.json`, `november.json`). Never use spaces or `# ? & % + ( )`.
+2. **Standard Extensions:** Always use `.png`, `.jpg`, `.mp3`, `.json` (avoid `.JPG`, `.JPEG`, `.MP3`).
+3. **Valid JSON:** Never leave trailing commas after the last item in arrays or objects. Use 6-digit hex colors (e.g., `"#8B2635"`) in `app_identity.json`.
+4. **Calendar Folder Spelling:** Always use `src/assets/mock/calendar/<year>/<month>.json` (lowercase English month name, e.g., `january.json`).
+5. **Ad Image Path Matching:** Store ad images in `src/assets/images/advertisement/<uniqueName>` and reference `"images/advertisement/<uniqueName>"` in `advertisement.json`.
 
 ---
 
-## 4. Cache-Busting & Versioning Strategy
+## 4. Cache-Busting When Replacing Existing Assets
 
-Both mobile devices (Android Chromium and iOS WebKit) and CDN servers cache images and audio aggressively to conserve user data. If you replace an existing image or audio file with an updated version using the same filename, devices will continue showing the old cached version.
+CDNs (jsDelivr, Cloudflare) and mobile WebViews cache media aggressively. Whenever you replace an existing image or audio file with the same filename, increment a version parameter (`?v=2`, `?v=3`) in the JSON:
 
-### How to Force Immediate Updates: Query String Versioning
-
-Whenever you update an image or audio file, increment the version tag (`?v=2`, `?v=3`) in your corresponding JSON file:
-
-#### 1. In `src/assets/mock/app_identity.json`:
 ```json
 {
   "logoUrl": "images/logo.png?v=2",
-  "watermarkUrl": "images/logo.png?v=2"
-}
-```
-
-#### 2. In `src/assets/mock/books.json`:
-```json
-{
-  "coverImageUrl": "images/shodash_granth.jpg?v=2",
-  "chapters": [
-    {
-      "id": "ch_yamunashtakam",
-      "audioUrl": {
-        "hi": "audio/yamunashtakam.mp3?v=2",
-        "gu": "audio/yamunashtakam.mp3?v=2",
-        "en": "audio/yamunashtakam.mp3?v=2"
-      }
-    }
-  ]
-}
-```
-
-As soon as users perform a pull-to-refresh on their Dashboard or reopen the app, the app detects the new query parameter and downloads the refreshed asset immediately.
-
----
-
-## 5. Base URL Configuration
-
-The application consumes these assets via two base URL settings:
-
-### A. Remote Config URL (`firebaseConfigUrl`)
-* **Configured in**: `src/environments/environment.prod.ts` (or GitHub Actions input `firebase_config_url`).
-* **Target Path**: Points directly to the `mock/` directory.
-* **Recommended URL**:
-  ```text
-  https://raw.githubusercontent.com/shreeg-sg/pushtiprakash-media/main/src/assets/mock/
-  ```
-
-### B. Media Base URL (`mediaBaseUrl`)
-* **Configured in**: `src/assets/mock/app_identity.json`.
-* **Target Path**: Points to the `src/assets/` root.
-* **Recommended URL**:
-  ```json
-  "mediaBaseUrl": "https://raw.githubusercontent.com/shreeg-sg/pushtiprakash-media/main/src/assets"
-  ```
-  *(Avoid using `cdn.jsdelivr.net` for active development to prevent 24-hour edge server cache locks).*
-
----
-
-## 6. HTML Formatting in Sticky Notification Banners
-
-The dashboard sticky notification banner supports rich text and HTML formatting defined inside `src/assets/mock/updateBannerMessage.json`. You can use:
-
-* **Line Breaks**: `<br>` or literal `\n`.
-* **Bold Emphasis**: `<b>Text</b>` or `<strong>Text</strong>`.
-* **Italic Emphasis**: `<i>Text</i>` or `<em>Text</em>`.
-* **Custom Sizing/Styling**: `<span style="font-size: 1.05rem; color: #8B2635;">Text</span>`.
-
-```json
-{
-  "hi": "<b>जय श्री कृष्ण!</b><br>षोडश ग्रंथ के सभी १६ अध्यायों का ऑडियो अब उपलब्ध है।",
-  "gu": "<b>જય શ્રી કૃષ્ણ!</b><br>ષોડશ ગ્રંથના તમામ ૧૬ પ્રકરણોનો ઓડિયો હવે ઉપલબ્ધ છે.",
-  "en": "<b>Jai Shri Krishna!</b><br>Audio for all 16 treatises is now live."
+  "coverImageUrl": "images/book_cover_1.jpg?v=2",
+  "audioUrl": { "hi": "audio/chapter_1.mp3?v=2" }
 }
 ```
 
 ---
 
-## 7. Pre-Deployment Verification Checklist
+## 5. Key Tenant Configuration Files
 
-Before pushing changes to the `main` branch, verify:
+| File | Purpose | Notes |
+| :--- | :--- | :--- |
+| `mock/app_identity.json` | Brand name, colors, logo, watermark, `mediaBaseUrl`, `developerCredit` | Drives theme across all screens including Login |
+| `mock/auth_config.json` | Login toggle, Supabase URL/key, 30-day expiry, Unique ID mode | Set `enabled: false` to skip login; `uniqueIdSource: "supabase"` or `"json"` |
+| `<tenantName>/uniqueId.json` | Optional roll-number / member ID list | Read when `requireUniqueId: true` and `uniqueIdSource: "json"` |
+| `mock/supportedLanguages.json` | Enabled languages & TTS voice codes | At least one language must have `"isEnabled": true` |
+| `mock/ui_translations.json` | Interface & login screen labels per language | Includes `login_*`, `ok_button`, `cancel_button` keys |
+| `mock/books.json` | Lightweight book index (`chapterCount`, `chaptersUrl`) | Points each book to `books/<bookName>.json` (inline `chapters` still supported) |
+| `books/<bookName>.json` | Per-book chapter list | Loaded on-demand when opening a book; each chapter links to `chapters/<book_id>/<ch_id>.json` |
+| `mock/updateBannerMessage.json` | Dashboard announcement banners | Supports multiple active banners, `isNew` badge, date windows, and `targetBookId`/`targetChapterId` links |
+| `mock/advertisement.json` | Bottom sticky ad carousel | Supports `order`, `isEnabled`, `fromDate`/`toDate`, `url`, and `imagePath` |
+| `mock/calendar/<year>/<month>.json` | Tippani Hindu calendar | Supports `hinduDay`, `hinduTithiShort`, `paksha`, `isHighlighted`, and `events` |
+| `mock/notification_schedules.json` | Local scheduled reminders | Supports daily or date-specific reminders with deep links |
+| `mock/about_info.json` | Organization bio, contact email, website, feedback links | Displayed on the About Us page |
 
-1. [ ] **Repository Visibility**: Repository is set to **Public** under **Settings → General → Danger Zone**.
-2. [ ] **Branch Target**: Default branch is confirmed as **`main`**.
-3. [ ] **Casing Check**: All audio files under `src/assets/audio/` and images under `src/assets/images/` are completely lowercase.
-4. [ ] **JSON Syntax**: All modified `.json` files pass JSON validation (no trailing commas after the last item in objects or arrays).
-5. [ ] **Cache Version**: If an existing image or audio track was replaced, increment its `?v=` tag in the respective JSON.
+---
+
+## 6. Pre-Launch Tenant Checklist
+
+- [ ] **Public HTTPS Host:** Repository or CDN bucket is publicly readable over `https://` with CORS enabled.
+- [ ] **Square Logo:** `src/assets/images/logo.png` is `1024 x 1024 px` transparent PNG under `500 KB`.
+- [ ] **Lowercase Filenames:** All files in `images/`, `audio/`, `calendar/`, and `chapters/` are lowercase without spaces.
+- [ ] **JSON Validated:** All files in `src/assets/mock/` pass strict JSON validation.
+- [ ] **Auth Configured (if enabled):** `mock/auth_config.json` has the tenant's `supabaseUrl`, `supabaseAnonKey`, and `tenantId` (and `src/assets/<tenantName>/uniqueId.json` if using JSON Unique ID mode).
