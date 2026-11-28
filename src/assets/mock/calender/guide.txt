@@ -1,0 +1,60 @@
+================================================================================
+FOLDER: src/assets/mock/calendar/
+PURPOSE: Tippani Monthly Gregorian + Hindu Tithi Calendar & Events
+================================================================================
+
+1. FOLDER STRUCTURE (Important: folder name is 'calendar', not 'calender')
+------------------------------------------------------------------------
+src/assets/mock/calendar/
+  └── <year>/                (e.g., 2026, 2027)
+        ├── january.json
+        ├── february.json
+        └── ...              (lowercase English month names)
+
+2. SAMPLE JSON (src/assets/mock/calendar/2026/november.json)
+------------------------------------------------------------
+{
+  "year": 2026,
+  "month": 11,
+  "monthName": "November",
+  "hinduMonth": {
+    "en": "Kartik / Margashirsha",
+    "hi": "कार्तिक / मार्गशीर्ष",
+    "gu": "કારતક / માગશર"
+  },
+  "days": [
+    {
+      "id": "2026-11-26",
+      "day": 26,
+      "hinduDay": {
+        "en": "Kartik Krishna Dwitiya",
+        "hi": "कार्तिक कृष्ण द्वितीया",
+        "gu": "કારતક વદ બીજ"
+      },
+      "hinduTithiShort": {
+        "en": "K-2",
+        "hi": "कृ. २",
+        "gu": "વદ ૨"
+      },
+      "paksha": "krishna",
+      "isHighlighted": true,
+      "events": [
+        {
+          "id": "evt_1",
+          "title": { "en": "Morning Satsang", "hi": "प्रातः सत्संग" },
+          "description": { "en": "Daily reading", "hi": "दैनिक पाठ" },
+          "time": "07:00 AM",
+          "targetBookId": "my_book",
+          "targetChapterId": "ch_01"
+        }
+      ]
+    }
+  ]
+}
+
+3. STEP-BY-STEP FOR NEW TENANT
+------------------------------
+Step 1: Create a year folder (e.g., 2026/) under src/assets/mock/calendar/.
+Step 2: Add lowercase <month>.json files (e.g., november.json, december.json).
+Step 3: Populate "days" (1..31) with "hinduDay", "hinduTithiShort", and optional
+        "events" (with optional targetBookId/targetChapterId deep links).
