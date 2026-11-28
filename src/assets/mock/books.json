@@ -33,14 +33,14 @@
       "gu": "મહાપ્રભુ શ્રી વલ્લભાચાર્યજીના ૮૪ કૃપાપાત્ર ભગવદીયોના ચરિત્ર",
       "en": "Sacred Chronicles of the 84 Disciples of Shri Vallabhacharya"
     },
-    "chapterCount": 92,
+    "chapterCount": 84,
     "chaptersUrl": "books/book_84_varta.json",
     "chapters": []
   },
   {
     "id": "book_252_varta",
     "order": 3,
-    "isVisible": false,
+    "isVisible": true,
     "coverImageUrl": "images/252_varta.jpg",
     "title": {
       "hi": "२५२ वैष्णवन की वार्ता",
@@ -59,10 +59,10 @@
   {
     "id": "book_shiksha_patra",
     "order": 4,
-    "isVisible": false,
+    "isVisible": true,
     "coverImageUrl": "images/shiksha_patra.jpg",
     "title": {
-      "hi": "शिक्षा पत्र (Shiksha Patra)",
+      "hi": "शिक्षा पत्र",
       "gu": "શિક્ષા પત્ર",
       "en": "Shiksha Patra"
     },
