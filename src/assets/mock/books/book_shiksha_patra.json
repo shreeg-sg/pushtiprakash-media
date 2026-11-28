@@ -1,0 +1,866 @@
+{
+  "bookId": "book_shiksha_patra",
+  "chapters": [
+    {
+      "id": "ch_sp_1",
+      "order": 1,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र १",
+        "gu": "શિક્ષા પત્ર ૧",
+        "en": "Shiksha Patra 1"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧",
+        "en": "Epistle 1 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_1.json"
+    },
+    {
+      "id": "ch_sp_2",
+      "order": 2,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र २",
+        "gu": "શિક્ષા પત્ર ૨",
+        "en": "Shiksha Patra 2"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨",
+        "en": "Epistle 2 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_2.json"
+    },
+    {
+      "id": "ch_sp_3",
+      "order": 3,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ३",
+        "gu": "શિક્ષા પત્ર ૩",
+        "en": "Shiksha Patra 3"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩",
+        "en": "Epistle 3 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_3.json"
+    },
+    {
+      "id": "ch_sp_4",
+      "order": 4,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ४",
+        "gu": "શિક્ષા પત્ર ૪",
+        "en": "Shiksha Patra 4"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ४",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૪",
+        "en": "Epistle 4 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_4.json"
+    },
+    {
+      "id": "ch_sp_5",
+      "order": 5,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ५",
+        "gu": "શિક્ષા પત્ર ૫",
+        "en": "Shiksha Patra 5"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ५",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૫",
+        "en": "Epistle 5 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_5.json"
+    },
+    {
+      "id": "ch_sp_6",
+      "order": 6,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ६",
+        "gu": "શિક્ષા પત્ર ૬",
+        "en": "Shiksha Patra 6"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ६",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૬",
+        "en": "Epistle 6 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_6.json"
+    },
+    {
+      "id": "ch_sp_7",
+      "order": 7,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ७",
+        "gu": "શિક્ષા પત્ર ૭",
+        "en": "Shiksha Patra 7"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ७",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૭",
+        "en": "Epistle 7 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_7.json"
+    },
+    {
+      "id": "ch_sp_8",
+      "order": 8,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ८",
+        "gu": "શિક્ષા પત્ર ૮",
+        "en": "Shiksha Patra 8"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ८",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૮",
+        "en": "Epistle 8 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_8.json"
+    },
+    {
+      "id": "ch_sp_9",
+      "order": 9,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ९",
+        "gu": "શિક્ષા પત્ર ૯",
+        "en": "Shiksha Patra 9"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ९",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૯",
+        "en": "Epistle 9 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_9.json"
+    },
+    {
+      "id": "ch_sp_10",
+      "order": 10,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र १०",
+        "gu": "શિક્ષા પત્ર ૧૦",
+        "en": "Shiksha Patra 10"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १०",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૦",
+        "en": "Epistle 10 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_10.json"
+    },
+    {
+      "id": "ch_sp_11",
+      "order": 11,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ११",
+        "gu": "શિક્ષા પત્ર ૧૧",
+        "en": "Shiksha Patra 11"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ११",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૧",
+        "en": "Epistle 11 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_11.json"
+    },
+    {
+      "id": "ch_sp_12",
+      "order": 12,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र १२",
+        "gu": "શિક્ષા પત્ર ૧૨",
+        "en": "Shiksha Patra 12"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १२",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૨",
+        "en": "Epistle 12 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_12.json"
+    },
+    {
+      "id": "ch_sp_13",
+      "order": 13,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र १३",
+        "gu": "શિક્ષા પત્ર ૧૩",
+        "en": "Shiksha Patra 13"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १३",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૩",
+        "en": "Epistle 13 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_13.json"
+    },
+    {
+      "id": "ch_sp_14",
+      "order": 14,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र १४",
+        "gu": "શિક્ષા પત્ર ૧૪",
+        "en": "Shiksha Patra 14"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १४",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૪",
+        "en": "Epistle 14 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_14.json"
+    },
+    {
+      "id": "ch_sp_15",
+      "order": 15,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र १५",
+        "gu": "શિક્ષા પત્ર ૧૫",
+        "en": "Shiksha Patra 15"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १५",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૫",
+        "en": "Epistle 15 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_15.json"
+    },
+    {
+      "id": "ch_sp_16",
+      "order": 16,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र १६",
+        "gu": "શિક્ષા પત્ર ૧૬",
+        "en": "Shiksha Patra 16"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १६",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૬",
+        "en": "Epistle 16 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_16.json"
+    },
+    {
+      "id": "ch_sp_17",
+      "order": 17,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र १७",
+        "gu": "શિક્ષા પત્ર ૧૭",
+        "en": "Shiksha Patra 17"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १७",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૭",
+        "en": "Epistle 17 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_17.json"
+    },
+    {
+      "id": "ch_sp_18",
+      "order": 18,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र १८",
+        "gu": "શિક્ષા પત્ર ૧૮",
+        "en": "Shiksha Patra 18"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १८",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૮",
+        "en": "Epistle 18 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_18.json"
+    },
+    {
+      "id": "ch_sp_19",
+      "order": 19,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र १९",
+        "gu": "શિક્ષા પત્ર ૧૯",
+        "en": "Shiksha Patra 19"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १९",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૯",
+        "en": "Epistle 19 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_19.json"
+    },
+    {
+      "id": "ch_sp_20",
+      "order": 20,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र २०",
+        "gu": "શિક્ષા પત્ર ૨૦",
+        "en": "Shiksha Patra 20"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २०",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૦",
+        "en": "Epistle 20 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_20.json"
+    },
+    {
+      "id": "ch_sp_21",
+      "order": 21,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र २१",
+        "gu": "શિક્ષા પત્ર ૨૧",
+        "en": "Shiksha Patra 21"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २१",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૧",
+        "en": "Epistle 21 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_21.json"
+    },
+    {
+      "id": "ch_sp_22",
+      "order": 22,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र २२",
+        "gu": "શિક્ષા પત્ર ૨૨",
+        "en": "Shiksha Patra 22"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २२",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૨",
+        "en": "Epistle 22 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_22.json"
+    },
+    {
+      "id": "ch_sp_23",
+      "order": 23,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र २३",
+        "gu": "શિક્ષા પત્ર ૨૩",
+        "en": "Shiksha Patra 23"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २३",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૩",
+        "en": "Epistle 23 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_23.json"
+    },
+    {
+      "id": "ch_sp_24",
+      "order": 24,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र २४",
+        "gu": "શિક્ષા પત્ર ૨૪",
+        "en": "Shiksha Patra 24"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २४",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૪",
+        "en": "Epistle 24 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_24.json"
+    },
+    {
+      "id": "ch_sp_25",
+      "order": 25,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र २५",
+        "gu": "શિક્ષા પત્ર ૨૫",
+        "en": "Shiksha Patra 25"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २५",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૫",
+        "en": "Epistle 25 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_25.json"
+    },
+    {
+      "id": "ch_sp_26",
+      "order": 26,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र २६",
+        "gu": "શિક્ષા પત્ર ૨૬",
+        "en": "Shiksha Patra 26"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २६",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૬",
+        "en": "Epistle 26 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_26.json"
+    },
+    {
+      "id": "ch_sp_27",
+      "order": 27,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र २७",
+        "gu": "શિક્ષા પત્ર ૨૭",
+        "en": "Shiksha Patra 27"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २७",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૭",
+        "en": "Epistle 27 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_27.json"
+    },
+    {
+      "id": "ch_sp_28",
+      "order": 28,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र २८",
+        "gu": "શિક્ષા પત્ર ૨૮",
+        "en": "Shiksha Patra 28"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २८",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૮",
+        "en": "Epistle 28 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_28.json"
+    },
+    {
+      "id": "ch_sp_29",
+      "order": 29,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र २९",
+        "gu": "શિક્ષા પત્ર ૨૯",
+        "en": "Shiksha Patra 29"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २९",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૯",
+        "en": "Epistle 29 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_29.json"
+    },
+    {
+      "id": "ch_sp_30",
+      "order": 30,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ३०",
+        "gu": "શિક્ષા પત્ર ૩૦",
+        "en": "Shiksha Patra 30"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३०",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૦",
+        "en": "Epistle 30 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_30.json"
+    },
+    {
+      "id": "ch_sp_31",
+      "order": 31,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ३१",
+        "gu": "શિક્ષા પત્ર ૩૧",
+        "en": "Shiksha Patra 31"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३१",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૧",
+        "en": "Epistle 31 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_31.json"
+    },
+    {
+      "id": "ch_sp_32",
+      "order": 32,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ३२",
+        "gu": "શિક્ષા પત્ર ૩૨",
+        "en": "Shiksha Patra 32"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३२",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૨",
+        "en": "Epistle 32 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_32.json"
+    },
+    {
+      "id": "ch_sp_33",
+      "order": 33,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ३३",
+        "gu": "શિક્ષા પત્ર ૩૩",
+        "en": "Shiksha Patra 33"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३३",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૩",
+        "en": "Epistle 33 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_33.json"
+    },
+    {
+      "id": "ch_sp_34",
+      "order": 34,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ३४",
+        "gu": "શિક્ષા પત્ર ૩૪",
+        "en": "Shiksha Patra 34"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३४",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૪",
+        "en": "Epistle 34 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_34.json"
+    },
+    {
+      "id": "ch_sp_35",
+      "order": 35,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ३५",
+        "gu": "શિક્ષા પત્ર ૩૫",
+        "en": "Shiksha Patra 35"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३५",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૫",
+        "en": "Epistle 35 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_35.json"
+    },
+    {
+      "id": "ch_sp_36",
+      "order": 36,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ३६",
+        "gu": "શિક્ષા પત્ર ૩૬",
+        "en": "Shiksha Patra 36"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३६",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૬",
+        "en": "Epistle 36 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_36.json"
+    },
+    {
+      "id": "ch_sp_37",
+      "order": 37,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ३७",
+        "gu": "શિક્ષા પત્ર ૩૭",
+        "en": "Shiksha Patra 37"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३७",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૭",
+        "en": "Epistle 37 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_37.json"
+    },
+    {
+      "id": "ch_sp_38",
+      "order": 38,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ३८",
+        "gu": "શિક્ષા પત્ર ૩૮",
+        "en": "Shiksha Patra 38"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३८",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૮",
+        "en": "Epistle 38 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_38.json"
+    },
+    {
+      "id": "ch_sp_39",
+      "order": 39,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ३९",
+        "gu": "શિક્ષા પત્ર ૩૯",
+        "en": "Shiksha Patra 39"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३९",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૯",
+        "en": "Epistle 39 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_39.json"
+    },
+    {
+      "id": "ch_sp_40",
+      "order": 40,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ४०",
+        "gu": "શિક્ષા પત્ર ૪૦",
+        "en": "Shiksha Patra 40"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ४०",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૪૦",
+        "en": "Epistle 40 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_40.json"
+    },
+    {
+      "id": "ch_sp_41",
+      "order": 41,
+      "isVisible": true,
+      "title": {
+        "hi": "शिक्षा पत्र ४१",
+        "gu": "શિક્ષા પત્ર ૪૧",
+        "en": "Shiksha Patra 41"
+      },
+      "subtitle": {
+        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ४१",
+        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૪૧",
+        "en": "Epistle 41 of Shri Hariray Mahaprabhu"
+      },
+      "audioUrl": {
+        "hi": "",
+        "gu": "",
+        "en": ""
+      },
+      "contentUrl": "chapters/book_shiksha_patra/ch_sp_41.json"
+    }
+  ]
+}
