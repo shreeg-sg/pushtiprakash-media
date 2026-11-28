@@ -1,0 +1,41 @@
+================================================================================
+FOLDER: src/assets/images/
+PURPOSE: App Logo, Watermark, Book Cover Artwork & Chapter Illustrations
+================================================================================
+
+1. FILES IN THIS FOLDER
+-----------------------
+- logo.png
+  * Usage: App launcher icon, Onboarding/Login logo, Sidebar header, Watermark
+  * Format: PNG (RGBA with transparent background)
+  * Dimensions: 1024 x 1024 px (1:1 square)
+  * Recommended Size: 100 KB - 250 KB (Max: 500 KB)
+  * Tip: Keep artwork centered inside the middle 68% safe zone.
+
+- <book_name>_cover.jpg (e.g., shodash_granth.jpg)
+  * Usage: Dashboard book card watermark & Chapters page header background
+  * Format: JPG or WEBP
+  * Dimensions: 1200 x 400 px (3:1) or 800 x 400 px (2:1) landscape
+  * Recommended Size: 50 KB - 250 KB (Max: 600 KB)
+
+- <chapter_image>.jpg (optional)
+  * Usage: Center-aligned illustration above chapter text in Reader view
+  * Format: JPG, PNG, or WEBP
+  * Dimensions: 800 x 600 px (4:3) or 900 x 1200 px (3:4)
+  * Recommended Size: 50 KB - 250 KB (Max: 500 KB)
+
+2. STRICT NAMING RULES
+----------------------
+- Lowercase letters, numbers, underscores (_), or hyphens (-) ONLY.
+- NO spaces, NO uppercase extensions (.JPG / .PNG), NO special characters.
+
+3. STEP-BY-STEP FOR NEW TENANT
+------------------------------
+Step 1: Replace logo.png with your 1024x1024 transparent PNG logo.
+Step 2: Upload your book cover images (3:1 or 2:1 JPG/WEBP) here.
+Step 3: Reference them in src/assets/mock/app_identity.json and books.json:
+        {
+          "logoUrl": "images/logo.png?v=1",
+          "coverImageUrl": "images/my_book_cover.jpg?v=1"
+        }
+Step 4: If you replace an existing image later, bump ?v=2 so devices refresh it.
