@@ -1,0 +1,11 @@
+{
+  "tenant": "pushtiprakash",
+  "description": "Sample allowlist when auth_config.json sets uniqueIdSource = 'json'",
+  "ids": [
+    "101",
+    "102",
+    "103",
+    "STU-2026-001",
+    "STU-2026-002"
+  ]
+}
