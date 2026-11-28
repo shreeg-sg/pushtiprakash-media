@@ -1,866 +1,863 @@
-{
-  "bookId": "book_shiksha_patra",
-  "chapters": [
-    {
-      "id": "ch_sp_1",
-      "order": 1,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र १",
-        "gu": "શિક્ષા પત્ર ૧",
-        "en": "Shiksha Patra 1"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧",
-        "en": "Epistle 1 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_1.json"
+[
+  {
+    "id": "ch_sp_1",
+    "order": 1,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र १",
+      "gu": "શિક્ષા પત્ર ૧",
+      "en": "Shiksha Patra 1"
     },
-    {
-      "id": "ch_sp_2",
-      "order": 2,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र २",
-        "gu": "શિક્ષા પત્ર ૨",
-        "en": "Shiksha Patra 2"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨",
-        "en": "Epistle 2 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_2.json"
+    "subtitle": {
+      "hi": "अंगीकृत जीवों की कर्तव्यता, भगवत्सेवा एवं भगवदीय सत्संग",
+      "gu": "અંગીકૃત જીવોની કર્તવ્યતા, ભગવત્સેવા અને ભગવદીય સત્સંગ",
+      "en": "Duties of Accepted Souls, Bhagavat-Seva, and Bhagavadiya Satsanga"
     },
-    {
-      "id": "ch_sp_3",
-      "order": 3,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ३",
-        "gu": "શિક્ષા પત્ર ૩",
-        "en": "Shiksha Patra 3"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩",
-        "en": "Epistle 3 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_3.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_4",
-      "order": 4,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ४",
-        "gu": "શિક્ષા પત્ર ૪",
-        "en": "Shiksha Patra 4"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ४",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૪",
-        "en": "Epistle 4 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_4.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_1.json"
+  },
+  {
+    "id": "ch_sp_2",
+    "order": 2,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र २",
+      "gu": "શિક્ષા પત્ર ૨",
+      "en": "Shiksha Patra 2"
     },
-    {
-      "id": "ch_sp_5",
-      "order": 5,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ५",
-        "gu": "શિક્ષા પત્ર ૫",
-        "en": "Shiksha Patra 5"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ५",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૫",
-        "en": "Epistle 5 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_5.json"
+    "subtitle": {
+      "hi": "निरोध की सिद्धि एवं श्रीयशोदोत्संगलालित स्वरूप का ध्यान",
+      "gu": "નિરોધની સિદ્ધિ અને શ્રીયશોદોત્સંગલાલિત સ્વરૂપનું ધ્યાન",
+      "en": "Attainment of Nirodha and Meditation on Child Shri Krishna"
     },
-    {
-      "id": "ch_sp_6",
-      "order": 6,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ६",
-        "gu": "શિક્ષા પત્ર ૬",
-        "en": "Shiksha Patra 6"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ६",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૬",
-        "en": "Epistle 6 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_6.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_7",
-      "order": 7,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ७",
-        "gu": "શિક્ષા પત્ર ૭",
-        "en": "Shiksha Patra 7"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ७",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૭",
-        "en": "Epistle 7 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_7.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_2.json"
+  },
+  {
+    "id": "ch_sp_3",
+    "order": 3,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ३",
+      "gu": "શિક્ષા પત્ર ૩",
+      "en": "Shiksha Patra 3"
     },
-    {
-      "id": "ch_sp_8",
-      "order": 8,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ८",
-        "gu": "શિક્ષા પત્ર ૮",
-        "en": "Shiksha Patra 8"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ८",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૮",
-        "en": "Epistle 8 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_8.json"
+    "subtitle": {
+      "hi": "भगवद्भाव के साधक सत्संग व बाधक दुःसंग का निरूपण",
+      "gu": "ભગવદ્ભાવના સાધક સત્સંગ અને બાધક દુઃસંગનું નિરૂપણ",
+      "en": "Nurturing Devotion Through Satsanga and Guarding Against Duhsanga"
     },
-    {
-      "id": "ch_sp_9",
-      "order": 9,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ९",
-        "gu": "શિક્ષા પત્ર ૯",
-        "en": "Shiksha Patra 9"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ९",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૯",
-        "en": "Epistle 9 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_9.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_10",
-      "order": 10,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र १०",
-        "gu": "શિક્ષા પત્ર ૧૦",
-        "en": "Shiksha Patra 10"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १०",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૦",
-        "en": "Epistle 10 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_10.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_3.json"
+  },
+  {
+    "id": "ch_sp_4",
+    "order": 4,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ४",
+      "gu": "શિક્ષા પત્ર ૪",
+      "en": "Shiksha Patra 4"
     },
-    {
-      "id": "ch_sp_11",
-      "order": 11,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ११",
-        "gu": "શિક્ષા પત્ર ૧૧",
-        "en": "Shiksha Patra 11"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ११",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૧",
-        "en": "Epistle 11 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_11.json"
+    "subtitle": {
+      "hi": "प्रभु का विरुद्धधर्माश्रयत्व एवं शरण-माहात्म्य",
+      "gu": "પ્રભુનું વિરુદ્ધધર્માશ્રયત્વ અને શરણ-માહાત્મ્ય",
+      "en": "The Lord as Abode of Contradictory Qualities and the Glory of Sharanam"
     },
-    {
-      "id": "ch_sp_12",
-      "order": 12,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र १२",
-        "gu": "શિક્ષા પત્ર ૧૨",
-        "en": "Shiksha Patra 12"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १२",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૨",
-        "en": "Epistle 12 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_12.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_13",
-      "order": 13,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र १३",
-        "gu": "શિક્ષા પત્ર ૧૩",
-        "en": "Shiksha Patra 13"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १३",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૩",
-        "en": "Epistle 13 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_13.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_4.json"
+  },
+  {
+    "id": "ch_sp_5",
+    "order": 5,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ५",
+      "gu": "શિક્ષા પત્ર ૫",
+      "en": "Shiksha Patra 5"
     },
-    {
-      "id": "ch_sp_14",
-      "order": 14,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र १४",
-        "gu": "શિક્ષા પત્ર ૧૪",
-        "en": "Shiksha Patra 14"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १४",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૪",
-        "en": "Epistle 14 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_14.json"
+    "subtitle": {
+      "hi": "विरहभाव, ताप, दैन्य एवं अष्टाक्षर महामंत्र",
+      "gu": "વિરહભાવ, તાપ, દૈન્ય અને અષ્ટાક્ષર મહામંત્ર",
+      "en": "Viraha-Bhava, Tapa, Humility (Dainya), and the Ashtakshara Mantra"
     },
-    {
-      "id": "ch_sp_15",
-      "order": 15,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र १५",
-        "gu": "શિક્ષા પત્ર ૧૫",
-        "en": "Shiksha Patra 15"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १५",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૫",
-        "en": "Epistle 15 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_15.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_16",
-      "order": 16,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र १६",
-        "gu": "શિક્ષા પત્ર ૧૬",
-        "en": "Shiksha Patra 16"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १६",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૬",
-        "en": "Epistle 16 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_16.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_5.json"
+  },
+  {
+    "id": "ch_sp_6",
+    "order": 6,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ६",
+      "gu": "શિક્ષા પત્ર ૬",
+      "en": "Shiksha Patra 6"
     },
-    {
-      "id": "ch_sp_17",
-      "order": 17,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र १७",
-        "gu": "શિક્ષા પત્ર ૧૭",
-        "en": "Shiksha Patra 17"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १७",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૭",
-        "en": "Epistle 17 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_17.json"
+    "subtitle": {
+      "hi": "गृहभंग पर चित्त-समाधान व प्रभु द्वारा अनिष्ट-निवृत्ति",
+      "gu": "ગૃહભંગ પર ચિત્ત-સમાધાન અને પ્રભુ દ્વારા અનિષ્ટ-નિવૃત્તિ",
+      "en": "Consolation in Bereavement and the Lord's Removal of Worldly Harm"
     },
-    {
-      "id": "ch_sp_18",
-      "order": 18,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र १८",
-        "gu": "શિક્ષા પત્ર ૧૮",
-        "en": "Shiksha Patra 18"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १८",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૮",
-        "en": "Epistle 18 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_18.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_19",
-      "order": 19,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र १९",
-        "gu": "શિક્ષા પત્ર ૧૯",
-        "en": "Shiksha Patra 19"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या १९",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૧૯",
-        "en": "Epistle 19 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_19.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_6.json"
+  },
+  {
+    "id": "ch_sp_7",
+    "order": 7,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ७",
+      "gu": "શિક્ષા પત્ર ૭",
+      "en": "Shiksha Patra 7"
     },
-    {
-      "id": "ch_sp_20",
-      "order": 20,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र २०",
-        "gu": "શિક્ષા પત્ર ૨૦",
-        "en": "Shiksha Patra 20"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २०",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૦",
-        "en": "Epistle 20 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_20.json"
+    "subtitle": {
+      "hi": "लौकिक आसक्ति का त्याग एवं सेवा-भाव की रक्षा",
+      "gu": "લૌકિક આસક્તિનો ત્યાગ અને સેવા-ભાવની રક્ષા",
+      "en": "Relinquishing Worldly Attachment and Guarding Seva-Bhava"
     },
-    {
-      "id": "ch_sp_21",
-      "order": 21,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र २१",
-        "gu": "શિક્ષા પત્ર ૨૧",
-        "en": "Shiksha Patra 21"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २१",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૧",
-        "en": "Epistle 21 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_21.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_22",
-      "order": 22,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र २२",
-        "gu": "શિક્ષા પત્ર ૨૨",
-        "en": "Shiksha Patra 22"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २२",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૨",
-        "en": "Epistle 22 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_22.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_7.json"
+  },
+  {
+    "id": "ch_sp_8",
+    "order": 8,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ८",
+      "gu": "શિક્ષા પત્ર ૮",
+      "en": "Shiksha Patra 8"
     },
-    {
-      "id": "ch_sp_23",
-      "order": 23,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र २३",
-        "gu": "શિક્ષા પત્ર ૨૩",
-        "en": "Shiksha Patra 23"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २३",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૩",
-        "en": "Epistle 23 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_23.json"
+    "subtitle": {
+      "hi": "श्रीगोकुलाधीश में विश्वास, आर्ति एवं अन्याश्रय का त्याग",
+      "gu": "શ્રીગોકુળાધીશમાં વિશ્વાસ, આર્તિ અને અન્યાશ્રયનો ત્યાગ",
+      "en": "Faith in Shri Gokuladhisha, Viraha-Arti, and Renouncing Anyashraya"
     },
-    {
-      "id": "ch_sp_24",
-      "order": 24,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र २४",
-        "gu": "શિક્ષા પત્ર ૨૪",
-        "en": "Shiksha Patra 24"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २४",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૪",
-        "en": "Epistle 24 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_24.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_25",
-      "order": 25,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र २५",
-        "gu": "શિક્ષા પત્ર ૨૫",
-        "en": "Shiksha Patra 25"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २५",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૫",
-        "en": "Epistle 25 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_25.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_8.json"
+  },
+  {
+    "id": "ch_sp_9",
+    "order": 9,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ९",
+      "gu": "શિક્ષા પત્ર ૯",
+      "en": "Shiksha Patra 9"
     },
-    {
-      "id": "ch_sp_26",
-      "order": 26,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र २६",
-        "gu": "શિક્ષા પત્ર ૨૬",
-        "en": "Shiksha Patra 26"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २६",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૬",
-        "en": "Epistle 26 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_26.json"
+    "subtitle": {
+      "hi": "प्रेम, आसक्ति और व्यसन का स्वरूप तथा मानसी सेवा",
+      "gu": "પ્રેમ, આસક્તિ અને વ્યસનનું સ્વરૂપ તથા માનસી સેવા",
+      "en": "Nature of Prema, Asakti, Vyasana & Manasi Seva"
     },
-    {
-      "id": "ch_sp_27",
-      "order": 27,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र २७",
-        "gu": "શિક્ષા પત્ર ૨૭",
-        "en": "Shiksha Patra 27"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २७",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૭",
-        "en": "Epistle 27 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_27.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_28",
-      "order": 28,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र २८",
-        "gu": "શિક્ષા પત્ર ૨૮",
-        "en": "Shiksha Patra 28"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २८",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૮",
-        "en": "Epistle 28 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_28.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_9.json"
+  },
+  {
+    "id": "ch_sp_10",
+    "order": 10,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र १०",
+      "gu": "શિક્ષા પત્ર ૧૦",
+      "en": "Shiksha Patra 10"
     },
-    {
-      "id": "ch_sp_29",
-      "order": 29,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र २९",
-        "gu": "શિક્ષા પત્ર ૨૯",
-        "en": "Shiksha Patra 29"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या २९",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૨૯",
-        "en": "Epistle 29 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_29.json"
+    "subtitle": {
+      "hi": "लौकिक क्लेश में दृढ़ आश्रय और चातकवत् विश्वास",
+      "gu": "લૌકિક ક્લેશમાં દૃઢ આશ્રય અને ચાતકવત્ વિશ્વાસ",
+      "en": "Steadfast Shelter in Affliction & Chataka-like Trust"
     },
-    {
-      "id": "ch_sp_30",
-      "order": 30,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ३०",
-        "gu": "શિક્ષા પત્ર ૩૦",
-        "en": "Shiksha Patra 30"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३०",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૦",
-        "en": "Epistle 30 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_30.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_31",
-      "order": 31,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ३१",
-        "gu": "શિક્ષા પત્ર ૩૧",
-        "en": "Shiksha Patra 31"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३१",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૧",
-        "en": "Epistle 31 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_31.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_10.json"
+  },
+  {
+    "id": "ch_sp_11",
+    "order": 11,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ११",
+      "gu": "શિક્ષા પત્ર ૧૧",
+      "en": "Shiksha Patra 11"
     },
-    {
-      "id": "ch_sp_32",
-      "order": 32,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ३२",
-        "gu": "શિક્ષા પત્ર ૩૨",
-        "en": "Shiksha Patra 32"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३२",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૨",
-        "en": "Epistle 32 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_32.json"
+    "subtitle": {
+      "hi": "भक्त के चार कर्तव्य—गुणगान, दुःखभावन, दैन्य और त्याग",
+      "gu": "ભક્તનાં ચાર કર્તવ્યો—ગુણગાન, દુઃખભાવન, દૈન્ય અને ત્યાગ",
+      "en": "Fourfold Duties of a Devotee & Importance of Satsanga"
     },
-    {
-      "id": "ch_sp_33",
-      "order": 33,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ३३",
-        "gu": "શિક્ષા પત્ર ૩૩",
-        "en": "Shiksha Patra 33"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३३",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૩",
-        "en": "Epistle 33 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_33.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_34",
-      "order": 34,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ३४",
-        "gu": "શિક્ષા પત્ર ૩૪",
-        "en": "Shiksha Patra 34"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३४",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૪",
-        "en": "Epistle 34 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_34.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_11.json"
+  },
+  {
+    "id": "ch_sp_12",
+    "order": 12,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र १२",
+      "gu": "શિક્ષા પત્ર ૧૨",
+      "en": "Shiksha Patra 12"
     },
-    {
-      "id": "ch_sp_35",
-      "order": 35,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ३५",
-        "gu": "શિક્ષા પત્ર ૩૫",
-        "en": "Shiksha Patra 35"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३५",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૫",
-        "en": "Epistle 35 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_35.json"
+    "subtitle": {
+      "hi": "श्रीस्वामिनीजी के विरह-वाक्यों की अहर्निश भावना",
+      "gu": "શ્રીસ્વામિનીજીનાં વિરહ-વાક્યોની અહર્નિશ ભાવના",
+      "en": "Day-and-Night Contemplation of Shri Swaminiji's Viraha"
     },
-    {
-      "id": "ch_sp_36",
-      "order": 36,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ३६",
-        "gu": "શિક્ષા પત્ર ૩૬",
-        "en": "Shiksha Patra 36"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३६",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૬",
-        "en": "Epistle 36 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_36.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_37",
-      "order": 37,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ३७",
-        "gu": "શિક્ષા પત્ર ૩૭",
-        "en": "Shiksha Patra 37"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३७",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૭",
-        "en": "Epistle 37 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_37.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_12.json"
+  },
+  {
+    "id": "ch_sp_13",
+    "order": 13,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र १३",
+      "gu": "શિક્ષા પત્ર ૧૩",
+      "en": "Shiksha Patra 13"
     },
-    {
-      "id": "ch_sp_38",
-      "order": 38,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ३८",
-        "gu": "શિક્ષા પત્ર ૩૮",
-        "en": "Shiksha Patra 38"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३८",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૮",
-        "en": "Epistle 38 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_38.json"
+    "subtitle": {
+      "hi": "कलिकाल में चित्तनिरोध और प्रभु की शरण-भावना",
+      "gu": "કળિકાળમાં ચિત્તનિરોધ અને પ્રભુની શરણ-ભાવના",
+      "en": "Nirodha & Taking Refuge in the Lord Amidst Kaliyuga"
     },
-    {
-      "id": "ch_sp_39",
-      "order": 39,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ३९",
-        "gu": "શિક્ષા પત્ર ૩૯",
-        "en": "Shiksha Patra 39"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ३९",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૩૯",
-        "en": "Epistle 39 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_39.json"
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
     },
-    {
-      "id": "ch_sp_40",
-      "order": 40,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ४०",
-        "gu": "શિક્ષા પત્ર ૪૦",
-        "en": "Shiksha Patra 40"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ४०",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૪૦",
-        "en": "Epistle 40 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_40.json"
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_13.json"
+  },
+  {
+    "id": "ch_sp_14",
+    "order": 14,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र १४",
+      "gu": "શિક્ષા પત્ર ૧૪",
+      "en": "Shiksha Patra 14"
     },
-    {
-      "id": "ch_sp_41",
-      "order": 41,
-      "isVisible": true,
-      "title": {
-        "hi": "शिक्षा पत्र ४१",
-        "gu": "શિક્ષા પત્ર ૪૧",
-        "en": "Shiksha Patra 41"
-      },
-      "subtitle": {
-        "hi": "श्री हरिराय महाप्रभु प्रणीत पत्र संख्या ४१",
-        "gu": "શ્રી હરિરાય મહાપ્રભુ પ્રણીત પત્ર ક્રમાંક ૪૧",
-        "en": "Epistle 41 of Shri Hariray Mahaprabhu"
-      },
-      "audioUrl": {
-        "hi": "",
-        "gu": "",
-        "en": ""
-      },
-      "contentUrl": "chapters/book_shiksha_patra/ch_sp_41.json"
-    }
-  ]
-}
+    "subtitle": {
+      "hi": "अन्याश्रय-दुःसंग त्याग और निवेदनमंत्र का अनुसंधान",
+      "gu": "અન્યાશ્રય-દુઃસંગ ત્યાગ અને નિવેદનમંત્રનું અનુસંધાન",
+      "en": "Renouncing Anyashraya & Reflecting on Nivedana Mantra"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_14.json"
+  },
+  {
+    "id": "ch_sp_15",
+    "order": 15,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र १५",
+      "gu": "શિક્ષા પત્ર ૧૫",
+      "en": "Shiksha Patra 15"
+    },
+    "subtitle": {
+      "hi": "भगवल्लीला के अनुसंधानपूर्वक निरंतर भगवत्स्मरण",
+      "gu": "ભગવલ્લીલાના અનુસંધાનપૂર્વક નિરંતર ભગવત્સ્મરણ",
+      "en": "Constant Remembrance of the Lord's Divine Pastimes"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_15.json"
+  },
+  {
+    "id": "ch_sp_16",
+    "order": 16,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र १६",
+      "gu": "શિક્ષા પત્ર ૧૬",
+      "en": "Shiksha Patra 16"
+    },
+    "subtitle": {
+      "hi": "अहर्निश सेवा-स्मरण से निरोध और निश्चिंतता",
+      "gu": "અહર્નિશ સેવા-સ્મરણથી નિરોધ અને નિશ્ચિંતતા",
+      "en": "Nirodha & Freedom from Anxiety Through Seva and Smarana"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_16.json"
+  },
+  {
+    "id": "ch_sp_17",
+    "order": 17,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र १७",
+      "gu": "શિક્ષા પત્ર ૧૭",
+      "en": "Shiksha Patra 17"
+    },
+    "subtitle": {
+      "hi": "त्याग-अत्याग का विवेक, दृढ़ विश्वास और श्रीआचार्याश्रय",
+      "gu": "ત્યાગ-અત્યાગનો વિવેક, દૃઢ વિશ્વાસ અને શ્રીઆચાર્યાશ્રય",
+      "en": "Tyaga, Atyaga, Unwavering Trust & Shelter in Shri Acharyaji"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_17.json"
+  },
+  {
+    "id": "ch_sp_18",
+    "order": 18,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र १८",
+      "gu": "શિક્ષા પત્ર ૧૮",
+      "en": "Shiksha Patra 18"
+    },
+    "subtitle": {
+      "hi": "विरह द्वारा श्रीकृष्ण की हृदय में स्थापना व अनन्य सेवा",
+      "gu": "વિરહ દ્વારા શ્રીકૃષ્ણની હૃદયમાં સ્થાપના અને અનન્ય સેવા",
+      "en": "Establishing Shri Krishna in the Heart through Viraha & Unalloyed Seva"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_18.json"
+  },
+  {
+    "id": "ch_sp_19",
+    "order": 19,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र १९",
+      "gu": "શિક્ષા પત્ર ૧૯",
+      "en": "Shiksha Patra 19"
+    },
+    "subtitle": {
+      "hi": "कलिकाल में सत्संग की दुर्लभता व श्रीमदाचार्यजी की शरण",
+      "gu": "કળિકાળમાં સત્સંગની દુર્લભતા અને શ્રીમદાચાર્યજીનું શરણ",
+      "en": "Rarity of Satsang in Kaliyuga & Refuge in Shrimad Acharyaji"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_19.json"
+  },
+  {
+    "id": "ch_sp_20",
+    "order": 20,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र २०",
+      "gu": "શિક્ષા પત્ર ૨૦",
+      "en": "Shiksha Patra 20"
+    },
+    "subtitle": {
+      "hi": "प्रमेयबल, सावधानी, अष्टाक्षर महिमा व स्वाचार्य-निष्ठा",
+      "gu": "પ્રમેયબળ, સાવધાની, અષ્ટાક્ષર મહિમા અને સ્વાચાર્ય-નિષ્ઠા",
+      "en": "Prameyabala, Vigilance, Glory of Ashtakshara & Faith in Acharyaji"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_20.json"
+  },
+  {
+    "id": "ch_sp_21",
+    "order": 21,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र २१",
+      "gu": "શિક્ષા પત્ર ૨૧",
+      "en": "Shiksha Patra 21"
+    },
+    "subtitle": {
+      "hi": "भाव की शिथिलता, निवेदन-चिंतन व कालदोष से सावधानी",
+      "gu": "ભાવની શિથિલતા, નિવેદન-ચિંતન અને કાળદોષથી સાવધાની",
+      "en": "Slackening of Bhava, Contemplation of Nivedana & Guarding Against Kali"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_21.json"
+  },
+  {
+    "id": "ch_sp_22",
+    "order": 22,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र २२",
+      "gu": "શિક્ષા પત્ર ૨૨",
+      "en": "Shiksha Patra 22"
+    },
+    "subtitle": {
+      "hi": "निधिरूप भाव की रक्षा व तदीय वैष्णवों से गोष्ठी",
+      "gu": "નિધિરૂપ ભાવની રક્ષા અને તદીય વૈષ્ણવો સાથે ગોષ્ઠી",
+      "en": "Guarding Treasure-Like Bhava & Fellowship with Devotees"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_22.json"
+  },
+  {
+    "id": "ch_sp_23",
+    "order": 23,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र २३",
+      "gu": "શિક્ષા પત્ર ૨૩",
+      "en": "Shiksha Patra 23"
+    },
+    "subtitle": {
+      "hi": "लौकिक दुःख व बहिर्मुखता की निवृत्ति के उपाय",
+      "gu": "લૌકિક દુઃખ અને બહિર્મુખતાની નિવૃત્તિના ઉપાયો",
+      "en": "Remedies for Worldly Sorrow & Outward-Mindedness"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_23.json"
+  },
+  {
+    "id": "ch_sp_24",
+    "order": 24,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र २४",
+      "gu": "શિક્ષા પત્ર ૨૪",
+      "en": "Shiksha Patra 24"
+    },
+    "subtitle": {
+      "hi": "भगवत्कृपा, श्रीमदाचार्यजी का दृढ़ आश्रय व अष्टाक्षर मंत्र",
+      "gu": "ભગવત્કૃપા, શ્રીમદાચાર્યજીનો દૃઢ આશ્રય અને અષ્ટાક્ષર મંત્ર",
+      "en": "Divine Grace, Firm Refuge in Acharyaji & the Ashtakshara Mantra"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_24.json"
+  },
+  {
+    "id": "ch_sp_25",
+    "order": 25,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र २५",
+      "gu": "શિક્ષા પત્ર ૨૫",
+      "en": "Shiksha Patra 25"
+    },
+    "subtitle": {
+      "hi": "फलात्मक श्रीमदाचार्यचरणद्वय व भगवत्कृपा की प्रधानता",
+      "gu": "ફળાત્મક શ્રીમદાચાર્યચરણદ્વય અને ભગવત્કૃપાની પ્રધાનતા",
+      "en": "Acharyaji's Lotus Feet as Ultimate Fruit & Primacy of Grace"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_25.json"
+  },
+  {
+    "id": "ch_sp_26",
+    "order": 26,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र २६",
+      "gu": "શિક્ષા પત્ર ૨૬",
+      "en": "Shiksha Patra 26"
+    },
+    "subtitle": {
+      "hi": "प्रभुकृपा, श्रीआचार्य-चरणाश्रय और भगवद्भाव की रक्षा",
+      "gu": "પ્રભુકૃપા, શ્રીઆચાર્ય-ચરણાશ્રય અને ભગવદ્ભાવની રક્ષા",
+      "en": "Divine Grace, Refuge in Shri Acharyaji, and Guarding Bhava"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_26.json"
+  },
+  {
+    "id": "ch_sp_27",
+    "order": 27,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र २७",
+      "gu": "શિક્ષા પત્ર ૨૭",
+      "en": "Shiksha Patra 27"
+    },
+    "subtitle": {
+      "hi": "भगवद्विस्मारक दोष, सावधानी और श्रीआचार्य-आश्रय से फल-विश्वास",
+      "gu": "ભગવદ્વિસ્મારક દોષો, સાવધાની અને શ્રીઆચાર્ય-આશ્રયથી ફળ-વિશ્વાસ",
+      "en": "Faults Causing Forgetfulness of Hari and Faith in Shri Acharyaji"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_27.json"
+  },
+  {
+    "id": "ch_sp_28",
+    "order": 28,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र २८",
+      "gu": "શિક્ષા પત્ર ૨૮",
+      "en": "Shiksha Patra 28"
+    },
+    "subtitle": {
+      "hi": "दीनता के आविर्भावपूर्वक श्रीभगवान से विज्ञप्ति और प्रार्थना",
+      "gu": "દીનતાના આવિર્ભાવપૂર્વક શ્રીભગવાનને વિજ્ઞપ્તિ અને પ્રાર્થના",
+      "en": "Humble Supplication (Dainya) and Prayer to the Lord"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_28.json"
+  },
+  {
+    "id": "ch_sp_29",
+    "order": 29,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र २९",
+      "gu": "શિક્ષા પત્ર ૨૯",
+      "en": "Shiksha Patra 29"
+    },
+    "subtitle": {
+      "hi": "बुद्धिरत्न की रक्षा और सत्संग-स्मरण-शरणागति का महत्त्व",
+      "gu": "બુદ્ધિરત્નની રક્ષા અને સત્સંગ-સ્મરણ-શરણાગતિનું મહત્ત્વ",
+      "en": "Safeguarding the Jewel of Intellect Through Satsanga and Surrender"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_29.json"
+  },
+  {
+    "id": "ch_sp_30",
+    "order": 30,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ३०",
+      "gu": "શિક્ષા પત્ર ૩૦",
+      "en": "Shiksha Patra 30"
+    },
+    "subtitle": {
+      "hi": "पुष्टिमार्ग के षट् साधन और सत्संग की सर्वोपरिता",
+      "gu": "પુષ્ટિમાર્ગનાં ષટ્ સાધનો અને સત્સંગની સર્વોપરિતા",
+      "en": "The Six Requisites of Pushtimarga and Supremacy of Satsanga"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_30.json"
+  },
+  {
+    "id": "ch_sp_31",
+    "order": 31,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ३१",
+      "gu": "શિક્ષા પત્ર ૩૧",
+      "en": "Shiksha Patra 31"
+    },
+    "subtitle": {
+      "hi": "भगवत्-वरण के भेद, निश्चिंतता और आर्त्तिपूर्वक सेवा",
+      "gu": "ભગવત્-વરણના ભેદો, નિશ્ચિંતતા અને આર્ત્તિપૂર્વક સેવા",
+      "en": "Types of Divine Election (Varana), Freedom from Worry, and Arti"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_31.json"
+  },
+  {
+    "id": "ch_sp_32",
+    "order": 32,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ३२",
+      "gu": "શિક્ષા પત્ર ૩૨",
+      "en": "Shiksha Patra 32"
+    },
+    "subtitle": {
+      "hi": "हृदय में भगवत्प्रवेश के बाधक दोष और साधक गुण",
+      "gu": "હૃદયમાં ભગવત્પ્રવેશના બાધક દોષો અને સાધક ગુણો",
+      "en": "Faults Blocking and Virtues Inviting the Lord into the Heart"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_32.json"
+  },
+  {
+    "id": "ch_sp_33",
+    "order": 33,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ३३",
+      "gu": "શિક્ષા પત્ર ૩૩",
+      "en": "Shiksha Patra 33"
+    },
+    "subtitle": {
+      "hi": "भगवदिच्छा, परम साधन दैन्य और श्रीआचार्यजी का दृढ़ आश्रय",
+      "gu": "ભગવદિચ્છા, પરમ સાધન દૈન્ય અને શ્રીઆચાર્યજીનો દૃઢ આશ્રય",
+      "en": "Divine Will, Humility as Supreme Means, and Refuge in Shri Acharyaji"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_33.json"
+  },
+  {
+    "id": "ch_sp_34",
+    "order": 34,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ३४",
+      "gu": "શિક્ષા પત્ર ૩૪",
+      "en": "Shiksha Patra 34"
+    },
+    "subtitle": {
+      "hi": "मुखारविंद व चरणारविंद भक्ति, सर्वात्मभाव, दैन्य और विरहभाव",
+      "gu": "મુખારવિંદ અને ચરણારવિંદ ભક્તિ, સર્વાત્મભાવ, દૈન્ય અને વિરહભાવ",
+      "en": "Mukharavinda vs. Charanaravinda Bhakti, Sarvatmabhava, Dainya & Viraha"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_34.json"
+  },
+  {
+    "id": "ch_sp_35",
+    "order": 35,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ३५",
+      "gu": "શિક્ષા પત્ર ૩૫",
+      "en": "Shiksha Patra 35"
+    },
+    "subtitle": {
+      "hi": "विजातीय संग का महादुःख और त्रिविध दुष्टों के लक्षण",
+      "gu": "વિજાતીય સંગનું મહાદુઃખ અને ત્રિવિધ દુષ્ટોનાં લક્ષણ",
+      "en": "Anguish of Bad Company & the Three Types of Adversaries"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_35.json"
+  },
+  {
+    "id": "ch_sp_36",
+    "order": 36,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ३६",
+      "gu": "શિક્ષા પત્ર ૩૬",
+      "en": "Shiksha Patra 36"
+    },
+    "subtitle": {
+      "hi": "लौकिक चिंता का त्याग, प्रतिबंध-निवृत्ति और श्रीहरि-आश्रय",
+      "gu": "લૌકિક ચિંતાનો ત્યાગ, પ્રતિબંધ-નિવૃત્તિ અને શ્રીહરિ-આશ્રય",
+      "en": "Renouncing Worldly Anxiety, Removing Obstacles & Refuge in Shri Hari"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_36.json"
+  },
+  {
+    "id": "ch_sp_37",
+    "order": 37,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ३७",
+      "gu": "શિક્ષા પત્ર ૩૭",
+      "en": "Shiksha Patra 37"
+    },
+    "subtitle": {
+      "hi": "अहर्निश अपनी निःसाधनता की भावना",
+      "gu": "અહર્નિશ પોતાની નિઃસાધનતાની ભાવના",
+      "en": "Constant Contemplation of One's Utter Helplessness (Nihsadhanata)"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_37.json"
+  },
+  {
+    "id": "ch_sp_38",
+    "order": 38,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ३८",
+      "gu": "શિક્ષા પત્ર ૩૮",
+      "en": "Shiksha Patra 38"
+    },
+    "subtitle": {
+      "hi": "रसात्मक पूर्णपुरुषोत्तम श्रीकृष्ण का स्वरूप और मानसी सेवा",
+      "gu": "રસાત્મક પૂર્ણપુરુષોત્તમ શ્રીકૃષ્ણનું સ્વરૂપ અને માનસી સેવા",
+      "en": "Rasa-Embodied Purna Purushottama Shri Krishna & Manasi Seva"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_38.json"
+  },
+  {
+    "id": "ch_sp_39",
+    "order": 39,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ३९",
+      "gu": "શિક્ષા પત્ર ૩૯",
+      "en": "Shiksha Patra 39"
+    },
+    "subtitle": {
+      "hi": "सत्संग, निवेदन-अनुसंधान और श्रीकृष्ण-सेवा की महिमा",
+      "gu": "સત્સંગ, નિવેદન-અનુસંધાન અને શ્રીકૃષ્ણ-સેવાનો મહિમા",
+      "en": "Satsanga, Contemplating Nivedana & the Glory of Shri Krishna's Seva"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_39.json"
+  },
+  {
+    "id": "ch_sp_40",
+    "order": 40,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ४०",
+      "gu": "શિક્ષા પત્ર ૪૦",
+      "en": "Shiksha Patra 40"
+    },
+    "subtitle": {
+      "hi": "दीनता, तीव्र व्रज-विरहभाव और विचारपूर्वक संग की शिक्षा",
+      "gu": "દીનતા, તીવ્ર વ્રજ-વિરહભાવ અને વિચારપૂર્વક સંગની શિક્ષા",
+      "en": "Profound Humility, Intense Vraja Viraha & Discernment in Association"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_40.json"
+  },
+  {
+    "id": "ch_sp_41",
+    "order": 41,
+    "isVisible": true,
+    "title": {
+      "hi": "शिक्षा पत्र ४१",
+      "gu": "શિક્ષા પત્ર ૪૧",
+      "en": "Shiksha Patra 41"
+    },
+    "subtitle": {
+      "hi": "पुष्टिमार्ग का संपूर्ण सिद्धांत: शुद्ध भाव, सेवाफल, सत्संग व आर्ति",
+      "gu": "પુષ્ટિમાર્ગનો સંપૂર્ણ સિદ્ધાંત: શુદ્ધ ભાવ, સેવાફળ, સત્સંગ અને આર્તિ",
+      "en": "Essence of Pushtimarga: Pure Bhava, Seva as Means & Fruit, Satsanga & Arti"
+    },
+    "audioUrl": {
+      "hi": "",
+      "gu": "",
+      "en": ""
+    },
+    "contentUrl": "chapters/book_shiksha_patra/ch_sp_41.json"
+  }
+]
