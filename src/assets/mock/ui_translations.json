@@ -128,5 +128,65 @@
     "hi": "ऐप से बाहर निकलने के लिए फिर से बैक दबाएं",
     "gu": "એપમાંથી બહાર નીકળવા માટે ફરી પાછા દબાવો",
     "en": "Press back again to exit"
+  },
+  "login_title": {
+    "en": "Sign In to Continue",
+    "hi": "आगे बढ़ने के लिए लॉग इन करें",
+    "gu": "આગળ વધવા માટે લોગ ઇન કરો"
+  },
+  "login_subtitle": {
+    "en": "One-time registration on this device",
+    "hi": "इस डिवाइस पर एक बार का पंजीकरण",
+    "gu": "આ ઉપકરણ પર એક વખતની નોંધણી"
+  },
+  "login_name_label": {
+    "en": "Full Name",
+    "hi": "पूरा नाम",
+    "gu": "પૂરું નામ"
+  },
+  "login_email_label": {
+    "en": "Email Address",
+    "hi": "ईमेल पता",
+    "gu": "ઈમેલ સરનામું"
+  },
+  "login_mobile_label": {
+    "en": "Mobile Number",
+    "hi": "मोबाइल नंबर",
+    "gu": "મોબાઇલ નંબર"
+  },
+  "login_state_label": {
+    "en": "State",
+    "hi": "राज्य",
+    "gu": "રાજ્ય"
+  },
+  "login_unique_id_label": {
+    "en": "Roll Number / Unique ID",
+    "hi": "रोल नंबर / यूनिक आईडी",
+    "gu": "રોલ નંબર / યુનિક આઈડી"
+  },
+  "login_submit_button": {
+    "en": "Login & Continue",
+    "hi": "लॉग इन करें और आगे बढ़ें",
+    "gu": "લોગ ઇન કરો અને આગળ વધો"
+  },
+  "login_other_device_title": {
+    "en": "Active Session Found",
+    "hi": "सक्रिय सत्र मिला",
+    "gu": "સક્રિય સત્ર મળ્યું"
+  },
+  "login_other_device_message": {
+    "en": "Your login session will terminate on other devices.",
+    "hi": "अन्य डिवाइस पर आपका लॉग इन सत्र समाप्त हो जाएगा।",
+    "gu": "અન્ય ઉપકરણો પર તમારું લોગ ઇન સત્ર સમાપ્ત થઈ જશે."
+  },
+  "ok_button": {
+    "en": "OK",
+    "hi": "ठीक है",
+    "gu": "ઓકે"
+  },
+  "cancel_button": {
+    "en": "Cancel",
+    "hi": "रद्द करें",
+    "gu": "રદ કરો"
   }
 }
