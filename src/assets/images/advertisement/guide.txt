@@ -1,0 +1,36 @@
+================================================================================
+FOLDER: src/assets/images/advertisement/
+PURPOSE: Sticky Bottom Advertisement Carousel Banners
+================================================================================
+
+1. FILES IN THIS FOLDER
+-----------------------
+- <unique_name>.jpg (e.g., banner_1.jpg, event_promo_2026.jpg)
+  * Usage: Displayed in the sticky bottom ad strip (~15% screen height)
+  * Format: JPG, PNG, or WEBP
+  * Dimensions: 1200 x 240 px (5:1) or 1080 x 216 px (5:1) wide banner
+  * Recommended Size: 40 KB - 150 KB (Max: 300 KB)
+  * Tip: Keep important text centered and away from outer edges.
+
+2. SAMPLE JSON REFERENCE (in src/assets/mock/advertisement.json)
+----------------------------------------------------------------
+[
+  {
+    "id": 1,
+    "uniqueName": "banner_1.jpg",
+    "order": 1,
+    "isEnabled": true,
+    "fromDate": "2026-01-01",
+    "toDate": "2026-12-31",
+    "url": "https://your-website.com/offer",
+    "imagePath": "images/advertisement/banner_1.jpg"
+  }
+]
+
+3. STEP-BY-STEP FOR NEW TENANT
+------------------------------
+Step 1: Design your 5:1 wide banner image (e.g., 1200x240 px) in lowercase.
+Step 2: Upload the image into src/assets/images/advertisement/.
+Step 3: Add a matching entry in src/assets/mock/advertisement.json with
+        "imagePath": "images/advertisement/<your_file>.jpg".
+Step 4: Set "isEnabled": false in advertisement.json to hide an ad anytime.
